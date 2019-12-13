@@ -1,0 +1,1476 @@
+﻿Log file open, 12/04/19 20:08:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Qinsword
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.238622
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HoudiniEngine
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6063286
+LogInit: Engine Version: 4.22.1-6063286+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Apr 24 2019 04:36:48
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Engine.ini]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Engine.ini]
+[2019.12.04-12.08.37:938][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Engine.ini]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Engine.ini]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.04-12.08.37:938][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Engine.ini]
+[2019.12.04-12.08.37:938][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Engine.ini]
+[2019.12.04-12.08.37:945][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.04-12.08.37:945][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.04-12.08.37:946][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.08.37:946][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.04-12.08.37:946][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.04-12.08.37:946][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.04-12.08.37:946][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.04-12.08.37:946][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.04-12.08.37:946][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.04-12.08.37:946][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.04-12.08.37:946][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.04-12.08.37:946][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.08.37:946][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.04-12.08.37:946][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.04-12.08.37:946][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.04-12.08.37:946][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.04-12.08.37:946][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.04-12.08.37:946][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.04-12.08.37:946][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.04-12.08.37:946][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.04-12.08.37:946][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.04-12.08.37:946][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.04-12.08.37:946][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.04-12.08.37:946][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.04-12.08.37:946][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.04-12.08.37:946][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.08.37:946][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.04-12.08.37:946][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.04-12.08.37:946][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.04-12.08.37:946][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.04-12.08.37:954][  0]LogHAL: Display: Platform has ~ 16 GB [17093140480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.12.04-12.08.37:954][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.04-12.08.37:954][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.04-12.08.37:954][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.04-12.08.37:955][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Engine.ini]
+[2019.12.04-12.08.37:955][  0]LogInit: Computer: DESKTOP-H85HJKG
+[2019.12.04-12.08.37:955][  0]LogInit: User: dott
+[2019.12.04-12.08.37:955][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.12.04-12.08.37:956][  0]LogInit: High frequency timer resolution =2.929685 MHz
+[2019.12.04-12.08.37:956][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.12.04-12.08.37:956][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.04-12.08.37:956][  0]LogMemory: Process Physical Memory: 97.28 MB used, 97.28 MB peak
+[2019.12.04-12.08.37:956][  0]LogMemory: Process Virtual Memory: 96.23 MB used, 96.23 MB peak
+[2019.12.04-12.08.37:956][  0]LogMemory: Physical Memory: 7161.41 MB used,  9139.88 MB free, 16301.29 MB total
+[2019.12.04-12.08.37:956][  0]LogMemory: Virtual Memory: 4657.91 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.12.04-12.08.37:984][  0]LogInit: Using OS detected language (zh-CN).
+[2019.12.04-12.08.37:984][  0]LogInit: Using OS detected locale (zh-CN).
+[2019.12.04-12.08.37:985][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh-Hans-CN/Editor.locres' could not be opened for reading!
+[2019.12.04-12.08.37:986][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh-Hans-CN/EditorTutorials.locres' could not be opened for reading!
+[2019.12.04-12.08.37:986][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh-Hans-CN/Keywords.locres' could not be opened for reading!
+[2019.12.04-12.08.37:986][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh-Hans-CN/Category.locres' could not be opened for reading!
+[2019.12.04-12.08.37:986][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh-Hans-CN/ToolTips.locres' could not be opened for reading!
+[2019.12.04-12.08.37:986][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh-Hans-CN/PropertyNames.locres' could not be opened for reading!
+[2019.12.04-12.08.37:986][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh-Hans-CN/Engine.locres' could not be opened for reading!
+[2019.12.04-12.08.37:986][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh-Hans-CN/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.12.04-12.08.37:986][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh-Hans-CN/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.12.04-12.08.37:986][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh-Hans-CN/OnlineSubsystem.locres' could not be opened for reading!
+[2019.12.04-12.08.37:986][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh-Hans-CN/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.12.04-12.08.38:027][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh-CN/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.12.04-12.08.38:027][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh-CN/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.12.04-12.08.38:027][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh-CN/OnlineSubsystem.locres' could not be opened for reading!
+[2019.12.04-12.08.38:028][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh-CN/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.12.04-12.08.38:028][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh-Hans/Editor.locres' could not be opened for reading!
+[2019.12.04-12.08.38:028][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh-Hans/EditorTutorials.locres' could not be opened for reading!
+[2019.12.04-12.08.38:028][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh-Hans/Keywords.locres' could not be opened for reading!
+[2019.12.04-12.08.38:028][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh-Hans/Category.locres' could not be opened for reading!
+[2019.12.04-12.08.38:028][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh-Hans/ToolTips.locres' could not be opened for reading!
+[2019.12.04-12.08.38:028][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh-Hans/PropertyNames.locres' could not be opened for reading!
+[2019.12.04-12.08.38:028][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh-Hans/Engine.locres' could not be opened for reading!
+[2019.12.04-12.08.38:029][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2019.12.04-12.08.38:029][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2019.12.04-12.08.38:029][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2019.12.04-12.08.38:029][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2019.12.04-12.08.38:029][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2019.12.04-12.08.38:029][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2019.12.04-12.08.38:029][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2019.12.04-12.08.38:029][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.12.04-12.08.38:029][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.12.04-12.08.38:029][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2019.12.04-12.08.38:029][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.12.04-12.08.38:054][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.04-12.08.38:102][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.04-12.08.38:102][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.04-12.08.38:332][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.04-12.08.38:332][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.04-12.08.38:394][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.12.04-12.08.38:394][  0]LogD3D11RHI:       8088/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.12.04-12.08.38:396][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.04-12.08.38:396][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.04-12.08.38:396][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.04-12.08.38:404][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.04-12.08.38:405][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.04-12.08.38:405][  0]LogWindows: EnumDisplayDevices:
+[2019.12.04-12.08.38:405][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.12.04-12.08.38:406][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2019.12.04-12.08.38:406][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.04-12.08.38:407][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.04-12.08.38:407][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.12.04-12.08.38:407][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.12.04-12.08.38:407][  0]LogD3D11RHI:   Driver Version: 441.41 (internal:26.21.14.4141, unified:441.41)
+[2019.12.04-12.08.38:407][  0]LogD3D11RHI:      Driver Date: 11-20-2019
+[2019.12.04-12.08.38:407][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.12.04-12.08.38:445][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.04-12.08.38:457][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.04-12.08.38:457][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.04-12.08.38:457][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.04-12.08.38:465][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.04-12.08.38:789][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.04-12.08.38:800][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.04-12.08.38:811][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.04-12.08.38:823][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.04-12.08.38:834][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.04-12.08.38:849][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.04-12.08.38:862][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.04-12.08.38:874][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.04-12.08.38:879][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.04-12.08.38:950][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.04-12.08.38:950][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.04-12.08.38:950][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.04-12.08.38:950][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.04-12.08.38:950][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.04-12.08.38:950][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.04-12.08.38:950][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.04-12.08.38:950][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.04-12.08.38:950][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.04-12.08.38:950][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.04-12.08.38:950][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.04-12.08.38:950][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.04-12.08.38:950][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.04-12.08.38:950][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.04-12.08.38:950][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.04-12.08.38:950][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.04-12.08.38:950][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.04-12.08.38:950][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.04-12.08.38:952][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.04-12.08.38:997][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.04-12.08.38:998][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.04-12.08.39:019][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.04-12.08.39:019][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.04-12.08.39:029][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.04-12.08.39:040][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.04-12.08.39:052][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.04-12.08.39:063][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.04-12.08.39:103][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.04-12.08.39:103][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.04-12.08.39:103][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.04-12.08.39:111][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.04-12.08.39:148][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../../../Unreal Projects/-/Qinsword/Intermediate/Shaders/WorkingDirectory/19720/).
+[2019.12.04-12.08.39:148][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/dott/AppData/Local/Temp/UnrealShaderWorkingDir/8D31769B46C3D4A6C270CEB4F149BC8E/'.
+[2019.12.04-12.08.39:150][  0]LogXGEController: Cleaning working directory: C:/Users/dott/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.04-12.08.39:150][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.04-12.08.39:150][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.04-12.08.39:150][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.04-12.08.39:678][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.04-12.08.39:729][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/dott/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.12.04-12.08.39:729][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/dott/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.12.04-12.08.39:729][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal Projects/-/Qinsword/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.04-12.08.39:729][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.04-12.08.39:729][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal Projects/-/Qinsword/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.04-12.08.39:729][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.04-12.08.39:741][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.04-12.08.39:742][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.04-12.08.39:742][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.04-12.08.39:754][  0]LogDerivedDataCache: Using Local data cache path C:/Users/dott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.04-12.08.39:754][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.04-12.08.39:754][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.04-12.08.39:772][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.04-12.08.39:773][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.04-12.08.39:773][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.04-12.08.39:864][  0]LogAssetRegistry: FAssetRegistry took 0.0323 seconds to start up
+[2019.12.04-12.08.40:172][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.04-12.08.40:303][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.04-12.08.40:303][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.04-12.08.40:303][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.04-12.08.40:303][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.04-12.08.40:303][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.04-12.08.40:313][  0]LogNetVersion: Qinsword 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4280585389)
+[2019.12.04-12.08.40:861][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 4 prioritized culture(s) in 0.214375 seconds
+[2019.12.04-12.08.40:868][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.12.04-12.08.40:868][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.12.04-12.08.40:868][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.04-12.08.41:755][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.04-12.08.41:769][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.04-12.08.41:877][  0]SourceControl: 源码控制已禁用
+[2019.12.04-12.08.41:885][  0]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.12.04-12.08.41:886][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.12.04-12.08.41:886][  0]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.12.04-12.08.41:886][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.12.04-12.08.41:886][  0]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.12.04-12.08.41:886][  0]LogWindows: Warning: URL: C:\Users\dott\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.12.04-12.08.41:886][  0]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.12.04-12.08.41:886][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.12.04-12.08.41:886][  0]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2019.12.04-12.08.41:886][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.12.04-12.08.43:036][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.12.04-12.08.43:036][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.12.04-12.08.43:112][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.04-12.08.43:237][  0]LogHoudiniEngine: Starting the Houdini Engine module.
+[2019.12.04-12.08.43:238][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path D:/Program Files/Houdini 17.5.258/bin
+[2019.12.04-12.08.43:239][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_logo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.12.04-12.08.43:242][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.12.04-12.08.43:247][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_bgeo_import.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.12.04-12.08.46:257][  0]LogHoudiniEngine: Error: Failed to create a Houdini Engine session
+[2019.12.04-12.08.46:257][  0]LogHoudiniEngine: Starting up the Houdini Engine API module failed: Generic Failure
+[2019.12.04-12.08.46:273][  0]LogOcInput: OculusInput pre-init called
+[2019.12.04-12.08.47:023][  0]LogEngine: Initializing Engine...
+[2019.12.04-12.08.47:024][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.04-12.08.47:024][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.04-12.08.47:232][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.04-12.08.47:242][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.04-12.08.47:279][  0]LogInit: XAudio2 using '扬声器 (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.04-12.08.47:313][  0]LogInit: FAudioDevice initialized.
+[2019.12.04-12.08.47:313][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.04-12.08.47:534][  0]LogDerivedDataCache: Saved boot cache 0.22s 71MB C:/Users/dott/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.12.04-12.08.47:542][  0]LogInit: Texture streaming: Enabled
+[2019.12.04-12.08.47:556][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.04-12.08.47:571][  0]LogInit: Transaction tracking system initialized
+[2019.12.04-12.08.47:598][  0]BlueprintLog: New page: 编辑器加载
+[2019.12.04-12.08.47:666][  0]LocalizationService: 本地化服务已禁用
+[2019.12.04-12.08.47:771][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.12.04-12.08.47:771][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.12.04-12.08.47:919][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.04-12.08.47:919][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.04-12.08.48:010][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/-/Qinsword/Content/' took 0.02s
+[2019.12.04-12.08.48:010][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2019.12.04-12.08.48:011][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2019.12.04-12.08.48:092][  0]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/-/Qinsword/Content/StarterContent/map/cunzhuang.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.04-12.08.48:092][  0]LightingResults: New page: 光照构建
+[2019.12.04-12.08.48:094][  0]MapCheck: New page: 地图检测
+[2019.12.04-12.08.48:094][  0]LightingResults: New page: 光照构建
+[2019.12.04-12.08.48:117][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.12.04-12.08.48:255][  0]LogLinker: Warning: 无法找到文件 '/Game/StarterContent/场景道具/农具/铁犁_tieli'
+[2019.12.04-12.08.48:256][  0]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/StarterContent/场景道具/农具/铁犁_tieli’ 的文件。
+[2019.12.04-12.08.48:454][  0]LogLinker: Warning: 无法找到文件 '/Game/StarterContent/场景道具/农具/铁犁_tieli'
+[2019.12.04-12.08.48:454][  0]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/StarterContent/场景道具/农具/铁犁_tieli’ 的文件。
+[2019.12.04-12.08.48:487][  0]LogLinker: Warning: 无法找到文件 '/Game/StarterContent/场景道具/农具/铁犁_tieli'
+[2019.12.04-12.08.48:487][  0]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/StarterContent/场景道具/农具/铁犁_tieli’ 的文件。
+[2019.12.04-12.08.48:487][  0]LogLinker: Warning: 无法找到文件 '/Game/StarterContent/场景道具/农具/铁犁_tieli'
+[2019.12.04-12.08.48:487][  0]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/StarterContent/场景道具/农具/铁犁_tieli’ 的文件。
+[2019.12.04-12.08.48:543][  0]LogLinker: Warning: 无法找到文件 '/Game/StarterContent/场景道具/农具/铁犁_tieli'
+[2019.12.04-12.08.48:543][  0]LoadErrors: 加载失败 /Game/StarterContent/场景道具/农具/铁犁_tieli.铁犁_tieli 引用者 StaticMeshComponent0
+[2019.12.04-12.08.48:543][  0]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/StarterContent/场景道具/农具/铁犁_tieli’ 的文件。
+[2019.12.04-12.08.48:721][  0]LogTexture: Display: 正在编译纹理：生物（AutoDXT、2048X2048）
+[2019.12.04-12.08.48:721][  0]LogTexture: Display: 正在编译纹理：bob（AutoDXT、2048X2048）
+[2019.12.04-12.08.48:721][  0]LogTexture: Display: 正在编译纹理：HQ_Lightmap0_2（AutoDXT、512X512）
+[2019.12.04-12.08.48:721][  0]LogTexture: Display: 正在编译纹理：HQ_Lightmap0_1（AutoDXT、1024X1024）
+[2019.12.04-12.08.48:721][  0]LogStaticMesh: 正在构建静态网格体 栅栏_2……
+[2019.12.04-12.08.48:792][  0]LogStaticMesh: Built static mesh [0.08s] /Game/StarterContent/场景道具/厨房用具/栅栏_2.栅栏_2
+[2019.12.04-12.08.48:816][  0]LogStaticMesh: 正在构建静态网格体 栅栏_1……
+[2019.12.04-12.08.48:827][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/厨房用具/栅栏_1.栅栏_1
+[2019.12.04-12.08.48:830][  0]LogStaticMesh: 正在构建静态网格体 八卦石阵……
+[2019.12.04-12.08.48:917][  0]LogTexture: Display: 正在编译纹理：HQ_Lightmap1_10（AutoDXT、128X128）
+[2019.12.04-12.08.48:917][  0]LogStaticMesh: Built static mesh [0.09s] /Game/StarterContent/场景道具/装饰/八卦石阵.八卦石阵
+[2019.12.04-12.08.48:925][  0]LogStaticMesh: 正在构建静态网格体 柴堆……
+[2019.12.04-12.08.48:959][  0]LogTexture: Display: 正在编译纹理：HQ_Lightmap1_11（AutoDXT、128X128）
+[2019.12.04-12.08.48:959][  0]LogTexture: Display: 正在编译纹理：HQ_Lightmap1_12（AutoDXT、64X64）
+[2019.12.04-12.08.48:959][  0]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/场景道具/厨房用具/柴堆.柴堆
+[2019.12.04-12.08.48:963][  0]LogStaticMesh: 正在构建静态网格体 小埠头……
+[2019.12.04-12.08.48:994][  0]LogTexture: Display: 正在编译纹理：HQ_Lightmap1_3（AutoDXT、1024X1024）
+[2019.12.04-12.08.48:994][  0]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/场景道具/装饰/小埠头.小埠头
+[2019.12.04-12.08.48:999][  0]LogStaticMesh: 正在构建静态网格体 叉……
+[2019.12.04-12.08.49:005][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/厨房用具/叉.叉
+[2019.12.04-12.08.49:008][  0]LogStaticMesh: 正在构建静态网格体 湖岸_曲2……
+[2019.12.04-12.08.49:013][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/地形/湖/湖岸_曲2.湖岸_曲2
+[2019.12.04-12.08.49:016][  0]LogStaticMesh: 正在构建静态网格体 湖岸_曲1……
+[2019.12.04-12.08.49:020][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/地形/湖/湖岸_曲1.湖岸_曲1
+[2019.12.04-12.08.49:023][  0]LogStaticMesh: 正在构建静态网格体 石梯-孔……
+[2019.12.04-12.08.49:035][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/地形/梯子/石梯-孔.石梯-孔
+[2019.12.04-12.08.49:038][  0]LogStaticMesh: 正在构建静态网格体 火山……
+[2019.12.04-12.08.49:078][  0]LogStaticMesh: Built static mesh [0.04s] /Game/StarterContent/地形/山/火山.火山
+[2019.12.04-12.08.49:084][  0]LogTexture: Display: 正在编译纹理：HQ_Lightmap1_4（AutoDXT、256X256）
+[2019.12.04-12.08.49:085][  0]LogStaticMesh: 正在构建静态网格体 山体2green……
+[2019.12.04-12.08.49:104][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/地形/山/山体2green.山体2green
+[2019.12.04-12.08.49:135][  0]LogTexture: Display: 正在编译纹理：HQ_Lightmap1_5（AutoDXT、128X128）
+[2019.12.04-12.08.49:135][  0]LogTexture: Display: 正在编译纹理：HQ_Lightmap1_6（AutoDXT、128X128）
+[2019.12.04-12.08.49:135][  0]LogMaterial: Display: Missing cached shader map for material 生物, compiling. 
+[2019.12.04-12.08.49:261][  0]LogTexture: Display: 正在编译纹理：HQ_Lightmap1_7（AutoDXT、128X128）
+[2019.12.04-12.08.49:261][  0]LogTexture: Display: 正在编译纹理：HQ_Lightmap1_8（AutoDXT、128X128）
+[2019.12.04-12.08.49:261][  0]LogTexture: Display: 正在编译纹理：HQ_Lightmap1_9（AutoDXT、128X128）
+[2019.12.04-12.08.49:261][  0]LogTexture: Display: 正在编译纹理：LQ_Lightmap_0_2（DXT1、512X512）
+[2019.12.04-12.08.49:261][  0]LogTexture: Display: 正在编译纹理：LQ_Lightmap_0_1（DXT1、1024X1024）
+[2019.12.04-12.08.49:261][  0]LogSkeletalMesh: Building Skeletal Mesh bandong_SK...
+[2019.12.04-12.08.49:280][  0]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.12.04-12.08.49:280][  0]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.12.04-12.08.49:280][  0]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.04-12.08.49:280][  0]LogTexture: Display: 正在编译纹理：LQ_Lightmap_1_10（DXT1、128X128）
+[2019.12.04-12.08.49:280][  0]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/StarterContent/动物/bandong_SK.bandong_SK
+[2019.12.04-12.08.49:331][  0]LogTexture: Display: 正在编译纹理：LQ_Lightmap_1_11（DXT1、128X128）
+[2019.12.04-12.08.49:331][  0]LogStaticMesh: 正在构建静态网格体 柴堆_1……
+[2019.12.04-12.08.49:376][  0]LogTexture: Display: 正在编译纹理：LQ_Lightmap_1_12（DXT1、64X64）
+[2019.12.04-12.08.49:376][  0]LogTexture: Display: 正在编译纹理：LQ_Lightmap_1_3（DXT1、1024X1024）
+[2019.12.04-12.08.49:376][  0]LogStaticMesh: Built static mesh [0.05s] /Game/StarterContent/场景道具/农具/柴堆_1.柴堆_1
+[2019.12.04-12.08.49:385][  0]LogStaticMesh: 正在构建静态网格体 农具_4……
+[2019.12.04-12.08.49:395][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/农具/农具_4.农具_4
+[2019.12.04-12.08.49:397][  0]LogStaticMesh: 正在构建静态网格体 农具_3……
+[2019.12.04-12.08.49:407][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/农具/农具_3.农具_3
+[2019.12.04-12.08.49:409][  0]LogStaticMesh: 正在构建静态网格体 农具_2……
+[2019.12.04-12.08.49:415][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/农具/农具_2.农具_2
+[2019.12.04-12.08.49:419][  0]LogMaterial: Display: Missing cached shader map for material dott, compiling. 
+[2019.12.04-12.08.49:471][  0]LogStaticMesh: 正在构建静态网格体 农具_1……
+[2019.12.04-12.08.49:479][  0]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/场景道具/农具/农具_1.农具_1
+[2019.12.04-12.08.49:485][  0]LogStaticMesh: 正在构建静态网格体 石头8……
+[2019.12.04-12.08.49:488][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/地形/石头/石头8.石头8
+[2019.12.04-12.08.49:497][  0]LogStaticMesh: 正在构建静态网格体 石头7……
+[2019.12.04-12.08.49:500][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/地形/石头/石头7.石头7
+[2019.12.04-12.08.49:502][  0]LogStaticMesh: 正在构建静态网格体 石头6……
+[2019.12.04-12.08.49:506][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/地形/石头/石头6.石头6
+[2019.12.04-12.08.49:508][  0]LogStaticMesh: 正在构建静态网格体 石头5……
+[2019.12.04-12.08.49:512][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/地形/石头/石头5.石头5
+[2019.12.04-12.08.49:548][  0]LogStaticMesh: 正在构建静态网格体 山体1red……
+[2019.12.04-12.08.49:569][  0]LogStaticMesh: Built static mesh [0.04s] /Game/StarterContent/地形/山/山体1red.山体1red
+[2019.12.04-12.08.49:575][  0]LogStaticMesh: 正在构建静态网格体 小山体2……
+[2019.12.04-12.08.49:583][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/地形/山/小山体2.小山体2
+[2019.12.04-12.08.49:586][  0]LogStaticMesh: 正在构建静态网格体 小山体……
+[2019.12.04-12.08.49:602][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/地形/山/小山体.小山体
+[2019.12.04-12.08.49:608][  0]LogStaticMesh: 正在构建静态网格体 T_road3……
+[2019.12.04-12.08.49:658][  0]LogStaticMesh: Built static mesh [0.05s] /Game/StarterContent/地形/T-road/T_road3.T_road3
+[2019.12.04-12.08.49:664][  0]LogStaticMesh: 正在构建静态网格体 T_road2……
+[2019.12.04-12.08.49:678][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/地形/T-road/T_road2.T_road2
+[2019.12.04-12.08.49:691][  0]LogStaticMesh: 正在构建静态网格体 birch-tree1_birch-tree1……
+[2019.12.04-12.08.49:735][  0]LogStaticMesh: Built static mesh [0.05s] /Game/StarterContent/植物/birch-tree/birch-tree1_birch-tree1.birch-tree1_birch-tree1
+[2019.12.04-12.08.49:740][  0]LogStaticMesh: 正在构建静态网格体 birch-tree2_birch-tree2……
+[2019.12.04-12.08.49:785][  0]LogStaticMesh: Built static mesh [0.05s] /Game/StarterContent/植物/birch-tree/birch-tree2_birch-tree2.birch-tree2_birch-tree2
+[2019.12.04-12.08.49:790][  0]LogStaticMesh: 正在构建静态网格体 bush1_tree1_2……
+[2019.12.04-12.08.49:823][  0]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/植物/bush/bush1_tree1_2.bush1_tree1_2
+[2019.12.04-12.08.49:825][  0]LogStaticMesh: 正在构建静态网格体 bush2_tree3_2……
+[2019.12.04-12.08.49:843][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/植物/bush/bush2_tree3_2.bush2_tree3_2
+[2019.12.04-12.08.49:851][  0]LogStaticMesh: 正在构建静态网格体 evergreen1_evergreen1……
+[2019.12.04-12.08.49:929][  0]LogTexture: Display: 正在编译纹理：LQ_Lightmap_1_4（DXT1、256X256）
+[2019.12.04-12.08.49:929][  0]LogStaticMesh: Built static mesh [0.08s] /Game/StarterContent/植物/evergreen/evergreen1_evergreen1.evergreen1_evergreen1
+[2019.12.04-12.08.49:933][  0]LogStaticMesh: 正在构建静态网格体 evergreen2_evergreen2……
+[2019.12.04-12.08.50:014][  0]LogTexture: Display: 正在编译纹理：LQ_Lightmap_1_5（DXT1、128X128）
+[2019.12.04-12.08.50:014][  0]LogTexture: Display: 正在编译纹理：LQ_Lightmap_1_6（DXT1、128X128）
+[2019.12.04-12.08.50:014][  0]LogTexture: Display: 正在编译纹理：LQ_Lightmap_1_7（DXT1、128X128）
+[2019.12.04-12.08.50:014][  0]LogTexture: Display: 正在编译纹理：LQ_Lightmap_1_8（DXT1、128X128）
+[2019.12.04-12.08.50:014][  0]LogTexture: Display: 正在编译纹理：LQ_Lightmap_1_9（DXT1、128X128）
+[2019.12.04-12.08.50:014][  0]LogTexture: Display: 正在编译纹理：SkyOcclusion0_1（AutoDXT、1024X512）
+[2019.12.04-12.08.50:014][  0]LogStaticMesh: Built static mesh [0.08s] /Game/StarterContent/植物/evergreen/evergreen2_evergreen2.evergreen2_evergreen2
+[2019.12.04-12.08.50:017][  0]LogStaticMesh: 正在构建静态网格体 evergreen3_evergreen3……
+[2019.12.04-12.08.50:080][  0]LogTexture: Display: 正在编译纹理：SkyOcclusion0_2（AutoDXT、512X256）
+[2019.12.04-12.08.50:080][  0]LogStaticMesh: Built static mesh [0.06s] /Game/StarterContent/植物/evergreen/evergreen3_evergreen3.evergreen3_evergreen3
+[2019.12.04-12.08.50:094][  0]LogStaticMesh: 正在构建静态网格体 farmland1_farmland1……
+[2019.12.04-12.08.50:097][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/植物/farmland/farmland1_farmland1.farmland1_farmland1
+[2019.12.04-12.08.50:099][  0]LogStaticMesh: 正在构建静态网格体 farmland2_polySurface8……
+[2019.12.04-12.08.50:108][  0]LogTexture: Display: 正在编译纹理：SkyOcclusion1_10（AutoDXT、128X64）
+[2019.12.04-12.08.50:108][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/farmland/farmland2_polySurface8.farmland2_polySurface8
+[2019.12.04-12.08.50:110][  0]LogStaticMesh: 正在构建静态网格体 farmland3_polySurface60……
+[2019.12.04-12.08.50:119][  0]LogTexture: Display: 正在编译纹理：SkyOcclusion1_11（AutoDXT、128X64）
+[2019.12.04-12.08.50:119][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/farmland/farmland3_polySurface60.farmland3_polySurface60
+[2019.12.04-12.08.50:121][  0]LogTexture: Display: 正在编译纹理：SkyOcclusion1_12（AutoDXT、64X32）
+[2019.12.04-12.08.50:121][  0]LogStaticMesh: 正在构建静态网格体 farmland4_polySurface12……
+[2019.12.04-12.08.50:130][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/farmland/farmland4_polySurface12.farmland4_polySurface12
+[2019.12.04-12.08.50:131][  0]LogStaticMesh: 正在构建静态网格体 flower1_flower1……
+[2019.12.04-12.08.50:140][  0]LogTexture: Display: 正在编译纹理：SkyOcclusion1_3（AutoDXT、1024X512）
+[2019.12.04-12.08.50:141][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/flower/flower1_flower1.flower1_flower1
+[2019.12.04-12.08.50:143][  0]LogStaticMesh: 正在构建静态网格体 flower2_flower2……
+[2019.12.04-12.08.50:150][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/flower/flower2_flower2.flower2_flower2
+[2019.12.04-12.08.50:185][  0]LogStaticMesh: 正在构建静态网格体 flower3_flower3……
+[2019.12.04-12.08.50:191][  0]LogStaticMesh: Built static mesh [0.04s] /Game/StarterContent/植物/flower/flower3_flower3.flower3_flower3
+[2019.12.04-12.08.50:210][  0]LogStaticMesh: 正在构建静态网格体 flower4_flower4……
+[2019.12.04-12.08.50:212][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/植物/flower/flower4_flower4.flower4_flower4
+[2019.12.04-12.08.50:218][  0]LogStaticMesh: 正在构建静态网格体 flower5_flower5……
+[2019.12.04-12.08.50:221][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/flower/flower5_flower5.flower5_flower5
+[2019.12.04-12.08.50:223][  0]LogStaticMesh: 正在构建静态网格体 grass1_grass3……
+[2019.12.04-12.08.50:251][  0]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/植物/grass/grass1_grass3.grass1_grass3
+[2019.12.04-12.08.50:252][  0]LogStaticMesh: 正在构建静态网格体 grass2_grass2……
+[2019.12.04-12.08.50:259][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/grass/grass2_grass2.grass2_grass2
+[2019.12.04-12.08.50:261][  0]LogStaticMesh: 正在构建静态网格体 house_4_house_4……
+[2019.12.04-12.08.51:432][  0]LogTexture: Display: 正在编译纹理：SkyOcclusion1_4（AutoDXT、256X128）
+[2019.12.04-12.08.51:432][  0]LogTexture: Display: 正在编译纹理：SkyOcclusion1_5（AutoDXT、128X64）
+[2019.12.04-12.08.51:432][  0]LogTexture: Display: 正在编译纹理：SkyOcclusion1_6（AutoDXT、128X64）
+[2019.12.04-12.08.51:432][  0]LogTexture: Display: 正在编译纹理：SkyOcclusion1_7（AutoDXT、128X64）
+[2019.12.04-12.08.51:432][  0]LogTexture: Display: 正在编译纹理：SkyOcclusion1_8（AutoDXT、128X64）
+[2019.12.04-12.08.51:432][  0]LogTexture: Display: 正在编译纹理：SkyOcclusion1_9（AutoDXT、128X64）
+[2019.12.04-12.08.51:432][  0]LogTexture: Display: 正在编译纹理：ShadowMapTexture2D_58（G8、1024X512）
+[2019.12.04-12.08.51:432][  0]LogTexture: Display: 正在编译纹理：ShadowMapTexture2D_59（G8、1024X512）
+[2019.12.04-12.08.51:432][  0]LogTexture: Display: 正在编译纹理：ShadowMapTexture2D_60（G8、128X64）
+[2019.12.04-12.08.51:432][  0]LogTexture: Display: 正在编译纹理：ShadowMapTexture2D_61（G8、64X64）
+[2019.12.04-12.08.51:432][  0]LogTexture: Display: 正在编译纹理：ShadowMapTexture2D_63（G8、64X64）
+[2019.12.04-12.08.51:432][  0]LogTexture: Display: 正在编译纹理：ShadowMapTexture2D_62（G8、64X64）
+[2019.12.04-12.08.51:432][  0]LogTexture: Display: 正在编译纹理：ShadowMapTexture2D_64（G8、64X64）
+[2019.12.04-12.08.51:432][  0]LogTexture: Display: 正在编译纹理：ShadowMapTexture2D_65（G8、64X64）
+[2019.12.04-12.08.51:432][  0]LogTexture: Display: 正在编译纹理：ShadowMapTexture2D_67（G8、64X64）
+[2019.12.04-12.08.51:432][  0]LogTexture: Display: 正在编译纹理：ShadowMapTexture2D_66（G8、64X64）
+[2019.12.04-12.08.51:432][  0]LogTexture: Display: 正在编译纹理：ShadowMapTexture2D_68（G8、32X32）
+[2019.12.04-12.08.51:432][  0]LogStaticMesh: Built static mesh [1.17s] /Game/StarterContent/建筑/house_4_house_4.house_4_house_4
+[2019.12.04-12.08.51:500][  0]LogStaticMesh: 正在构建静态网格体 house_6_布庄_house_6_1……
+[2019.12.04-12.08.54:097][  0]LogStaticMesh: Built static mesh [2.60s] /Game/StarterContent/建筑/house_6_布庄_house_6_1.house_6_布庄_house_6_1
+[2019.12.04-12.08.54:228][  0]LogStaticMesh: 正在构建静态网格体 house_6_布庄_house_6_2……
+[2019.12.04-12.08.54:302][  0]LogStaticMesh: Built static mesh [0.09s] /Game/StarterContent/建筑/house_6_布庄_house_6_2.house_6_布庄_house_6_2
+[2019.12.04-12.08.54:306][  0]LogStaticMesh: 正在构建静态网格体 house_7_house_7……
+[2019.12.04-12.08.54:393][  0]LogStaticMesh: Built static mesh [0.09s] /Game/StarterContent/建筑/house_7_house_7.house_7_house_7
+[2019.12.04-12.08.54:409][  0]LogStaticMesh: 正在构建静态网格体 lotusleaf1……
+[2019.12.04-12.08.54:413][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/植物/荷花/lotusleaf1.lotusleaf1
+[2019.12.04-12.08.54:415][  0]LogStaticMesh: 正在构建静态网格体 lotusleaf2……
+[2019.12.04-12.08.54:419][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/植物/荷花/lotusleaf2.lotusleaf2
+[2019.12.04-12.08.54:421][  0]LogStaticMesh: 正在构建静态网格体 melon1……
+[2019.12.04-12.08.54:429][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/melon/melon1.melon1
+[2019.12.04-12.08.54:430][  0]LogStaticMesh: 正在构建静态网格体 melon2……
+[2019.12.04-12.08.54:440][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/melon/melon2.melon2
+[2019.12.04-12.08.54:442][  0]LogStaticMesh: 正在构建静态网格体 melon3……
+[2019.12.04-12.08.54:450][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/melon/melon3.melon3
+[2019.12.04-12.08.54:452][  0]LogStaticMesh: 正在构建静态网格体 mushroom1……
+[2019.12.04-12.08.54:455][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/植物/mushroom/mushroom1.mushroom1
+[2019.12.04-12.08.54:458][  0]LogStaticMesh: 正在构建静态网格体 mushroom2……
+[2019.12.04-12.08.54:461][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/植物/mushroom/mushroom2.mushroom2
+[2019.12.04-12.08.54:463][  0]LogStaticMesh: 正在构建静态网格体 mushroom3……
+[2019.12.04-12.08.54:468][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/mushroom/mushroom3.mushroom3
+[2019.12.04-12.08.54:470][  0]LogStaticMesh: 正在构建静态网格体 mushroom4……
+[2019.12.04-12.08.54:480][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/mushroom/mushroom4.mushroom4
+[2019.12.04-12.08.54:484][  0]LogStaticMesh: 正在构建静态网格体 peach_tree1……
+[2019.12.04-12.08.54:625][  0]LogStaticMesh: Built static mesh [0.14s] /Game/StarterContent/植物/peach_tree/peach_tree1.peach_tree1
+[2019.12.04-12.08.54:637][  0]LogStaticMesh: 正在构建静态网格体 peach_tree2……
+[2019.12.04-12.08.54:738][  0]LogStaticMesh: Built static mesh [0.10s] /Game/StarterContent/植物/peach_tree/peach_tree2.peach_tree2
+[2019.12.04-12.08.54:745][  0]LogStaticMesh: 正在构建静态网格体 peach_tree3……
+[2019.12.04-12.08.54:841][  0]LogStaticMesh: Built static mesh [0.10s] /Game/StarterContent/植物/peach_tree/peach_tree3.peach_tree3
+[2019.12.04-12.08.54:851][  0]LogStaticMesh: 正在构建静态网格体 peach_tree4……
+[2019.12.04-12.08.54:958][  0]LogStaticMesh: Built static mesh [0.11s] /Game/StarterContent/植物/peach_tree/peach_tree4.peach_tree4
+[2019.12.04-12.08.54:968][  0]LogStaticMesh: 正在构建静态网格体 river1……
+[2019.12.04-12.08.54:978][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/地形/river/river1.river1
+[2019.12.04-12.08.54:980][  0]LogStaticMesh: 正在构建静态网格体 river2……
+[2019.12.04-12.08.54:990][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/地形/river/river2.river2
+[2019.12.04-12.08.54:993][  0]LogStaticMesh: 正在构建静态网格体 river3……
+[2019.12.04-12.08.55:024][  0]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/地形/river/river3.river3
+[2019.12.04-12.08.55:027][  0]LogStaticMesh: 正在构建静态网格体 river4……
+[2019.12.04-12.08.55:037][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/地形/river/river4.river4
+[2019.12.04-12.08.55:040][  0]LogStaticMesh: 正在构建静态网格体 road1……
+[2019.12.04-12.08.55:045][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/地形/road/road1.road1
+[2019.12.04-12.08.55:047][  0]LogStaticMesh: 正在构建静态网格体 road2……
+[2019.12.04-12.08.55:050][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/地形/road/road2.road2
+[2019.12.04-12.08.55:053][  0]LogStaticMesh: 正在构建静态网格体 road3……
+[2019.12.04-12.08.55:058][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/地形/road/road3.road3
+[2019.12.04-12.08.55:059][  0]LogStaticMesh: 正在构建静态网格体 Soil-bench1……
+[2019.12.04-12.08.55:079][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/地形/Soil-bench/Soil-bench1.Soil-bench1
+[2019.12.04-12.08.55:084][  0]LogStaticMesh: 正在构建静态网格体 Soil-bench2……
+[2019.12.04-12.08.55:091][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/地形/Soil-bench/Soil-bench2.Soil-bench2
+[2019.12.04-12.08.55:093][  0]LogStaticMesh: 正在构建静态网格体 Soil-bench3……
+[2019.12.04-12.08.55:099][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/地形/Soil-bench/Soil-bench3.Soil-bench3
+[2019.12.04-12.08.55:101][  0]LogStaticMesh: 正在构建静态网格体 Soil-bench4……
+[2019.12.04-12.08.55:109][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/地形/Soil-bench/Soil-bench4.Soil-bench4
+[2019.12.04-12.08.55:112][  0]LogStaticMesh: 正在构建静态网格体 T_road1……
+[2019.12.04-12.08.55:130][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/地形/T-road/T_road1.T_road1
+[2019.12.04-12.08.55:133][  0]LogStaticMesh: 正在构建静态网格体 tree1……
+[2019.12.04-12.08.55:151][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/植物/tree/tree1.tree1
+[2019.12.04-12.08.55:153][  0]LogStaticMesh: 正在构建静态网格体 tree2……
+[2019.12.04-12.08.55:170][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/植物/tree/tree2.tree2
+[2019.12.04-12.08.55:173][  0]LogStaticMesh: 正在构建静态网格体 tree3……
+[2019.12.04-12.08.55:178][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/tree/tree3.tree3
+[2019.12.04-12.08.55:180][  0]LogStaticMesh: 正在构建静态网格体 三角亭……
+[2019.12.04-12.08.55:226][  0]LogStaticMesh: Built static mesh [0.05s] /Game/StarterContent/建筑/亭子/三角亭.三角亭
+[2019.12.04-12.08.55:230][  0]LogStaticMesh: 正在构建静态网格体 亭子……
+[2019.12.04-12.08.55:284][  0]LogStaticMesh: Built static mesh [0.05s] /Game/StarterContent/建筑/亭子/亭子.亭子
+[2019.12.04-12.08.55:287][  0]LogStaticMesh: 正在构建静态网格体 仓库房_单间房_polySurface2446……
+[2019.12.04-12.08.55:362][  0]LogStaticMesh: Built static mesh [0.08s] /Game/StarterContent/建筑/仓库房_单间房_polySurface2446.仓库房_单间房_polySurface2446
+[2019.12.04-12.08.55:368][  0]LogStaticMesh: 正在构建静态网格体 八角亭……
+[2019.12.04-12.08.55:606][  0]LogStaticMesh: Built static mesh [0.24s] /Game/StarterContent/建筑/亭子/八角亭.八角亭
+[2019.12.04-12.08.55:625][  0]LogStaticMesh: 正在构建静态网格体 勺……
+[2019.12.04-12.08.55:634][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/厨房用具/勺.勺
+[2019.12.04-12.08.55:640][  0]LogStaticMesh: 正在构建静态网格体 厨房……
+[2019.12.04-12.08.55:710][  0]LogStaticMesh: Built static mesh [0.07s] /Game/StarterContent/建筑/厨房.厨房
+[2019.12.04-12.08.55:714][  0]LogStaticMesh: 正在构建静态网格体 叠亭……
+[2019.12.04-12.08.55:951][  0]LogStaticMesh: Built static mesh [0.24s] /Game/StarterContent/建筑/亭子/叠亭.叠亭
+[2019.12.04-12.08.55:970][  0]LogStaticMesh: 正在构建静态网格体 商铺……
+[2019.12.04-12.08.56:188][  0]LogStaticMesh: Built static mesh [0.22s] /Game/StarterContent/建筑/商铺.商铺
+[2019.12.04-12.08.56:201][  0]LogStaticMesh: 正在构建静态网格体 城墙1_polySurface5506……
+[2019.12.04-12.08.57:374][  0]LogStaticMesh: Built static mesh [1.17s] /Game/StarterContent/建筑/城墙1_polySurface5506.城墙1_polySurface5506
+[2019.12.04-12.08.57:447][  0]LogStaticMesh: 正在构建静态网格体 城墙2_polySurface4774……
+[2019.12.04-12.08.57:501][  0]LogStaticMesh: Built static mesh [0.05s] /Game/StarterContent/建筑/城墙2_polySurface4774.城墙2_polySurface4774
+[2019.12.04-12.08.57:506][  0]LogStaticMesh: 正在构建静态网格体 城墙3_polySurface4750……
+[2019.12.04-12.08.57:570][  0]LogStaticMesh: Built static mesh [0.06s] /Game/StarterContent/建筑/城墙3_polySurface4750.城墙3_polySurface4750
+[2019.12.04-12.08.57:573][  0]LogStaticMesh: 正在构建静态网格体 城墙4……
+[2019.12.04-12.08.57:591][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/建筑/城墙4.城墙4
+[2019.12.04-12.08.57:594][  0]LogStaticMesh: 正在构建静态网格体 城门_polySurface4860……
+[2019.12.04-12.08.57:960][  0]LogStaticMesh: Built static mesh [0.37s] /Game/StarterContent/建筑/城门_polySurface4860.城门_polySurface4860
+[2019.12.04-12.08.57:986][  0]LogStaticMesh: 正在构建静态网格体 宝箱1……
+[2019.12.04-12.08.58:005][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/场景道具/宝箱1.宝箱1
+[2019.12.04-12.08.58:009][  0]LogStaticMesh: 正在构建静态网格体 床_1……
+[2019.12.04-12.08.58:036][  0]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/场景道具/家具/床_1.床_1
+[2019.12.04-12.08.58:039][  0]LogStaticMesh: 正在构建静态网格体 床_2……
+[2019.12.04-12.08.58:105][  0]LogStaticMesh: Built static mesh [0.07s] /Game/StarterContent/场景道具/家具/床_2.床_2
+[2019.12.04-12.08.58:123][  0]LogStaticMesh: 正在构建静态网格体 打铁铺……
+[2019.12.04-12.09.01:454][  0]LogStaticMesh: Built static mesh [3.33s] /Game/StarterContent/建筑/打铁铺.打铁铺
+[2019.12.04-12.09.01:623][  0]LogStaticMesh: 正在构建静态网格体 方亭……
+[2019.12.04-12.09.01:788][  0]LogStaticMesh: Built static mesh [0.16s] /Game/StarterContent/建筑/亭子/方亭.方亭
+[2019.12.04-12.09.01:840][  0]LogStaticMesh: 正在构建静态网格体 木头1_木材_pCylinder48……
+[2019.12.04-12.09.01:843][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/场景道具/装饰/木头1_木材_pCylinder48.木头1_木材_pCylinder48
+[2019.12.04-12.09.01:878][  0]LogStaticMesh: 正在构建静态网格体 木头2_木材_pCylinder49……
+[2019.12.04-12.09.01:880][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/场景道具/装饰/木头2_木材_pCylinder49.木头2_木材_pCylinder49
+[2019.12.04-12.09.01:894][  0]LogStaticMesh: 正在构建静态网格体 木头3_木材_pCylinder50……
+[2019.12.04-12.09.01:896][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/场景道具/装饰/木头3_木材_pCylinder50.木头3_木材_pCylinder50
+[2019.12.04-12.09.01:911][  0]LogStaticMesh: 正在构建静态网格体 木头4_木材_pCylinder51……
+[2019.12.04-12.09.01:912][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/装饰/木头4_木材_pCylinder51.木头4_木材_pCylinder51
+[2019.12.04-12.09.01:922][  0]LogStaticMesh: 正在构建静态网格体 木头5_木材_pCylinder52……
+[2019.12.04-12.09.01:925][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/场景道具/装饰/木头5_木材_pCylinder52.木头5_木材_pCylinder52
+[2019.12.04-12.09.01:927][  0]LogStaticMesh: 正在构建静态网格体 木头堆……
+[2019.12.04-12.09.01:935][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/装饰/木头堆.木头堆
+[2019.12.04-12.09.01:937][  0]LogStaticMesh: 正在构建静态网格体 木柴堆_柴堆……
+[2019.12.04-12.09.01:972][  0]LogStaticMesh: Built static mesh [0.04s] /Game/StarterContent/场景道具/装饰/木柴堆_柴堆.木柴堆_柴堆
+[2019.12.04-12.09.01:977][  0]LogStaticMesh: 正在构建静态网格体 木门1_破烂木门……
+[2019.12.04-12.09.01:995][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/场景道具/装饰/木门1_破烂木门.木门1_破烂木门
+[2019.12.04-12.09.02:000][  0]LogStaticMesh: 正在构建静态网格体 李子……
+[2019.12.04-12.09.02:005][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/水果/李子.李子
+[2019.12.04-12.09.02:007][  0]LogStaticMesh: 正在构建静态网格体 杏子……
+[2019.12.04-12.09.02:013][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/水果/杏子.杏子
+[2019.12.04-12.09.02:015][  0]LogStaticMesh: 正在构建静态网格体 杨梅……
+[2019.12.04-12.09.02:036][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/场景道具/水果/杨梅.杨梅
+[2019.12.04-12.09.02:049][  0]LogStaticMesh: 正在构建静态网格体 柑橘……
+[2019.12.04-12.09.02:052][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/场景道具/水果/柑橘.柑橘
+[2019.12.04-12.09.02:053][  0]LogStaticMesh: 正在构建静态网格体 柱灯……
+[2019.12.04-12.09.02:131][  0]LogStaticMesh: Built static mesh [0.08s] /Game/StarterContent/场景道具/装饰/柱灯.柱灯
+[2019.12.04-12.09.02:141][  0]LogStaticMesh: 正在构建静态网格体 柴堆_2……
+[2019.12.04-12.09.02:184][  0]LogStaticMesh: Built static mesh [0.04s] /Game/StarterContent/场景道具/农具/柴堆_2.柴堆_2
+[2019.12.04-12.09.02:193][  0]LogStaticMesh: 正在构建静态网格体 柿子……
+[2019.12.04-12.09.02:203][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/水果/柿子.柿子
+[2019.12.04-12.09.02:204][  0]LogStaticMesh: 正在构建静态网格体 栅栏_3……
+[2019.12.04-12.09.02:217][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/厨房用具/栅栏_3.栅栏_3
+[2019.12.04-12.09.02:221][  0]LogStaticMesh: 正在构建静态网格体 桃子_桃子_1……
+[2019.12.04-12.09.02:229][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/水果/桃子_桃子_1.桃子_桃子_1
+[2019.12.04-12.09.02:231][  0]LogStaticMesh: 正在构建静态网格体 桃子_桃子_2……
+[2019.12.04-12.09.02:242][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/水果/桃子_桃子_2.桃子_桃子_2
+[2019.12.04-12.09.02:243][  0]LogStaticMesh: 正在构建静态网格体 桃子_桃子_3……
+[2019.12.04-12.09.02:248][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/水果/桃子_桃子_3.桃子_桃子_3
+[2019.12.04-12.09.02:249][  0]LogStaticMesh: 正在构建静态网格体 桃子_桃子_4……
+[2019.12.04-12.09.02:253][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/场景道具/水果/桃子_桃子_4.桃子_桃子_4
+[2019.12.04-12.09.02:254][  0]LogStaticMesh: 正在构建静态网格体 桌子1……
+[2019.12.04-12.09.02:263][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/家具/桌子1.桌子1
+[2019.12.04-12.09.02:265][  0]LogStaticMesh: 正在构建静态网格体 桌子2……
+[2019.12.04-12.09.02:277][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/家具/桌子2.桌子2
+[2019.12.04-12.09.02:279][  0]LogStaticMesh: 正在构建静态网格体 桔槔……
+[2019.12.04-12.09.02:348][  0]LogStaticMesh: Built static mesh [0.07s] /Game/StarterContent/场景道具/农具/桔槔.桔槔
+[2019.12.04-12.09.02:354][  0]LogStaticMesh: 正在构建静态网格体 桥_小……
+[2019.12.04-12.09.02:409][  0]LogStaticMesh: Built static mesh [0.06s] /Game/StarterContent/场景道具/装饰/桥_小.桥_小
+[2019.12.04-12.09.02:418][  0]LogStaticMesh: 正在构建静态网格体 梅花亭……
+[2019.12.04-12.09.02:496][  0]LogStaticMesh: Built static mesh [0.08s] /Game/StarterContent/建筑/亭子/梅花亭.梅花亭
+[2019.12.04-12.09.02:558][  0]LogStaticMesh: 正在构建静态网格体 梨子……
+[2019.12.04-12.09.02:562][  0]LogStaticMesh: Built static mesh [0.06s] /Game/StarterContent/食物/梨子.梨子
+[2019.12.04-12.09.02:564][  0]LogStaticMesh: 正在构建静态网格体 水桶……
+[2019.12.04-12.09.02:576][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/厨房用具/水桶.水桶
+[2019.12.04-12.09.02:578][  0]LogStaticMesh: 正在构建静态网格体 水缸……
+[2019.12.04-12.09.02:588][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/厨房用具/水缸.水缸
+[2019.12.04-12.09.02:590][  0]LogStaticMesh: 正在构建静态网格体 池塘石头1……
+[2019.12.04-12.09.02:600][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/地形/石头/池塘石头1.池塘石头1
+[2019.12.04-12.09.02:603][  0]LogStaticMesh: 正在构建静态网格体 池塘石头2……
+[2019.12.04-12.09.02:612][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/地形/石头/池塘石头2.池塘石头2
+[2019.12.04-12.09.02:615][  0]LogStaticMesh: 正在构建静态网格体 池塘石头3……
+[2019.12.04-12.09.02:623][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/地形/石头/池塘石头3.池塘石头3
+[2019.12.04-12.09.02:625][  0]LogStaticMesh: 正在构建静态网格体 浮萍_polySurface27……
+[2019.12.04-12.09.02:626][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/植物/水生植物/浮萍_polySurface27.浮萍_polySurface27
+[2019.12.04-12.09.02:628][  0]LogStaticMesh: 正在构建静态网格体 浮萍_polySurface30……
+[2019.12.04-12.09.02:631][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/植物/水生植物/浮萍_polySurface30.浮萍_polySurface30
+[2019.12.04-12.09.02:633][  0]LogStaticMesh: 正在构建静态网格体 浮萍_polySurface31……
+[2019.12.04-12.09.02:634][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/植物/水生植物/浮萍_polySurface31.浮萍_polySurface31
+[2019.12.04-12.09.02:636][  0]LogStaticMesh: 正在构建静态网格体 浴桶……
+[2019.12.04-12.09.02:653][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/场景道具/家具/浴桶.浴桶
+[2019.12.04-12.09.02:661][  0]LogStaticMesh: 正在构建静态网格体 湖岸_直……
+[2019.12.04-12.09.02:665][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/地形/湖/湖岸_直.湖岸_直
+[2019.12.04-12.09.02:668][  0]LogStaticMesh: 正在构建静态网格体 湖道_曲1……
+[2019.12.04-12.09.02:678][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/地形/湖/湖道_曲1.湖道_曲1
+[2019.12.04-12.09.02:680][  0]LogStaticMesh: 正在构建静态网格体 湖道_曲2……
+[2019.12.04-12.09.02:687][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/地形/湖/湖道_曲2.湖道_曲2
+[2019.12.04-12.09.02:693][  0]LogStaticMesh: 正在构建静态网格体 湖道_直……
+[2019.12.04-12.09.02:700][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/地形/湖/湖道_直.湖道_直
+[2019.12.04-12.09.02:702][  0]LogStaticMesh: 正在构建静态网格体 灯_低……
+[2019.12.04-12.09.02:710][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/家具/灯_低.灯_低
+[2019.12.04-12.09.02:712][  0]LogStaticMesh: 正在构建静态网格体 灯_高……
+[2019.12.04-12.09.02:724][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/家具/灯_高.灯_高
+[2019.12.04-12.09.02:726][  0]LogStaticMesh: 正在构建静态网格体 爵……
+[2019.12.04-12.09.02:758][  0]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/场景道具/厨房用具/爵.爵
+[2019.12.04-12.09.02:762][  0]LogStaticMesh: 正在构建静态网格体 牌子内容……
+[2019.12.04-12.09.02:764][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/建筑/神社/牌子内容.牌子内容
+[2019.12.04-12.09.02:766][  0]LogStaticMesh: 正在构建静态网格体 牛棚_牛棚_2……
+[2019.12.04-12.09.02:814][  0]LogStaticMesh: Built static mesh [0.05s] /Game/StarterContent/场景道具/畜舍/牛棚_牛棚_2.牛棚_牛棚_2
+[2019.12.04-12.09.02:822][  0]LogStaticMesh: 正在构建静态网格体 牛棚_牛棚_1……
+[2019.12.04-12.09.02:975][  0]LogStaticMesh: Built static mesh [0.15s] /Game/StarterContent/场景道具/畜舍/牛棚_牛棚_1.牛棚_牛棚_1
+[2019.12.04-12.09.02:988][  0]LogStaticMesh: 正在构建静态网格体 狗窝_狗窝_1……
+[2019.12.04-12.09.03:139][  0]LogStaticMesh: Built static mesh [0.15s] /Game/StarterContent/场景道具/畜舍/狗窝_狗窝_1.狗窝_狗窝_1
+[2019.12.04-12.09.03:183][  0]LogStaticMesh: 正在构建静态网格体 狗窝_狗窝_2……
+[2019.12.04-12.09.03:189][  0]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/场景道具/畜舍/狗窝_狗窝_2.狗窝_狗窝_2
+[2019.12.04-12.09.03:201][  0]LogStaticMesh: 正在构建静态网格体 玉米1……
+[2019.12.04-12.09.03:205][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/食物/玉米1.玉米1
+[2019.12.04-12.09.03:219][  0]LogStaticMesh: 正在构建静态网格体 玉米2……
+[2019.12.04-12.09.03:227][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/食物/玉米2.玉米2
+[2019.12.04-12.09.03:230][  0]LogStaticMesh: 正在构建静态网格体 玉米3……
+[2019.12.04-12.09.03:239][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/食物/玉米3.玉米3
+[2019.12.04-12.09.03:240][  0]LogStaticMesh: 正在构建静态网格体 玉米4……
+[2019.12.04-12.09.03:252][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/食物/玉米4.玉米4
+[2019.12.04-12.09.03:259][  0]LogStaticMesh: 正在构建静态网格体 玉米5……
+[2019.12.04-12.09.03:271][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/食物/玉米5.玉米5
+[2019.12.04-12.09.03:272][  0]LogStaticMesh: 正在构建静态网格体 甗……
+[2019.12.04-12.09.03:292][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/场景道具/厨房用具/甗.甗
+[2019.12.04-12.09.03:297][  0]LogStaticMesh: 正在构建静态网格体 白萝卜……
+[2019.12.04-12.09.03:304][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/食物/白萝卜.白萝卜
+[2019.12.04-12.09.03:306][  0]LogStaticMesh: 正在构建静态网格体 石围栏……
+[2019.12.04-12.09.03:310][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/场景道具/装饰/石围栏.石围栏
+[2019.12.04-12.09.03:312][  0]LogStaticMesh: 正在构建静态网格体 石头1……
+[2019.12.04-12.09.03:316][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/地形/石头/石头1.石头1
+[2019.12.04-12.09.03:316][  0]LogStaticMesh: 正在构建静态网格体 石头2……
+[2019.12.04-12.09.03:321][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/地形/石头/石头2.石头2
+[2019.12.04-12.09.03:322][  0]LogStaticMesh: 正在构建静态网格体 石头3……
+[2019.12.04-12.09.03:327][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/地形/石头/石头3.石头3
+[2019.12.04-12.09.03:328][  0]LogStaticMesh: 正在构建静态网格体 石头4……
+[2019.12.04-12.09.03:332][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/地形/石头/石头4.石头4
+[2019.12.04-12.09.03:335][  0]LogStaticMesh: 正在构建静态网格体 碗……
+[2019.12.04-12.09.03:343][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/厨房用具/碗.碗
+[2019.12.04-12.09.03:344][  0]LogStaticMesh: 正在构建静态网格体 神社主体……
+[2019.12.04-12.09.05:177][  0]LogStaticMesh: Built static mesh [1.83s] /Game/StarterContent/建筑/神社/神社主体.神社主体
+[2019.12.04-12.09.05:263][  0]LogStaticMesh: 正在构建静态网格体 立牌_立牌_1……
+[2019.12.04-12.09.05:283][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/场景道具/装饰/立牌_立牌_1.立牌_立牌_1
+[2019.12.04-12.09.05:290][  0]LogStaticMesh: 正在构建静态网格体 立牌_立牌_2……
+[2019.12.04-12.09.05:314][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/场景道具/装饰/立牌_立牌_2.立牌_立牌_2
+[2019.12.04-12.09.05:317][  0]LogStaticMesh: 正在构建静态网格体 立牌_遮雨棚_1……
+[2019.12.04-12.09.05:359][  0]LogStaticMesh: Built static mesh [0.04s] /Game/StarterContent/场景道具/装饰/立牌_遮雨棚_1.立牌_遮雨棚_1
+[2019.12.04-12.09.05:362][  0]LogStaticMesh: 正在构建静态网格体 竹叶1_bamboo-leaf2……
+[2019.12.04-12.09.05:380][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/植物/竹子/竹叶1_bamboo-leaf2.竹叶1_bamboo-leaf2
+[2019.12.04-12.09.05:382][  0]LogStaticMesh: 正在构建静态网格体 竹叶2_bamboo-leaf3……
+[2019.12.04-12.09.05:401][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/植物/竹子/竹叶2_bamboo-leaf3.竹叶2_bamboo-leaf3
+[2019.12.04-12.09.05:409][  0]LogStaticMesh: 正在构建静态网格体 竹叶3_bamboo-leaf7……
+[2019.12.04-12.09.05:413][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/竹子/竹叶3_bamboo-leaf7.竹叶3_bamboo-leaf7
+[2019.12.04-12.09.05:415][  0]LogStaticMesh: 正在构建静态网格体 竹叶4_bamboo-leaf4……
+[2019.12.04-12.09.05:424][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/竹子/竹叶4_bamboo-leaf4.竹叶4_bamboo-leaf4
+[2019.12.04-12.09.05:425][  0]LogStaticMesh: 正在构建静态网格体 竹叶5_bamboo-leaf1……
+[2019.12.04-12.09.05:442][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/植物/竹子/竹叶5_bamboo-leaf1.竹叶5_bamboo-leaf1
+[2019.12.04-12.09.05:451][  0]LogStaticMesh: 正在构建静态网格体 竹叶6_bamboo-leaf5……
+[2019.12.04-12.09.05:462][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/竹子/竹叶6_bamboo-leaf5.竹叶6_bamboo-leaf5
+[2019.12.04-12.09.05:463][  0]LogStaticMesh: 正在构建静态网格体 竹叶7_bamboo-leaf6……
+[2019.12.04-12.09.05:467][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/植物/竹子/竹叶7_bamboo-leaf6.竹叶7_bamboo-leaf6
+[2019.12.04-12.09.05:468][  0]LogStaticMesh: 正在构建静态网格体 竹叶8_bamboo-leaf8……
+[2019.12.04-12.09.05:472][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/植物/竹子/竹叶8_bamboo-leaf8.竹叶8_bamboo-leaf8
+[2019.12.04-12.09.05:473][  0]LogStaticMesh: 正在构建静态网格体 竹子1_bamboo1……
+[2019.12.04-12.09.05:509][  0]LogStaticMesh: Built static mesh [0.04s] /Game/StarterContent/植物/竹子/竹子1_bamboo1.竹子1_bamboo1
+[2019.12.04-12.09.05:547][  0]LogStaticMesh: 正在构建静态网格体 竹子2_bamboo2……
+[2019.12.04-12.09.05:630][  0]LogStaticMesh: Built static mesh [0.08s] /Game/StarterContent/植物/竹子/竹子2_bamboo2.竹子2_bamboo2
+[2019.12.04-12.09.05:653][  0]LogStaticMesh: 正在构建静态网格体 竹子3_bamboo3……
+[2019.12.04-12.09.05:746][  0]LogStaticMesh: Built static mesh [0.09s] /Game/StarterContent/植物/竹子/竹子3_bamboo3.竹子3_bamboo3
+[2019.12.04-12.09.05:752][  0]LogStaticMesh: 正在构建静态网格体 竹子4_bamboo4……
+[2019.12.04-12.09.05:833][  0]LogStaticMesh: Built static mesh [0.08s] /Game/StarterContent/植物/竹子/竹子4_bamboo4.竹子4_bamboo4
+[2019.12.04-12.09.05:934][  0]LogStaticMesh: 正在构建静态网格体 竹子5_bamboo5……
+[2019.12.04-12.09.05:983][  0]LogStaticMesh: Built static mesh [0.05s] /Game/StarterContent/植物/竹子/竹子5_bamboo5.竹子5_bamboo5
+[2019.12.04-12.09.06:040][  0]LogStaticMesh: 正在构建静态网格体 竹子6_bamboo17……
+[2019.12.04-12.09.06:327][  0]LogStaticMesh: Built static mesh [0.33s] /Game/StarterContent/植物/竹子/竹子6_bamboo17.竹子6_bamboo17
+[2019.12.04-12.09.06:352][  0]LogStaticMesh: 正在构建静态网格体 竹子7_bamboo24……
+[2019.12.04-12.09.06:586][  0]LogStaticMesh: Built static mesh [0.23s] /Game/StarterContent/植物/竹子/竹子7_bamboo24.竹子7_bamboo24
+[2019.12.04-12.09.06:600][  0]LogStaticMesh: 正在构建静态网格体 竹子8_bamboo30……
+[2019.12.04-12.09.06:782][  0]LogStaticMesh: Built static mesh [0.18s] /Game/StarterContent/植物/竹子/竹子8_bamboo30.竹子8_bamboo30
+[2019.12.04-12.09.06:931][  0]LogStaticMesh: 正在构建静态网格体 竹子9_bamboo35……
+[2019.12.04-12.09.07:084][  0]LogStaticMesh: Built static mesh [0.15s] /Game/StarterContent/植物/竹子/竹子9_bamboo35.竹子9_bamboo35
+[2019.12.04-12.09.07:093][  0]LogStaticMesh: 正在构建静态网格体 簸箕……
+[2019.12.04-12.09.07:101][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/家具/簸箕.簸箕
+[2019.12.04-12.09.07:102][  0]LogStaticMesh: 正在构建静态网格体 纺车……
+[2019.12.04-12.09.07:194][  0]LogStaticMesh: Built static mesh [0.09s] /Game/StarterContent/场景道具/家具/纺车.纺车
+[2019.12.04-12.09.07:205][  0]LogStaticMesh: 正在构建静态网格体 编钟……
+[2019.12.04-12.09.07:258][  0]LogStaticMesh: Built static mesh [0.06s] /Game/StarterContent/场景道具/家具/编钟.编钟
+[2019.12.04-12.09.07:262][  0]LogStaticMesh: 正在构建静态网格体 罐子_1……
+[2019.12.04-12.09.07:270][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/厨房用具/罐子_1.罐子_1
+[2019.12.04-12.09.07:271][  0]LogStaticMesh: 正在构建静态网格体 罐子_2……
+[2019.12.04-12.09.07:277][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/厨房用具/罐子_2.罐子_2
+[2019.12.04-12.09.07:279][  0]LogStaticMesh: 正在构建静态网格体 羊圈_羊圈_1……
+[2019.12.04-12.09.07:412][  0]LogStaticMesh: Built static mesh [0.13s] /Game/StarterContent/场景道具/畜舍/羊圈_羊圈_1.羊圈_羊圈_1
+[2019.12.04-12.09.07:421][  0]LogStaticMesh: 正在构建静态网格体 羊圈_羊圈_2……
+[2019.12.04-12.09.07:579][  0]LogStaticMesh: Built static mesh [0.16s] /Game/StarterContent/场景道具/畜舍/羊圈_羊圈_2.羊圈_羊圈_2
+[2019.12.04-12.09.07:598][  0]LogStaticMesh: 正在构建静态网格体 腿肉……
+[2019.12.04-12.09.07:603][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/食物/腿肉.腿肉
+[2019.12.04-12.09.07:605][  0]LogStaticMesh: 正在构建静态网格体 芋……
+[2019.12.04-12.09.07:613][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/食物/芋.芋
+[2019.12.04-12.09.07:615][  0]LogStaticMesh: 正在构建静态网格体 茄子1……
+[2019.12.04-12.09.07:619][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/食物/茄子1.茄子1
+[2019.12.04-12.09.07:621][  0]LogStaticMesh: 正在构建静态网格体 茄子2……
+[2019.12.04-12.09.07:625][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/食物/茄子2.茄子2
+[2019.12.04-12.09.07:626][  0]LogStaticMesh: 正在构建静态网格体 茄子3……
+[2019.12.04-12.09.07:630][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/食物/茄子3.茄子3
+[2019.12.04-12.09.07:633][  0]LogStaticMesh: 正在构建静态网格体 荔枝_荔枝_1……
+[2019.12.04-12.09.07:636][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/场景道具/水果/荔枝_荔枝_1.荔枝_荔枝_1
+[2019.12.04-12.09.07:637][  0]LogStaticMesh: 正在构建静态网格体 荔枝_荔枝_2……
+[2019.12.04-12.09.07:662][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/场景道具/水果/荔枝_荔枝_2.荔枝_荔枝_2
+[2019.12.04-12.09.07:666][  0]LogStaticMesh: 正在构建静态网格体 荔枝_荔枝_3……
+[2019.12.04-12.09.07:675][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/水果/荔枝_荔枝_3.荔枝_荔枝_3
+[2019.12.04-12.09.07:676][  0]LogStaticMesh: 正在构建静态网格体 荔枝_荔枝_4……
+[2019.12.04-12.09.07:689][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/水果/荔枝_荔枝_4.荔枝_荔枝_4
+[2019.12.04-12.09.07:690][  0]LogStaticMesh: 正在构建静态网格体 荔枝_荔枝_5……
+[2019.12.04-12.09.07:698][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/水果/荔枝_荔枝_5.荔枝_荔枝_5
+[2019.12.04-12.09.07:700][  0]LogStaticMesh: 正在构建静态网格体 药铺……
+[2019.12.04-12.09.09:164][  0]LogStaticMesh: Built static mesh [1.47s] /Game/StarterContent/建筑/药铺.药铺
+[2019.12.04-12.09.09:253][  0]LogStaticMesh: 正在构建静态网格体 药铺_药柜抽屉_polySurface547……
+[2019.12.04-12.09.09:257][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/建筑/药铺_药柜抽屉_polySurface547.药铺_药柜抽屉_polySurface547
+[2019.12.04-12.09.09:261][  0]LogStaticMesh: 正在构建静态网格体 药铺_药柜抽屉_药铺_药铺_polySurface2198_284……
+[2019.12.04-12.09.09:266][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/建筑/药铺_药柜抽屉_药铺_药铺_polySurface2198_284.药铺_药柜抽屉_药铺_药铺_polySurface2198_284
+[2019.12.04-12.09.09:268][  0]LogStaticMesh: 正在构建静态网格体 药铺_药柜抽屉_药铺_药铺_polySurface2199_286……
+[2019.12.04-12.09.09:273][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/建筑/药铺_药柜抽屉_药铺_药铺_polySurface2199_286.药铺_药柜抽屉_药铺_药铺_polySurface2199_286
+[2019.12.04-12.09.09:275][  0]LogStaticMesh: 正在构建静态网格体 药铺_药柜抽屉_药铺_药铺_polySurface2200_288……
+[2019.12.04-12.09.09:280][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/建筑/药铺_药柜抽屉_药铺_药铺_polySurface2200_288.药铺_药柜抽屉_药铺_药铺_polySurface2200_288
+[2019.12.04-12.09.09:282][  0]LogStaticMesh: 正在构建静态网格体 药铺_药柜抽屉_药铺_药铺_polySurface2257_292……
+[2019.12.04-12.09.09:286][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/建筑/药铺_药柜抽屉_药铺_药铺_polySurface2257_292.药铺_药柜抽屉_药铺_药铺_polySurface2257_292
+[2019.12.04-12.09.09:288][  0]LogStaticMesh: 正在构建静态网格体 药铺_药柜抽屉_药铺_药铺_polySurface2258_294……
+[2019.12.04-12.09.09:293][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/建筑/药铺_药柜抽屉_药铺_药铺_polySurface2258_294.药铺_药柜抽屉_药铺_药铺_polySurface2258_294
+[2019.12.04-12.09.09:294][  0]LogStaticMesh: 正在构建静态网格体 药铺_药柜抽屉_药铺_药铺_polySurface2259_296……
+[2019.12.04-12.09.09:299][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/建筑/药铺_药柜抽屉_药铺_药铺_polySurface2259_296.药铺_药柜抽屉_药铺_药铺_polySurface2259_296
+[2019.12.04-12.09.09:300][  0]LogStaticMesh: 正在构建静态网格体 药铺_药柜抽屉_药铺_药铺_polySurface2297_314……
+[2019.12.04-12.09.09:304][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/建筑/药铺_药柜抽屉_药铺_药铺_polySurface2297_314.药铺_药柜抽屉_药铺_药铺_polySurface2297_314
+[2019.12.04-12.09.09:306][  0]LogStaticMesh: 正在构建静态网格体 荷花1……
+[2019.12.04-12.09.09:319][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/荷花/荷花1.荷花1
+[2019.12.04-12.09.09:321][  0]LogStaticMesh: 正在构建静态网格体 荷花2……
+[2019.12.04-12.09.09:331][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/荷花/荷花2.荷花2
+[2019.12.04-12.09.09:333][  0]LogStaticMesh: 正在构建静态网格体 荷花_hehua_4……
+[2019.12.04-12.09.09:395][  0]LogStaticMesh: Built static mesh [0.06s] /Game/StarterContent/植物/水生植物/荷花_hehua_4.荷花_hehua_4
+[2019.12.04-12.09.09:403][  0]LogStaticMesh: 正在构建静态网格体 荷花_hehua_5……
+[2019.12.04-12.09.09:461][  0]LogStaticMesh: Built static mesh [0.06s] /Game/StarterContent/植物/水生植物/荷花_hehua_5.荷花_hehua_5
+[2019.12.04-12.09.09:472][  0]LogStaticMesh: 正在构建静态网格体 荷花_hehua_6……
+[2019.12.04-12.09.09:529][  0]LogStaticMesh: Built static mesh [0.06s] /Game/StarterContent/植物/水生植物/荷花_hehua_6.荷花_hehua_6
+[2019.12.04-12.09.09:534][  0]LogStaticMesh: 正在构建静态网格体 荷花_heye_1……
+[2019.12.04-12.09.09:542][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/水生植物/荷花_heye_1.荷花_heye_1
+[2019.12.04-12.09.09:543][  0]LogStaticMesh: 正在构建静态网格体 荷花_heye_2……
+[2019.12.04-12.09.09:551][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/水生植物/荷花_heye_2.荷花_heye_2
+[2019.12.04-12.09.09:552][  0]LogStaticMesh: 正在构建静态网格体 荷花_heye_3……
+[2019.12.04-12.09.09:559][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/水生植物/荷花_heye_3.荷花_heye_3
+[2019.12.04-12.09.09:561][  0]LogStaticMesh: 正在构建静态网格体 萍蓬草_p_2……
+[2019.12.04-12.09.09:608][  0]LogStaticMesh: Built static mesh [0.05s] /Game/StarterContent/植物/水生植物/萍蓬草_p_2.萍蓬草_p_2
+[2019.12.04-12.09.09:611][  0]LogStaticMesh: 正在构建静态网格体 萍蓬草_p_3……
+[2019.12.04-12.09.09:654][  0]LogStaticMesh: Built static mesh [0.04s] /Game/StarterContent/植物/水生植物/萍蓬草_p_3.萍蓬草_p_3
+[2019.12.04-12.09.09:658][  0]LogStaticMesh: 正在构建静态网格体 萍蓬草_p_4……
+[2019.12.04-12.09.09:664][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/水生植物/萍蓬草_p_4.萍蓬草_p_4
+[2019.12.04-12.09.09:665][  0]LogStaticMesh: 正在构建静态网格体 萍蓬草_p_5……
+[2019.12.04-12.09.09:670][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/水生植物/萍蓬草_p_5.萍蓬草_p_5
+[2019.12.04-12.09.09:672][  0]LogStaticMesh: 正在构建静态网格体 萍蓬草_p_6……
+[2019.12.04-12.09.09:677][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/水生植物/萍蓬草_p_6.萍蓬草_p_6
+[2019.12.04-12.09.09:679][  0]LogStaticMesh: 正在构建静态网格体 萍蓬草_pengpingcao_1……
+[2019.12.04-12.09.09:740][  0]LogStaticMesh: Built static mesh [0.06s] /Game/StarterContent/植物/水生植物/萍蓬草_pengpingcao_1.萍蓬草_pengpingcao_1
+[2019.12.04-12.09.09:752][  0]LogStaticMesh: 正在构建静态网格体 葱……
+[2019.12.04-12.09.09:757][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/食物/葱.葱
+[2019.12.04-12.09.09:759][  0]LogStaticMesh: 正在构建静态网格体 装饰房_主体……
+[2019.12.04-12.09.09:761][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/建筑/装饰房_主体.装饰房_主体
+[2019.12.04-12.09.09:763][  0]LogStaticMesh: 正在构建静态网格体 装饰房_屋顶_1……
+[2019.12.04-12.09.09:781][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/建筑/装饰房_屋顶_1.装饰房_屋顶_1
+[2019.12.04-12.09.09:797][  0]LogStaticMesh: 正在构建静态网格体 装饰房_屋顶_2……
+[2019.12.04-12.09.09:818][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/建筑/装饰房_屋顶_2.装饰房_屋顶_2
+[2019.12.04-12.09.09:830][  0]LogStaticMesh: 正在构建静态网格体 装饰房_底座_2……
+[2019.12.04-12.09.09:854][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/建筑/装饰房_底座_2.装饰房_底座_2
+[2019.12.04-12.09.09:856][  0]LogStaticMesh: 正在构建静态网格体 装饰房_底座_1……
+[2019.12.04-12.09.09:861][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/建筑/装饰房_底座_1.装饰房_底座_1
+[2019.12.04-12.09.09:863][  0]LogStaticMesh: 正在构建静态网格体 装饰房_装饰条_1……
+[2019.12.04-12.09.09:882][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/建筑/装饰房_装饰条_1.装饰房_装饰条_1
+[2019.12.04-12.09.09:891][  0]LogStaticMesh: 正在构建静态网格体 装饰房_装饰条_2……
+[2019.12.04-12.09.09:907][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/建筑/装饰房_装饰条_2.装饰房_装饰条_2
+[2019.12.04-12.09.09:910][  0]LogStaticMesh: 正在构建静态网格体 角……
+[2019.12.04-12.09.09:928][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/场景道具/厨房用具/角.角
+[2019.12.04-12.09.09:930][  0]LogStaticMesh: 正在构建静态网格体 觯……
+[2019.12.04-12.09.09:936][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/厨房用具/觯.觯
+[2019.12.04-12.09.09:938][  0]LogStaticMesh: 正在构建静态网格体 酒馆……
+[2019.12.04-12.09.15:246][  0]LogStaticMesh: Built static mesh [5.31s] /Game/StarterContent/建筑/酒馆.酒馆
+[2019.12.04-12.09.15:455][  0]LogStaticMesh: 正在构建静态网格体 隧道灯……
+[2019.12.04-12.09.15:465][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/场景道具/墓地道具/隧道灯.隧道灯
+[2019.12.04-12.09.15:467][  0]LogStaticMesh: 正在构建静态网格体 香蒲_pCylinder29……
+[2019.12.04-12.09.15:471][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/水生植物/香蒲_pCylinder29.香蒲_pCylinder29
+[2019.12.04-12.09.15:473][  0]LogStaticMesh: 正在构建静态网格体 香蒲_pCylinder35……
+[2019.12.04-12.09.15:478][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/水生植物/香蒲_pCylinder35.香蒲_pCylinder35
+[2019.12.04-12.09.15:480][  0]LogStaticMesh: 正在构建静态网格体 香蒲_pCylinder36……
+[2019.12.04-12.09.15:485][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/水生植物/香蒲_pCylinder36.香蒲_pCylinder36
+[2019.12.04-12.09.15:487][  0]LogStaticMesh: 正在构建静态网格体 香蒲_pCylinder37……
+[2019.12.04-12.09.15:493][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/水生植物/香蒲_pCylinder37.香蒲_pCylinder37
+[2019.12.04-12.09.15:494][  0]LogStaticMesh: 正在构建静态网格体 香蒲_pPlane10……
+[2019.12.04-12.09.15:499][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/水生植物/香蒲_pPlane10.香蒲_pPlane10
+[2019.12.04-12.09.15:501][  0]LogStaticMesh: 正在构建静态网格体 香蒲_pPlane11……
+[2019.12.04-12.09.15:506][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/水生植物/香蒲_pPlane11.香蒲_pPlane11
+[2019.12.04-12.09.15:506][  0]LogStaticMesh: 正在构建静态网格体 香蒲_pPlane12……
+[2019.12.04-12.09.15:510][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/植物/水生植物/香蒲_pPlane12.香蒲_pPlane12
+[2019.12.04-12.09.15:511][  0]LogStaticMesh: 正在构建静态网格体 香蒲_pPlane1……
+[2019.12.04-12.09.15:515][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/植物/水生植物/香蒲_pPlane1.香蒲_pPlane1
+[2019.12.04-12.09.15:517][  0]LogStaticMesh: 正在构建静态网格体 香蒲_pPlane2……
+[2019.12.04-12.09.15:521][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/植物/水生植物/香蒲_pPlane2.香蒲_pPlane2
+[2019.12.04-12.09.15:522][  0]LogStaticMesh: 正在构建静态网格体 香蒲_pPlane3……
+[2019.12.04-12.09.15:527][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/植物/水生植物/香蒲_pPlane3.香蒲_pPlane3
+[2019.12.04-12.09.15:527][  0]LogStaticMesh: 正在构建静态网格体 香蒲_pPlane5……
+[2019.12.04-12.09.15:531][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/植物/水生植物/香蒲_pPlane5.香蒲_pPlane5
+[2019.12.04-12.09.15:531][  0]LogStaticMesh: 正在构建静态网格体 香蒲_pPlane6……
+[2019.12.04-12.09.15:536][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/水生植物/香蒲_pPlane6.香蒲_pPlane6
+[2019.12.04-12.09.15:540][  0]LogStaticMesh: 正在构建静态网格体 香蒲_pPlane7……
+[2019.12.04-12.09.15:545][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/植物/水生植物/香蒲_pPlane7.香蒲_pPlane7
+[2019.12.04-12.09.15:546][  0]LogStaticMesh: 正在构建静态网格体 香蒲_pPlane8……
+[2019.12.04-12.09.15:551][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/水生植物/香蒲_pPlane8.香蒲_pPlane8
+[2019.12.04-12.09.15:552][  0]LogStaticMesh: 正在构建静态网格体 香蒲_pPlane9……
+[2019.12.04-12.09.15:557][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/植物/水生植物/香蒲_pPlane9.香蒲_pPlane9
+[2019.12.04-12.09.15:559][  0]LogStaticMesh: 正在构建静态网格体 鬲……
+[2019.12.04-12.09.15:577][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/场景道具/厨房用具/鬲.鬲
+[2019.12.04-12.09.15:583][  0]LogStaticMesh: 正在构建静态网格体 鸡窝_鸡窝……
+[2019.12.04-12.09.15:646][  0]LogStaticMesh: Built static mesh [0.07s] /Game/StarterContent/场景道具/畜舍/鸡窝_鸡窝.鸡窝_鸡窝
+[2019.12.04-12.09.15:651][  0]LogStaticMesh: 正在构建静态网格体 鼎_1……
+[2019.12.04-12.09.15:672][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/场景道具/厨房用具/鼎_1.鼎_1
+[2019.12.04-12.09.15:675][  0]LogStaticMesh: 正在构建静态网格体 鼎_2……
+[2019.12.04-12.09.15:707][  0]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/场景道具/厨房用具/鼎_2.鼎_2
+[2019.12.04-12.09.15:711][  0]LogStaticMesh: 正在构建静态网格体 龙椅……
+[2019.12.04-12.09.17:078][  0]LogStaticMesh: Built static mesh [1.37s] /Game/StarterContent/场景道具/墓地道具/龙椅.龙椅
+[2019.12.04-12.09.17:184][  0]LogMaterial: Display: Missing cached shader map for material bob, compiling. 
+[2019.12.04-12.09.17:217][  0]LogSkeletalMesh: Building Skeletal Mesh xique_SK...
+[2019.12.04-12.09.17:219][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/动物/xique_SK.xique_SK
+[2019.12.04-12.09.17:219][  0]LogSkeletalMesh: Building Skeletal Mesh wuya_SK...
+[2019.12.04-12.09.17:222][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/动物/wuya_SK.wuya_SK
+[2019.12.04-12.09.17:222][  0]LogSkeletalMesh: Building Skeletal Mesh wudong_male_SK...
+[2019.12.04-12.09.17:225][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/动物/wudong_male_SK.wudong_male_SK
+[2019.12.04-12.09.17:227][  0]LogSkeletalMesh: Building Skeletal Mesh wudong_famale_SK...
+[2019.12.04-12.09.17:230][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/动物/wudong_famale_SK.wudong_famale_SK
+[2019.12.04-12.09.17:231][  0]LogSkeletalMesh: Building Skeletal Mesh Wolf_low_2_SK...
+[2019.12.04-12.09.17:235][  0]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/StarterContent/动物/Wolf_low_2_SK.Wolf_low_2_SK
+[2019.12.04-12.09.17:236][  0]LogSkeletalMesh: Building Skeletal Mesh Wolf_low_1_SK...
+[2019.12.04-12.09.17:238][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/动物/Wolf_low_1_SK.Wolf_low_1_SK
+[2019.12.04-12.09.17:240][  0]LogSkeletalMesh: Building Skeletal Mesh Wildpig_SK...
+[2019.12.04-12.09.17:244][  0]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/StarterContent/动物/Wildpig_SK.Wildpig_SK
+[2019.12.04-12.09.17:245][  0]LogSkeletalMesh: Building Skeletal Mesh Rat_SK...
+[2019.12.04-12.09.17:249][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/动物/Rat_SK.Rat_SK
+[2019.12.04-12.09.17:250][  0]LogSkeletalMesh: Building Skeletal Mesh Rabbit_SK...
+[2019.12.04-12.09.17:252][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/动物/Rabbit_SK.Rabbit_SK
+[2019.12.04-12.09.17:252][  0]LogSkeletalMesh: Building Skeletal Mesh Fox_SK...
+[2019.12.04-12.09.17:255][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/动物/Fox_SK.Fox_SK
+[2019.12.04-12.09.17:256][  0]LogSkeletalMesh: Building Skeletal Mesh DeerStag_SK...
+[2019.12.04-12.09.17:259][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/动物/DeerStag_SK.DeerStag_SK
+[2019.12.04-12.09.17:260][  0]LogSkeletalMesh: Building Skeletal Mesh DeerDoe_SK...
+[2019.12.04-12.09.17:263][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/动物/DeerDoe_SK.DeerDoe_SK
+[2019.12.04-12.09.17:264][  0]LogSkeletalMesh: Building Skeletal Mesh Bear_SK...
+[2019.12.04-12.09.17:266][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/StarterContent/动物/Bear_SK.Bear_SK
+[2019.12.04-12.09.17:269][  0]LogMaterial: Display: Missing cached shader map for material plane, compiling. 
+[2019.12.04-12.09.17:288][  0]LogAIModule: Creating AISystem for world cunzhuang
+[2019.12.04-12.09.17:411][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.04-12.09.17:474][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.12.04-12.09.17:474][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.04-12.09.17:474][  0]MapCheck: 地图检测完成：0个错误，0 个警告，用时0.13毫秒完成。
+[2019.12.04-12.09.17:474][  0]LogFileHelpers: Loading map 'cunzhuang' took 29.382
+[2019.12.04-12.09.17:618][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-12.09.17:631][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-12.09.17:644][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-12.09.17:651][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-12.09.17:808][  0]LogCollectionManager: Loaded 0 collections in 0.001317 seconds
+[2019.12.04-12.09.17:854][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/-/Qinsword/Saved/Collections/' took 0.01s
+[2019.12.04-12.09.17:854][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/-/Qinsword/Content/Developers/dott/Collections/' took 0.02s
+[2019.12.04-12.09.17:854][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/-/Qinsword/Content/Collections/' took 0.01s
+[2019.12.04-12.09.17:854][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.12.04-12.09.17:863][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2771 classes and 668 folders.
+[2019.12.04-12.09.17:868][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.04-12.09.17:870][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-12.09.17:871][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-12.09.17:872][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-12.09.17:872][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-12.09.17:873][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-12.09.17:874][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-12.09.17:874][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-12.09.17:874][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-12.09.17:875][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-12.09.17:876][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-12.09.17:877][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-12.09.17:877][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-12.09.17:878][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-12.09.17:879][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-12.09.17:879][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-12.09.17:880][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-12.09.17:881][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-12.09.17:882][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-12.09.17:882][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-12.09.17:883][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-12.09.17:884][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-12.09.17:885][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-12.09.17:886][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-12.09.17:886][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-12.09.17:887][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-12.09.17:888][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.04-12.09.17:938][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.04-12.09.18:068][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.04-12.09.18:068][  0]LogLoad: (Engine Initialization) Total time: 42.19 seconds
+[2019.12.04-12.09.18:068][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.04-12.09.18:202][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.04-12.09.18:236][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-12.09.18:286][  0]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.04-12.09.18:288][  0]LogSlate: Took 0.001769 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.12.04-12.09.18:288][  0]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.04-12.09.18:292][  0]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.04-12.09.18:296][  0]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.04-12.09.18:347][  0]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.04-12.09.18:395][  1]LogAssetRegistry: Asset discovery search completed in 38.5530 seconds
+[2019.12.04-12.09.18:397][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.12.04-12.09.18:397][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2019.12.04-12.09.18:465][  2]LogRenderer: Reallocating scene render targets to support 800x504 Format 10 NumSamples 1 (Frame:1).
+[2019.12.04-12.09.20:988][150]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.12.04-12.09.22:246][285]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/Cinematics/Sequences/展示/展示Master.展示Master
+[2019.12.04-12.09.22:337][285]LogSlate: Took 0.008795 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.12.04-12.09.24:471][477]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.12.04-12.09.25:373][554]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.12.04-12.09.28:347][843]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.04-12.09.28:757][877]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.04-12.09.31:412][150]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.04-12.09.31:782][183]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.04-12.10.00:208][963]LogRenderer: Reallocating scene render targets to support 1208x784 Format 10 NumSamples 1 (Frame:3141).
+[2019.12.04-12.10.11:524][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-12.10.17:811][713]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/Cinematics/Sequences/展示/shots/shot0010/shot0010_001.shot0010_001
+[2019.12.04-12.10.24:997][437]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.04-12.10.24:997][437]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.04-12.11.07:339][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-12.11.25:398][  2]LogEditorViewport: Clicking on Actor (context menu): LevelSequenceActor (展示Master)
+[2019.12.04-12.11.25:418][  2]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-12.11.30:152][478]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/Cinematics/Sequences/展示/展示Master.展示Master
+[2019.12.04-12.12.08:452][834]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2019.12.04-12.12.10:517][984]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.04-12.12.11:452][ 52]LogEditorViewport: Clicking on Actor (context menu): CineCameraActor (CineCameraActor1)
+[2019.12.04-12.12.11:476][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-12.12.12:845][193]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.04-12.12.15:993][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-12.12.31:517][702]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.12.04-12.12.36:164][117]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.12.04-12.13.38:616][407]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-12.14.11:373][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.12.04-12.14.13:837][248]LogSlate: Window 'Save Content' being destroyed
+[2019.12.04-12.14.13:880][248]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-12.14.14:078][248]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-12.14.14:089][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cinematics/Sequences/展示/展示Master" FILE="../../../../../../Unreal Projects/-/Qinsword/Content/Cinematics/Sequences/展示/展示Master.uasset" SILENT=true
+[2019.12.04-12.14.14:107][248]LogSavePackage: Moving '../../../../../../Unreal Projects/-/Qinsword/Saved/展示Master94CA7986463CB0EE74BB34B64FAAFD8F.tmp' to '../../../../../../Unreal Projects/-/Qinsword/Content/Cinematics/Sequences/展示/展示Master.uasset'
+[2019.12.04-12.14.14:129][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/map/cunzhuang" FILE="../../../../../../Unreal Projects/-/Qinsword/Content/StarterContent/map/cunzhuang.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.04-12.14.14:153][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.12.04-12.14.14:712][248]LogSavePackage: Moving '../../../../../../Unreal Projects/-/Qinsword/Saved/cunzhuangA244C0D24C5282E786988589F1E33627.tmp' to '../../../../../../Unreal Projects/-/Qinsword/Content/StarterContent/map/cunzhuang.umap'
+[2019.12.04-12.14.14:729][248]LogFileHelpers: Saving map 'cunzhuang' took 0.608
+[2019.12.04-12.14.14:740][248]LogTemp: Starting movie scene capture...
+[2019.12.04-12.14.14:757][248]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2019.12.04-12.14.14:757][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-12.14.14:757][248]PIE: New page: PIE会话: cunzhuang (2019年12月5日 上午4:14:14)
+[2019.12.04-12.14.14:787][248]LogPlayLevel: Creating play world package: /Game/StarterContent/map/UEDPIE_0_cunzhuang
+[2019.12.04-12.14.14:803][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016332s)
+[2019.12.04-12.14.14:803][248]LogAIModule: Creating AISystem for world cunzhuang
+[2019.12.04-12.14.14:804][248]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2019.12.04-12.14.14:804][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/map/cunzhuang.cunzhuang to /Game/StarterContent/map/UEDPIE_0_cunzhuang.cunzhuang (0.017664s)
+[2019.12.04-12.14.14:829][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.12.04-12.14.14:852][248]LogInit: XAudio2 using '扬声器 (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.04-12.14.14:878][248]LogInit: FAudioDevice initialized.
+[2019.12.04-12.14.14:879][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-12.14.14:914][248]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2019.12.04-12.14.14:914][248]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2019.12.04-12.14.14:914][248]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.04-12.14.14:914][248]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2019.12.04-12.14.14:914][248]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.04-12.14.14:915][248]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2019.12.04-12.14.14:915][248]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '-1'
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.04-12.14.14:915][248]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.04-12.14.14:915][248]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.04-12.14.14:915][248]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.04-12.14.15:034][248]Final Cut Pro 7 XML Export: Warning: FCP 7 XML导出应生成拥有文件名格式'{shot}'的渲染视频序列，但最近渲染的文件名格式为'模型展示'。
+[2019.12.04-12.14.15:034][248]Final Cut Pro 7 XML Export: Warning: 片段 'shot0010_001’ 在tick 2300799 上结束，而此tick无法被显示率 30.0 均分。启用对齐并调整末端，或编辑片段属性，确保其平均分布在整个帧上。
+[2019.12.04-12.14.15:051][248]LogLoad: Game class is 'GameModeBase'
+[2019.12.04-12.14.15:061][248]LogWorld: Bringing World /Game/StarterContent/map/UEDPIE_0_cunzhuang.cunzhuang up for play (max tick rate 0) at 2019.12.04-20.14.15
+[2019.12.04-12.14.15:061][248]LogWorld: Bringing up level for play took: 0.009140
+[2019.12.04-12.14.15:131][248]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.12.04-12.14.15:155][248]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-12.14.15:161][248]PIE: /Game/StarterContent/map/UEDPIE_0_cunzhuang的‘在编辑器中播放’的起始时间1.304
+[2019.12.04-12.14.15:161][248]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2019.12.04-12.14.15:315][249]LogRenderer: Reallocating scene render targets to support 1208x784 Format 10 NumSamples 1 (Frame:19484).
+[2019.12.04-12.14.15:383][251]LogContentStreaming: Texture pool size now 5661 MB
+[2019.12.04-12.14.15:822][293]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2019.12.04-12.14.18:171][328]LogHttp: Warning: 00000265E907AC00: request failed, libcurl error: 28 (Timeout was reached)
+[2019.12.04-12.14.18:171][328]LogHttp: Warning: 00000265E907AC00: libcurl info message cache 0 (Connection 0 seems to be dead!)
+[2019.12.04-12.14.18:171][328]LogHttp: Warning: 00000265E907AC00: libcurl info message cache 1 (Closing connection 0)
+[2019.12.04-12.14.18:172][328]LogHttp: Warning: 00000265E907AC00: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.12.04-12.14.18:172][328]LogHttp: Warning: 00000265E907AC00: libcurl info message cache 3 (  Trying 100.24.251.232...)
+[2019.12.04-12.14.18:172][328]LogHttp: Warning: 00000265E907AC00: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.12.04-12.14.18:172][328]LogHttp: Warning: 00000265E907AC00: libcurl info message cache 5 (Connected to datarouter.ol.epicgames.com (100.24.251.232) port 443 (#1))
+[2019.12.04-12.14.18:172][328]LogHttp: Warning: 00000265E907AC00: libcurl info message cache 6 (ALPN, offering http/1.1)
+[2019.12.04-12.14.18:172][328]LogHttp: Warning: 00000265E907AC00: libcurl info message cache 7 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.12.04-12.14.18:172][328]LogHttp: Warning: 00000265E907AC00: libcurl info message cache 8 (SSL re-using session ID)
+[2019.12.04-12.14.18:172][328]LogHttp: Warning: 00000265E907AC00: libcurl info message cache 9 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.12.04-12.14.18:172][328]LogHttp: Warning: 00000265E907AC00: libcurl info message cache 10 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2019.12.04-12.14.18:172][328]LogHttp: Warning: 00000265E907AC00: libcurl info message cache 11 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2019.12.04-12.14.18:172][328]LogHttp: Warning: 00000265E907AC00: libcurl info message cache 12 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2019.12.04-12.14.18:172][328]LogHttp: Warning: 00000265E907AC00: libcurl info message cache 13 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2019.12.04-12.14.18:172][328]LogHttp: Warning: 00000265E907AC00: libcurl info message cache 14 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2019.12.04-12.14.18:172][328]LogHttp: Warning: 00000265E907AC00: libcurl info message cache 15 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2019.12.04-12.14.18:172][328]LogHttp: Warning: 00000265E907AC00: libcurl info message cache 16 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2019.12.04-12.14.18:172][328]LogHttp: Warning: 00000265E907AC00: libcurl info message cache 17 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2019.12.04-12.14.18:172][328]LogHttp: Warning: 00000265E907AC00: libcurl info message cache 18 (Closing connection 1)
+[2019.12.04-12.14.18:172][328]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B626FEAB3-4102-2233-460D-F182D380795A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=e5b56a40463272bffca56db2f6fc39c3%7Cddbaf2fb099d4bc8be6b98394d93a63c%7C7ad401b4-0279-4488-9c52-e67b13701f5e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.04-12.14.28:876][483]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2019.12.04-12.14.28:877][483]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.14.28:877][483]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.04-12.14.28:877][483]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.04-12.14.28:877][483]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.14.28:877][483]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.04-12.14.28:877][483]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.14.28:877][483]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.04-12.14.28:877][483]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.04-12.14.28:877][483]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.04-12.14.28:877][483]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.04-12.14.28:877][483]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.04-12.14.28:877][483]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.04-12.14.28:877][483]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.04-12.14.28:877][483]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.04-12.14.28:877][483]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.04-12.14.28:877][483]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.04-12.14.28:877][483]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.04-12.14.28:877][483]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.04-12.14.28:877][483]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.04-12.14.28:877][483]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.04-12.14.28:877][483]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.04-12.14.28:877][483]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.04-12.14.28:877][483]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.04-12.14.28:877][483]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.04-12.14.28:877][483]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.14.28:877][483]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.04-12.14.28:877][483]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.04-12.14.28:877][483]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.04-12.14.28:877][483]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.04-12.14.28:878][483]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.04-12.14.28:878][483]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByConsole'. Value remains '1000'
+[2019.12.04-12.14.28:878][483]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.04-12.14.28:879][483]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.14.28:879][483]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.04-12.14.28:879][483]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.04-12.14.28:879][483]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.04-12.14.28:879][483]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.04-12.14.28:879][483]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.04-12.14.28:879][483]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.04-12.14.28:879][483]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.04-12.14.28:879][483]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.04-12.14.28:879][483]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.04-12.14.28:879][483]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.04-12.14.28:879][483]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.04-12.14.28:879][483]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.04-12.14.28:879][483]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.04-12.14.28:879][483]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.04-12.14.28:879][483]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.04-12.14.28:879][483]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.04-12.14.29:100][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-12.14.29:108][483]LogSlate: Window '视频渲染 - 预览' being destroyed
+[2019.12.04-12.14.29:126][483]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-12.14.29:127][483]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2019.12.04-12.14.29:162][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.12.04-12.14.29:216][483]LogTemp: Movie Capture finished. Success: 1
+[2019.12.04-12.14.29:232][484]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:19486).
+[2019.12.04-12.14.29:307][486]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.12.04-12.14.29:367][489]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.04-12.14.33:255][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-12.14.33:371][842]LogSlate: Window '渲染视频设置' being destroyed
+[2019.12.04-12.14.57:539][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-12.15.12:641][705]Cmd: TRANSACTION UNDO
+[2019.12.04-12.15.12:641][705]LogEditorTransaction: Undo 删除片段
+[2019.12.04-12.15.36:303][266]Cmd: TRANSACTION UNDO
+[2019.12.04-12.15.36:303][266]LogEditorTransaction: Undo 删除节点
+[2019.12.04-12.15.36:662][288]Cmd: TRANSACTION UNDO
+[2019.12.04-12.15.36:662][288]LogEditorTransaction: Undo 删除节点
+[2019.12.04-12.15.37:110][326]Cmd: TRANSACTION UNDO
+[2019.12.04-12.15.37:110][326]LogEditorTransaction: Undo 动画属性已改变

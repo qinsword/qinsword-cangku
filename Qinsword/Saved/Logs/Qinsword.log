@@ -6877,3 +6877,365 @@ Please update your composite fonts to use localized sub-font families: https://d
 [2019.12.13-04.08.25:899][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
 [2019.12.13-04.08.25:922][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
 [2019.12.13-04.08.28:455][846]SourceControl: rm 'Qinsword/Content/StarterContent/map/map_1_BuiltData.uasset'
+[2019.12.13-04.13.43:668][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_aimwalk'
+[2019.12.13-04.13.43:668][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_aimwalk’ 的文件。
+[2019.12.13-04.13.43:668][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack1'
+[2019.12.13-04.13.43:669][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack1’ 的文件。
+[2019.12.13-04.13.43:669][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack2'
+[2019.12.13-04.13.43:669][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack2’ 的文件。
+[2019.12.13-04.13.43:669][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack3'
+[2019.12.13-04.13.43:669][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack3’ 的文件。
+[2019.12.13-04.13.43:669][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack4'
+[2019.12.13-04.13.43:669][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack4’ 的文件。
+[2019.12.13-04.13.43:669][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack5'
+[2019.12.13-04.13.43:669][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack5’ 的文件。
+[2019.12.13-04.13.43:669][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack6'
+[2019.12.13-04.13.43:669][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack6’ 的文件。
+[2019.12.13-04.13.43:669][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack7'
+[2019.12.13-04.13.43:669][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack7’ 的文件。
+[2019.12.13-04.13.43:669][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back1'
+[2019.12.13-04.13.43:670][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back1’ 的文件。
+[2019.12.13-04.13.43:670][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back2'
+[2019.12.13-04.13.43:670][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back2’ 的文件。
+[2019.12.13-04.13.43:670][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back3'
+[2019.12.13-04.13.43:670][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back3’ 的文件。
+[2019.12.13-04.13.43:670][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_fist1'
+[2019.12.13-04.13.43:670][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_fist1’ 的文件。
+[2019.12.13-04.13.43:670][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_fist2'
+[2019.12.13-04.13.43:670][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_fist2’ 的文件。
+[2019.12.13-04.13.43:670][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_kick'
+[2019.12.13-04.13.43:670][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_kick’ 的文件。
+[2019.12.13-04.13.43:670][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attacked'
+[2019.12.13-04.13.43:670][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attacked’ 的文件。
+[2019.12.13-04.13.43:670][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_crouchwalk'
+[2019.12.13-04.13.43:671][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_crouchwalk’ 的文件。
+[2019.12.13-04.13.43:671][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_idle'
+[2019.12.13-04.13.43:671][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_idle’ 的文件。
+[2019.12.13-04.13.43:671][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_jump'
+[2019.12.13-04.13.43:671][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_jump’ 的文件。
+[2019.12.13-04.13.43:671][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_move'
+[2019.12.13-04.13.43:671][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_move’ 的文件。
+[2019.12.13-04.13.43:671][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_pickup'
+[2019.12.13-04.13.43:671][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_pickup’ 的文件。
+[2019.12.13-04.13.43:671][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_walk'
+[2019.12.13-04.13.43:671][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_walk’ 的文件。
+[2019.12.13-04.13.43:680][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Maps/Overview_BuiltData'
+[2019.12.13-04.13.43:680][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Maps/Overview_BuiltData’ 的文件。
+[2019.12.13-04.13.43:688][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Materials/M_AassetPlatform'
+[2019.12.13-04.13.43:688][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Materials/M_AassetPlatform’ 的文件。
+[2019.12.13-04.13.43:689][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_aimwalk'
+[2019.12.13-04.13.43:689][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_aimwalk’ 的文件。
+[2019.12.13-04.13.43:689][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack1'
+[2019.12.13-04.13.43:689][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack1’ 的文件。
+[2019.12.13-04.13.43:689][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack2'
+[2019.12.13-04.13.43:689][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack2’ 的文件。
+[2019.12.13-04.13.43:690][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack3'
+[2019.12.13-04.13.43:690][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack3’ 的文件。
+[2019.12.13-04.13.43:690][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack4'
+[2019.12.13-04.13.43:690][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack4’ 的文件。
+[2019.12.13-04.13.43:690][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack5'
+[2019.12.13-04.13.43:690][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack5’ 的文件。
+[2019.12.13-04.13.43:690][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack6'
+[2019.12.13-04.13.43:690][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack6’ 的文件。
+[2019.12.13-04.13.43:690][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack7'
+[2019.12.13-04.13.43:690][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack7’ 的文件。
+[2019.12.13-04.13.43:690][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back1'
+[2019.12.13-04.13.43:690][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back1’ 的文件。
+[2019.12.13-04.13.43:690][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back2'
+[2019.12.13-04.13.43:690][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back2’ 的文件。
+[2019.12.13-04.13.43:690][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back3'
+[2019.12.13-04.13.43:690][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back3’ 的文件。
+[2019.12.13-04.13.43:690][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_fist1'
+[2019.12.13-04.13.43:690][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_fist1’ 的文件。
+[2019.12.13-04.13.43:690][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_fist2'
+[2019.12.13-04.13.43:691][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_fist2’ 的文件。
+[2019.12.13-04.13.43:691][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_kick'
+[2019.12.13-04.13.43:691][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_kick’ 的文件。
+[2019.12.13-04.13.43:691][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attacked'
+[2019.12.13-04.13.43:691][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attacked’ 的文件。
+[2019.12.13-04.13.43:691][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_crouchwalk'
+[2019.12.13-04.13.43:691][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_crouchwalk’ 的文件。
+[2019.12.13-04.13.43:691][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_idle'
+[2019.12.13-04.13.43:691][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_idle’ 的文件。
+[2019.12.13-04.13.43:691][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_jump'
+[2019.12.13-04.13.43:691][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_jump’ 的文件。
+[2019.12.13-04.13.43:691][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_move'
+[2019.12.13-04.13.43:691][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_move’ 的文件。
+[2019.12.13-04.13.43:691][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_pickup'
+[2019.12.13-04.13.43:691][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_pickup’ 的文件。
+[2019.12.13-04.13.43:691][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_walk'
+[2019.12.13-04.13.43:691][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_walk’ 的文件。
+[2019.12.13-04.13.43:691][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin'
+[2019.12.13-04.13.43:692][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin’ 的文件。
+[2019.12.13-04.13.43:692][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Maps/Overview_BuiltData'
+[2019.12.13-04.13.43:692][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Maps/Overview_BuiltData’ 的文件。
+[2019.12.13-04.13.43:692][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Materials/M_AassetPlatform'
+[2019.12.13-04.13.43:692][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Materials/M_AassetPlatform’ 的文件。
+[2019.12.13-04.13.43:692][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin'
+[2019.12.13-04.13.43:692][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin’ 的文件。
+[2019.12.13-04.13.43:692][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_aimwalk'
+[2019.12.13-04.13.43:693][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_aimwalk’ 的文件。
+[2019.12.13-04.13.43:693][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack1'
+[2019.12.13-04.13.43:693][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack1’ 的文件。
+[2019.12.13-04.13.43:693][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack2'
+[2019.12.13-04.13.43:693][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack2’ 的文件。
+[2019.12.13-04.13.43:693][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack3'
+[2019.12.13-04.13.43:693][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack3’ 的文件。
+[2019.12.13-04.13.43:693][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack4'
+[2019.12.13-04.13.43:693][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack4’ 的文件。
+[2019.12.13-04.13.43:693][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack5'
+[2019.12.13-04.13.43:693][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack5’ 的文件。
+[2019.12.13-04.13.43:693][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack6'
+[2019.12.13-04.13.43:693][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack6’ 的文件。
+[2019.12.13-04.13.43:693][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack7'
+[2019.12.13-04.13.43:693][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack7’ 的文件。
+[2019.12.13-04.13.43:693][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back1'
+[2019.12.13-04.13.43:693][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back1’ 的文件。
+[2019.12.13-04.13.43:693][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back2'
+[2019.12.13-04.13.43:694][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back2’ 的文件。
+[2019.12.13-04.13.43:694][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back3'
+[2019.12.13-04.13.43:694][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back3’ 的文件。
+[2019.12.13-04.13.43:694][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_fist1'
+[2019.12.13-04.13.43:694][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_fist1’ 的文件。
+[2019.12.13-04.13.43:694][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_fist2'
+[2019.12.13-04.13.43:694][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_fist2’ 的文件。
+[2019.12.13-04.13.43:694][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_kick'
+[2019.12.13-04.13.43:694][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_kick’ 的文件。
+[2019.12.13-04.13.43:694][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attacked'
+[2019.12.13-04.13.43:694][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attacked’ 的文件。
+[2019.12.13-04.13.43:694][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_crouchwalk'
+[2019.12.13-04.13.43:694][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_crouchwalk’ 的文件。
+[2019.12.13-04.13.43:694][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_idle'
+[2019.12.13-04.13.43:694][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_idle’ 的文件。
+[2019.12.13-04.13.43:694][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_jump'
+[2019.12.13-04.13.43:694][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_jump’ 的文件。
+[2019.12.13-04.13.43:694][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_move'
+[2019.12.13-04.13.43:694][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_move’ 的文件。
+[2019.12.13-04.13.43:695][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_pickup'
+[2019.12.13-04.13.43:695][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_pickup’ 的文件。
+[2019.12.13-04.13.43:695][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_walk'
+[2019.12.13-04.13.43:695][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_walk’ 的文件。
+[2019.12.13-04.13.43:695][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Maps/Overview_BuiltData'
+[2019.12.13-04.13.43:695][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Maps/Overview_BuiltData’ 的文件。
+[2019.12.13-04.13.43:695][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Materials/M_AassetPlatform'
+[2019.12.13-04.13.43:695][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Materials/M_AassetPlatform’ 的文件。
+[2019.12.13-04.13.43:695][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_aimwalk'
+[2019.12.13-04.13.43:695][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_aimwalk’ 的文件。
+[2019.12.13-04.13.43:695][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack1'
+[2019.12.13-04.13.43:695][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack1’ 的文件。
+[2019.12.13-04.13.43:695][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack2'
+[2019.12.13-04.13.43:695][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack2’ 的文件。
+[2019.12.13-04.13.43:695][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack3'
+[2019.12.13-04.13.43:695][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack3’ 的文件。
+[2019.12.13-04.13.43:695][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack4'
+[2019.12.13-04.13.43:695][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack4’ 的文件。
+[2019.12.13-04.13.43:695][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack5'
+[2019.12.13-04.13.43:696][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack5’ 的文件。
+[2019.12.13-04.13.43:696][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack6'
+[2019.12.13-04.13.43:696][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack6’ 的文件。
+[2019.12.13-04.13.43:696][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack7'
+[2019.12.13-04.13.43:696][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack7’ 的文件。
+[2019.12.13-04.13.43:696][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back1'
+[2019.12.13-04.13.43:696][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back1’ 的文件。
+[2019.12.13-04.13.43:696][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back2'
+[2019.12.13-04.13.43:696][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back2’ 的文件。
+[2019.12.13-04.13.43:696][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back3'
+[2019.12.13-04.13.43:696][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back3’ 的文件。
+[2019.12.13-04.13.43:696][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_fist1'
+[2019.12.13-04.13.43:696][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_fist1’ 的文件。
+[2019.12.13-04.13.43:696][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_fist2'
+[2019.12.13-04.13.43:696][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_fist2’ 的文件。
+[2019.12.13-04.13.43:696][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_kick'
+[2019.12.13-04.13.43:696][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_kick’ 的文件。
+[2019.12.13-04.13.43:696][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attacked'
+[2019.12.13-04.13.43:697][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attacked’ 的文件。
+[2019.12.13-04.13.43:697][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_crouchwalk'
+[2019.12.13-04.13.43:697][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_crouchwalk’ 的文件。
+[2019.12.13-04.13.43:697][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_idle'
+[2019.12.13-04.13.43:697][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_idle’ 的文件。
+[2019.12.13-04.13.43:697][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_jump'
+[2019.12.13-04.13.43:697][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_jump’ 的文件。
+[2019.12.13-04.13.43:697][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_move'
+[2019.12.13-04.13.43:697][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_move’ 的文件。
+[2019.12.13-04.13.43:697][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_pickup'
+[2019.12.13-04.13.43:697][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_pickup’ 的文件。
+[2019.12.13-04.13.43:697][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_walk'
+[2019.12.13-04.13.43:697][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_walk’ 的文件。
+[2019.12.13-04.13.43:697][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin'
+[2019.12.13-04.13.43:697][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin’ 的文件。
+[2019.12.13-04.13.43:697][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Maps/Overview_BuiltData'
+[2019.12.13-04.13.43:697][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Maps/Overview_BuiltData’ 的文件。
+[2019.12.13-04.13.43:697][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Materials/M_AassetPlatform'
+[2019.12.13-04.13.43:697][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Materials/M_AassetPlatform’ 的文件。
+[2019.12.13-04.13.43:698][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin'
+[2019.12.13-04.13.43:698][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin’ 的文件。
+[2019.12.13-04.13.43:701][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Maps/Overview_BuiltData'
+[2019.12.13-04.13.43:702][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Maps/Overview_BuiltData.Overview_BuiltData 引用者 PersistentLevel
+[2019.12.13-04.13.43:702][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Maps/Overview_BuiltData’ 的文件。
+[2019.12.13-04.13.43:702][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back2'
+[2019.12.13-04.13.43:703][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back2.ArcherSet_Root_attack_back2 引用者 SK_Mannequin10_29
+[2019.12.13-04.13.43:704][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back2’ 的文件。
+[2019.12.13-04.13.43:704][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin'
+[2019.12.13-04.13.43:704][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin.SK_Mannequin 引用者 SK_Mannequin10_29
+[2019.12.13-04.13.43:704][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin’ 的文件。
+[2019.12.13-04.13.43:705][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back3'
+[2019.12.13-04.13.43:705][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back3.ArcherSet_Root_attack_back3 引用者 SK_Mannequin11_32
+[2019.12.13-04.13.43:705][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back3’ 的文件。
+[2019.12.13-04.13.43:705][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin'
+[2019.12.13-04.13.43:706][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin.SK_Mannequin 引用者 SK_Mannequin11_32
+[2019.12.13-04.13.43:706][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin’ 的文件。
+[2019.12.13-04.13.43:706][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_fist1'
+[2019.12.13-04.13.43:707][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_fist1.ArcherSet_Root_attack_fist1 引用者 SK_Mannequin12_35
+[2019.12.13-04.13.43:707][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_fist1’ 的文件。
+[2019.12.13-04.13.43:707][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin'
+[2019.12.13-04.13.43:708][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin.SK_Mannequin 引用者 SK_Mannequin12_35
+[2019.12.13-04.13.43:708][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin’ 的文件。
+[2019.12.13-04.13.43:708][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_fist2'
+[2019.12.13-04.13.43:709][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_fist2.ArcherSet_Root_attack_fist2 引用者 SK_Mannequin13_38
+[2019.12.13-04.13.43:709][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_fist2’ 的文件。
+[2019.12.13-04.13.43:709][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin'
+[2019.12.13-04.13.43:709][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin.SK_Mannequin 引用者 SK_Mannequin13_38
+[2019.12.13-04.13.43:710][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin’ 的文件。
+[2019.12.13-04.13.43:710][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_kick'
+[2019.12.13-04.13.43:710][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_kick.ArcherSet_Root_attack_kick 引用者 SK_Mannequin14_41
+[2019.12.13-04.13.43:710][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_kick’ 的文件。
+[2019.12.13-04.13.43:711][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin'
+[2019.12.13-04.13.43:711][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin.SK_Mannequin 引用者 SK_Mannequin14_41
+[2019.12.13-04.13.43:711][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin’ 的文件。
+[2019.12.13-04.13.43:711][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attacked'
+[2019.12.13-04.13.43:712][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attacked.ArcherSet_Root_attacked 引用者 SK_Mannequin15_44
+[2019.12.13-04.13.43:712][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attacked’ 的文件。
+[2019.12.13-04.13.43:712][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin'
+[2019.12.13-04.13.43:713][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin.SK_Mannequin 引用者 SK_Mannequin15_44
+[2019.12.13-04.13.43:713][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin’ 的文件。
+[2019.12.13-04.13.43:713][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_crouchwalk'
+[2019.12.13-04.13.43:714][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_crouchwalk.ArcherSet_Root_crouchwalk 引用者 SK_Mannequin16_47
+[2019.12.13-04.13.43:714][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_crouchwalk’ 的文件。
+[2019.12.13-04.13.43:714][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin'
+[2019.12.13-04.13.43:715][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin.SK_Mannequin 引用者 SK_Mannequin16_47
+[2019.12.13-04.13.43:715][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin’ 的文件。
+[2019.12.13-04.13.43:715][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_idle'
+[2019.12.13-04.13.43:715][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_idle.ArcherSet_Root_idle 引用者 SK_Mannequin17_50
+[2019.12.13-04.13.43:716][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_idle’ 的文件。
+[2019.12.13-04.13.43:716][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin'
+[2019.12.13-04.13.43:716][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin.SK_Mannequin 引用者 SK_Mannequin17_50
+[2019.12.13-04.13.43:716][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin’ 的文件。
+[2019.12.13-04.13.43:716][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_jump'
+[2019.12.13-04.13.43:717][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_jump.ArcherSet_Root_jump 引用者 SK_Mannequin18_53
+[2019.12.13-04.13.43:717][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_jump’ 的文件。
+[2019.12.13-04.13.43:717][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin'
+[2019.12.13-04.13.43:718][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin.SK_Mannequin 引用者 SK_Mannequin18_53
+[2019.12.13-04.13.43:718][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin’ 的文件。
+[2019.12.13-04.13.43:718][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_move'
+[2019.12.13-04.13.43:719][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_move.ArcherSet_Root_move 引用者 SK_Mannequin19_56
+[2019.12.13-04.13.43:719][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_move’ 的文件。
+[2019.12.13-04.13.43:719][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin'
+[2019.12.13-04.13.43:720][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin.SK_Mannequin 引用者 SK_Mannequin19_56
+[2019.12.13-04.13.43:720][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin’ 的文件。
+[2019.12.13-04.13.43:720][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_pickup'
+[2019.12.13-04.13.43:721][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_pickup.ArcherSet_Root_pickup 引用者 SK_Mannequin20_59
+[2019.12.13-04.13.43:721][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_pickup’ 的文件。
+[2019.12.13-04.13.43:721][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin'
+[2019.12.13-04.13.43:721][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin.SK_Mannequin 引用者 SK_Mannequin20_59
+[2019.12.13-04.13.43:722][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin’ 的文件。
+[2019.12.13-04.13.43:722][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_walk'
+[2019.12.13-04.13.43:722][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_walk.ArcherSet_Root_walk 引用者 SK_Mannequin21
+[2019.12.13-04.13.43:722][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_walk’ 的文件。
+[2019.12.13-04.13.43:722][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin'
+[2019.12.13-04.13.43:723][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin.SK_Mannequin 引用者 SK_Mannequin21
+[2019.12.13-04.13.43:723][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin’ 的文件。
+[2019.12.13-04.13.43:723][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack1'
+[2019.12.13-04.13.43:724][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack1.ArcherSet_Root_attack1 引用者 SK_Mannequin2_5
+[2019.12.13-04.13.43:724][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack1’ 的文件。
+[2019.12.13-04.13.43:724][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin'
+[2019.12.13-04.13.43:725][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin.SK_Mannequin 引用者 SK_Mannequin2_5
+[2019.12.13-04.13.43:725][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin’ 的文件。
+[2019.12.13-04.13.43:725][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack2'
+[2019.12.13-04.13.43:725][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack2.ArcherSet_Root_attack2 引用者 SK_Mannequin3_8
+[2019.12.13-04.13.43:725][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack2’ 的文件。
+[2019.12.13-04.13.43:725][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin'
+[2019.12.13-04.13.43:726][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin.SK_Mannequin 引用者 SK_Mannequin3_8
+[2019.12.13-04.13.43:726][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin’ 的文件。
+[2019.12.13-04.13.43:726][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack3'
+[2019.12.13-04.13.43:727][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack3.ArcherSet_Root_attack3 引用者 SK_Mannequin4_11
+[2019.12.13-04.13.43:727][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack3’ 的文件。
+[2019.12.13-04.13.43:727][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin'
+[2019.12.13-04.13.43:727][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin.SK_Mannequin 引用者 SK_Mannequin4_11
+[2019.12.13-04.13.43:728][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin’ 的文件。
+[2019.12.13-04.13.43:728][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack4'
+[2019.12.13-04.13.43:728][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack4.ArcherSet_Root_attack4 引用者 SK_Mannequin5_14
+[2019.12.13-04.13.43:728][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack4’ 的文件。
+[2019.12.13-04.13.43:728][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin'
+[2019.12.13-04.13.43:729][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin.SK_Mannequin 引用者 SK_Mannequin5_14
+[2019.12.13-04.13.43:729][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin’ 的文件。
+[2019.12.13-04.13.43:729][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack5'
+[2019.12.13-04.13.43:730][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack5.ArcherSet_Root_attack5 引用者 SK_Mannequin6_17
+[2019.12.13-04.13.43:730][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack5’ 的文件。
+[2019.12.13-04.13.43:730][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin'
+[2019.12.13-04.13.43:731][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin.SK_Mannequin 引用者 SK_Mannequin6_17
+[2019.12.13-04.13.43:731][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin’ 的文件。
+[2019.12.13-04.13.43:731][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack6'
+[2019.12.13-04.13.43:732][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack6.ArcherSet_Root_attack6 引用者 SK_Mannequin7_20
+[2019.12.13-04.13.43:732][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack6’ 的文件。
+[2019.12.13-04.13.43:732][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin'
+[2019.12.13-04.13.43:733][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin.SK_Mannequin 引用者 SK_Mannequin7_20
+[2019.12.13-04.13.43:733][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin’ 的文件。
+[2019.12.13-04.13.43:733][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack7'
+[2019.12.13-04.13.43:734][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack7.ArcherSet_Root_attack7 引用者 SK_Mannequin8_23
+[2019.12.13-04.13.43:734][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack7’ 的文件。
+[2019.12.13-04.13.43:734][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin'
+[2019.12.13-04.13.43:735][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin.SK_Mannequin 引用者 SK_Mannequin8_23
+[2019.12.13-04.13.43:735][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin’ 的文件。
+[2019.12.13-04.13.43:735][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back1'
+[2019.12.13-04.13.43:735][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back1.ArcherSet_Root_attack_back1 引用者 SK_Mannequin9_26
+[2019.12.13-04.13.43:736][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_attack_back1’ 的文件。
+[2019.12.13-04.13.43:736][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin'
+[2019.12.13-04.13.43:736][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin.SK_Mannequin 引用者 SK_Mannequin9_26
+[2019.12.13-04.13.43:736][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin’ 的文件。
+[2019.12.13-04.13.43:737][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_aimwalk'
+[2019.12.13-04.13.43:737][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_aimwalk.ArcherSet_Root_aimwalk 引用者 SK_Mannequin_2
+[2019.12.13-04.13.43:737][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Root/ArcherSet_Root_aimwalk’ 的文件。
+[2019.12.13-04.13.43:737][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin'
+[2019.12.13-04.13.43:738][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin.SK_Mannequin 引用者 SK_Mannequin_2
+[2019.12.13-04.13.43:738][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Animations/Skeleton/SK_Mannequin’ 的文件。
+[2019.12.13-04.13.43:738][678]LogLinker: Warning: 无法找到文件 '/Game/DynamicArcherSet/Materials/M_AassetPlatform'
+[2019.12.13-04.13.43:739][678]LoadErrors: 加载失败 /Game/DynamicArcherSet/Materials/M_AassetPlatform.M_AassetPlatform 引用者 SK_Mannequin_2
+[2019.12.13-04.13.43:739][678]LogLinker: Warning: 无法在加载 NULL 时找到资源 '/Game/DynamicArcherSet/Materials/M_AassetPlatform’ 的文件。
+[2019.12.13-04.13.43:751][678]LogAIModule: Creating AISystem for world Overview
+[2019.12.13-04.13.43:754][678]LogAssetEditorManager: Opening Asset editor for World /Game/StarterContent/角色/动作/射箭/Maps/Overview.Overview
+[2019.12.13-04.13.43:777][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.12.13-04.13.45:031][678]LogSlate: Window 'Save Content' being destroyed
+[2019.12.13-04.13.45:176][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/map/map_1" FILE="F:/我的文档/-/Qinsword/Content/StarterContent/map/map_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.13-04.13.45:201][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.12.13-04.13.45:444][678]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/map_149E2B5EF4527BCC7F53F7D8FC37E3468.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/map/map_1.umap'
+[2019.12.13-04.13.45:457][678]LogFileHelpers: Saving map 'map_1' took 0.282
+[2019.12.13-04.13.45:459][678]Cmd: MAP LOAD FILE="F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/射箭/Maps/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.13-04.13.45:459][678]LightingResults: New page: 光照构建
+[2019.12.13-04.13.45:459][678]LoadErrors: New page: 正在加载地图： Overview.umap
+[2019.12.13-04.13.45:465][678]MapCheck: New page: 地图检测
+[2019.12.13-04.13.45:465][678]LightingResults: New page: 光照构建
+[2019.12.13-04.13.45:491][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.12.13-04.13.45:517][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.12.13-04.13.45:539][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.12.13-04.13.45:603][678]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.13-04.13.45:627][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.12.13-04.13.45:636][678]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.13-04.13.45:636][678]MapCheck: 地图检测完成：0个错误，0 个警告，用时0.055毫秒完成。
+[2019.12.13-04.13.45:636][678]LogFileHelpers: Loading map 'Overview' took 0.178
+[2019.12.13-04.13.45:896][678]LogAIModule: Creating AISystem for world map_1
+[2019.12.13-04.13.52:626][361]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2019.12.13-04.13.58:127][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-04.14.04:511][603]LogTexture: Display: 正在编译纹理：HQ_Lightmap1_2（AutoDXT、128X128）
+[2019.12.13-04.14.04:511][603]LogTexture: Display: 正在编译纹理：HQ_Lightmap0_3（AutoDXT、64X64）
+[2019.12.13-04.14.04:511][603]LogTexture: Display: 正在编译纹理：LQ_Lightmap_0_3（DXT1、64X64）
+[2019.12.13-04.14.04:511][603]LogTexture: Display: 正在编译纹理：SkyOcclusion0_3（AutoDXT、64X32）
+[2019.12.13-04.14.04:511][603]LogTexture: Display: 正在编译纹理：LQ_Lightmap_1_2（DXT1、128X128）
+[2019.12.13-04.14.04:511][603]LogTexture: Display: 正在编译纹理：SkyOcclusion1_2（AutoDXT、128X64）
+[2019.12.13-04.14.04:511][603]LogTexture: Display: 正在编译纹理：SkyOcclusion1_1（AutoDXT、128X64）
+[2019.12.13-04.14.04:511][603]LogTexture: Display: 正在编译纹理：HQ_Lightmap1_1（AutoDXT、128X128）
+[2019.12.13-04.14.04:511][603]LogTexture: Display: 正在编译纹理：LQ_Lightmap_1_1（DXT1、128X128）
+[2019.12.13-04.14.04:511][603]LogTexture: Display: 正在编译纹理：ShadowMapTexture2D_2（G8、64X64）
+[2019.12.13-04.14.04:511][603]LogTexture: Display: 正在编译纹理：ShadowMapTexture2D_3（G8、64X64）
+[2019.12.13-04.14.04:511][603]LogTexture: Display: 正在编译纹理：ShadowMapTexture2D_4（G8、32X32）
+[2019.12.13-04.14.04:511][603]LogMaterial: Display: Missing cached shader map for material M_AassetPlatform, compiling. 
+[2019.12.13-04.14.06:546][603]LogSlate: Window 'Unable to delete level' being destroyed
