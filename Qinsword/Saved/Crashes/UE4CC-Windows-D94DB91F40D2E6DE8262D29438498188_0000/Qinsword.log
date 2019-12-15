@@ -1,0 +1,1057 @@
+﻿Log file open, 12/14/19 21:49:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Qinsword
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.508403
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i9-9900KF CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1070 Ti
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/ue4 4.22.1/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.14-13.49.40:035][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.14-13.49.40:035][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.14-13.49.40:035][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Engine.ini]
+[2019.12.14-13.49.40:035][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.14-13.49.40:035][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.14-13.49.40:035][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Engine.ini]
+[2019.12.14-13.49.40:035][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Engine.ini]
+[2019.12.14-13.49.40:035][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.14-13.49.40:035][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.14-13.49.40:035][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.14-13.49.40:035][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.14-13.49.40:035][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.14-13.49.40:035][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.14-13.49.40:035][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.14-13.49.40:035][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.14-13.49.40:035][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.14-13.49.40:035][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.14-13.49.40:035][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.14-13.49.40:035][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.14-13.49.40:036][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.14-13.49.40:036][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Engine.ini]
+[2019.12.14-13.49.40:036][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.14-13.49.40:036][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.14-13.49.40:036][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.14-13.49.40:036][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.14-13.49.40:036][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.14-13.49.40:036][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.14-13.49.40:036][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.14-13.49.40:036][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.14-13.49.40:036][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.14-13.49.40:036][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.14-13.49.40:036][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.14-13.49.40:036][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.14-13.49.40:036][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.14-13.49.40:036][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Engine.ini]
+[2019.12.14-13.49.40:036][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Engine.ini]
+[2019.12.14-13.49.40:041][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.14-13.49.40:041][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.14-13.49.40:041][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.14-13.49.40:042][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.14-13.49.40:042][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.14-13.49.40:042][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.14-13.49.40:042][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.14-13.49.40:042][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.14-13.49.40:042][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.14-13.49.40:042][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.14-13.49.40:042][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.14-13.49.40:042][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.14-13.49.40:042][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.14-13.49.40:042][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.14-13.49.40:042][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.14-13.49.40:042][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.14-13.49.40:042][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.14-13.49.40:042][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.14-13.49.40:042][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.14-13.49.40:042][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.14-13.49.40:042][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.14-13.49.40:042][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.14-13.49.40:042][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.14-13.49.40:042][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.14-13.49.40:042][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.14-13.49.40:042][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.14-13.49.40:042][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.14-13.49.40:042][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.14-13.49.40:042][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.14-13.49.40:048][  0]LogHAL: Display: Platform has ~ 32 GB [34289422336 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.12.14-13.49.40:048][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.14-13.49.40:048][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.14-13.49.40:048][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.14-13.49.40:049][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Engine.ini]
+[2019.12.14-13.49.40:049][  0]LogInit: Computer: DESKTOP-IOJ413R
+[2019.12.14-13.49.40:049][  0]LogInit: User: 范儿小水
+[2019.12.14-13.49.40:049][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.12.14-13.49.40:049][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.14-13.49.40:049][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.12.14-13.49.40:049][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.14-13.49.40:050][  0]LogMemory: Process Physical Memory: 100.52 MB used, 100.52 MB peak
+[2019.12.14-13.49.40:050][  0]LogMemory: Process Virtual Memory: 90.95 MB used, 90.95 MB peak
+[2019.12.14-13.49.40:050][  0]LogMemory: Physical Memory: 10080.13 MB used,  22620.82 MB free, 32700.94 MB total
+[2019.12.14-13.49.40:050][  0]LogMemory: Virtual Memory: 4691.30 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2019.12.14-13.49.40:074][  0]LogInit: Using OS detected language (zh-CN).
+[2019.12.14-13.49.40:074][  0]LogInit: Using OS detected locale (zh-CN).
+[2019.12.14-13.49.40:075][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh-Hans-CN/Editor.locres' could not be opened for reading!
+[2019.12.14-13.49.40:075][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh-Hans-CN/EditorTutorials.locres' could not be opened for reading!
+[2019.12.14-13.49.40:075][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh-Hans-CN/Keywords.locres' could not be opened for reading!
+[2019.12.14-13.49.40:075][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh-Hans-CN/Category.locres' could not be opened for reading!
+[2019.12.14-13.49.40:075][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh-Hans-CN/ToolTips.locres' could not be opened for reading!
+[2019.12.14-13.49.40:075][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh-Hans-CN/PropertyNames.locres' could not be opened for reading!
+[2019.12.14-13.49.40:075][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh-Hans-CN/Engine.locres' could not be opened for reading!
+[2019.12.14-13.49.40:075][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh-Hans-CN/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.12.14-13.49.40:075][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh-Hans-CN/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.12.14-13.49.40:075][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh-Hans-CN/OnlineSubsystem.locres' could not be opened for reading!
+[2019.12.14-13.49.40:075][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh-Hans-CN/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.12.14-13.49.40:104][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh-CN/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.12.14-13.49.40:104][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh-CN/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.12.14-13.49.40:104][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh-CN/OnlineSubsystem.locres' could not be opened for reading!
+[2019.12.14-13.49.40:104][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh-CN/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.12.14-13.49.40:105][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh-Hans/Editor.locres' could not be opened for reading!
+[2019.12.14-13.49.40:105][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh-Hans/EditorTutorials.locres' could not be opened for reading!
+[2019.12.14-13.49.40:105][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh-Hans/Keywords.locres' could not be opened for reading!
+[2019.12.14-13.49.40:105][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh-Hans/Category.locres' could not be opened for reading!
+[2019.12.14-13.49.40:105][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh-Hans/ToolTips.locres' could not be opened for reading!
+[2019.12.14-13.49.40:105][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh-Hans/PropertyNames.locres' could not be opened for reading!
+[2019.12.14-13.49.40:105][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh-Hans/Engine.locres' could not be opened for reading!
+[2019.12.14-13.49.40:106][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2019.12.14-13.49.40:106][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2019.12.14-13.49.40:106][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2019.12.14-13.49.40:106][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2019.12.14-13.49.40:106][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2019.12.14-13.49.40:106][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2019.12.14-13.49.40:106][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2019.12.14-13.49.40:106][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2019.12.14-13.49.40:106][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2019.12.14-13.49.40:106][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2019.12.14-13.49.40:106][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2019.12.14-13.49.40:124][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.14-13.49.40:183][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.14-13.49.40:183][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.14-13.49.40:395][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.14-13.49.40:395][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.14-13.49.40:459][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070 Ti' (Feature Level 11_0)
+[2019.12.14-13.49.40:459][  0]LogD3D11RHI:       8079/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.12.14-13.49.40:461][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.14-13.49.40:461][  0]LogD3D11RHI:       0/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.14-13.49.40:461][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.14-13.49.40:467][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.14-13.49.40:467][  0]LogD3D11RHI:     GPU DeviceId: 0x1b82 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.14-13.49.40:467][  0]LogWindows: EnumDisplayDevices:
+[2019.12.14-13.49.40:467][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070 Ti' (P:1 D:1)
+[2019.12.14-13.49.40:468][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:1)
+[2019.12.14-13.49.40:469][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2019.12.14-13.49.40:470][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2019.12.14-13.49.40:470][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.12.14-13.49.40:470][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070 Ti
+[2019.12.14-13.49.40:470][  0]LogD3D11RHI:   Driver Version: 436.48 (internal:26.21.14.3648, unified:436.48)
+[2019.12.14-13.49.40:470][  0]LogD3D11RHI:      Driver Date: 9-26-2019
+[2019.12.14-13.49.40:470][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2019.12.14-13.49.40:505][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.14-13.49.40:512][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.14-13.49.40:512][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.14-13.49.40:512][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.14-13.49.40:520][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.14-13.49.40:940][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.14-13.49.40:949][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.14-13.49.40:958][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.14-13.49.40:967][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.14-13.49.40:976][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.14-13.49.40:985][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.14-13.49.40:995][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.14-13.49.41:004][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.14-13.49.41:009][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.14-13.49.41:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.14-13.49.41:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.14-13.49.41:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.14-13.49.41:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.14-13.49.41:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.14-13.49.41:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.14-13.49.41:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.14-13.49.41:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.14-13.49.41:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.14-13.49.41:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.14-13.49.41:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.14-13.49.41:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.14-13.49.41:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.14-13.49.41:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.14-13.49.41:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.14-13.49.41:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.14-13.49.41:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.14-13.49.41:062][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.14-13.49.41:064][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.14-13.49.41:105][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.14-13.49.41:105][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.14-13.49.41:122][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.14-13.49.41:122][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.14-13.49.41:131][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.14-13.49.41:139][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.14-13.49.41:148][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.14-13.49.41:157][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.14-13.49.41:189][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.14-13.49.41:189][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.14-13.49.41:189][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.14-13.49.41:194][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.14-13.49.41:221][  0]LogShaderCompilers: Guid format shader working directory is 27 characters bigger than the processId version (F:/我的文档/-/Qinsword/Intermediate/Shaders/WorkingDirectory/5292/).
+[2019.12.14-13.49.41:221][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/范儿小水/AppData/Local/Temp/UnrealShaderWorkingDir/76D5032047B36CDCFC134BB29209171E/'.
+[2019.12.14-13.49.41:223][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.14-13.49.41:223][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.14-13.49.41:223][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.14-13.49.41:626][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.14-13.49.41:667][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/范儿小水/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.12.14-13.49.41:667][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/范儿小水/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.12.14-13.49.41:667][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/我的文档/-/Qinsword/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.14-13.49.41:667][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.14-13.49.41:667][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/我的文档/-/Qinsword/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.14-13.49.41:668][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.14-13.49.41:677][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.14-13.49.41:677][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.14-13.49.41:677][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.14-13.49.41:689][  0]LogDerivedDataCache: Using Local data cache path C:/Users/范儿小水/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.14-13.49.41:689][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.14-13.49.41:689][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.14-13.49.41:710][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.14-13.49.41:711][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.14-13.49.41:712][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.14-13.49.41:785][  0]LogAssetRegistry: FAssetRegistry took 0.0296 seconds to start up
+[2019.12.14-13.49.42:011][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.14-13.49.42:107][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.14-13.49.42:107][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.14-13.49.42:107][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.14-13.49.42:107][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.14-13.49.42:107][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.14-13.49.42:114][  0]LogNetVersion: Qinsword 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4280585389)
+[2019.12.14-13.49.42:539][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 4 prioritized culture(s) in 0.162405 seconds
+[2019.12.14-13.49.42:544][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.12.14-13.49.42:544][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.12.14-13.49.42:544][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.14-13.49.43:205][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.14-13.49.43:218][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.14-13.49.43:318][  0]SourceControl: 源码控制已禁用
+[2019.12.14-13.49.44:426][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.12.14-13.49.44:426][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.12.14-13.49.44:476][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.14-13.49.44:725][  0]LogOcInput: OculusInput pre-init called
+[2019.12.14-13.49.45:311][  0]LogEngine: Initializing Engine...
+[2019.12.14-13.49.45:313][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.14-13.49.45:313][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.14-13.49.45:468][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.14-13.49.45:476][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.14-13.49.45:600][  0]LogInit: XAudio2 using '扬声器 (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.14-13.49.45:646][  0]LogInit: FAudioDevice initialized.
+[2019.12.14-13.49.45:646][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.14-13.49.45:751][  0]LogDerivedDataCache: Saved boot cache 0.10s 71MB C:/Users/范儿小水/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.12.14-13.49.45:751][  0]LogInit: Texture streaming: Enabled
+[2019.12.14-13.49.45:764][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.14-13.49.45:775][  0]LogInit: Transaction tracking system initialized
+[2019.12.14-13.49.45:787][  0]BlueprintLog: New page: 编辑器加载
+[2019.12.14-13.49.45:831][  0]LocalizationService: 本地化服务已禁用
+[2019.12.14-13.49.45:930][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.12.14-13.49.45:930][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.12.14-13.49.46:043][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.14-13.49.46:043][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.14-13.49.46:174][  0]LogFileCache: Scanning file cache for directory 'F:/我的文档/-/Qinsword/Content/' took 0.04s
+[2019.12.14-13.49.46:174][  0]Cmd: MAP LOAD FILE="F:/我的文档/-/Qinsword/Content/StarterContent/map/cunzhuang.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.14-13.49.46:174][  0]LightingResults: New page: 光照构建
+[2019.12.14-13.49.46:175][  0]MapCheck: New page: 地图检测
+[2019.12.14-13.49.46:175][  0]LightingResults: New page: 光照构建
+[2019.12.14-13.49.46:200][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.12.14-13.49.46:264][  0]LogAIModule: Creating AISystem for world cunzhuang
+[2019.12.14-13.49.46:266][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.14-13.49.46:294][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.12.14-13.49.46:294][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.14-13.49.46:295][  0]MapCheck: 地图检测完成：0个错误，0 个警告，用时0.083毫秒完成。
+[2019.12.14-13.49.46:295][  0]LogFileHelpers: Loading map 'cunzhuang' took 0.121
+[2019.12.14-13.49.46:409][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.14-13.49.46:415][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.14-13.49.46:421][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.14-13.49.46:427][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.14-13.49.46:493][  0]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.14-13.49.46:496][  0]LogSlate: Took 0.001920 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.12.14-13.49.46:497][  0]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.14-13.49.46:549][  0]LogRenderer: Reallocating scene render targets to support 1260x924 Format 10 NumSamples 1 (Frame:1).
+[2019.12.14-13.49.46:580][  0]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' was requested. Font: '/Engine/EngineFonts/Faces/RobotoRegular.RobotoRegular', Character: '反 (U+53cd)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2019.12.14-13.49.46:658][  0]LogLoad: (Engine Initialization) Total time: 8.76 seconds
+[2019.12.14-13.49.46:658][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.14-13.49.46:705][  0]LogAssetRegistry: Asset discovery search completed in 4.9420 seconds
+[2019.12.14-13.49.46:709][  0]LogCollectionManager: Loaded 0 collections in 0.000778 seconds
+[2019.12.14-13.49.46:744][  0]LogFileCache: Scanning file cache for directory 'F:/我的文档/-/Qinsword/Saved/Collections/' took 0.01s
+[2019.12.14-13.49.46:744][  0]LogFileCache: Scanning file cache for directory 'F:/我的文档/-/Qinsword/Content/Developers/范儿小水/Collections/' took 0.01s
+[2019.12.14-13.49.46:744][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.12.14-13.49.46:744][  0]LogFileCache: Scanning file cache for directory 'F:/我的文档/-/Qinsword/Content/Collections/' took 0.01s
+[2019.12.14-13.49.46:744][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000077 seconds (updated 0 objects)
+[2019.12.14-13.49.46:746][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.14-13.50.22:921][330]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.14-13.50.41:639][570]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.14-13.50.41:707][577]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.14-13.50.42:008][612]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.14-13.50.49:368][468]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.14-13.50.50:988][659]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.14-13.50.50:997][659]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.12.14-13.50.51:003][659]LogContentBrowser: Native class hierarchy populated in 0.0061 seconds. Added 2733 classes and 661 folders.
+[2019.12.14-13.50.51:009][659]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.14-13.50.51:011][659]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.14-13.50.51:012][659]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.14-13.50.51:012][659]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.14-13.50.51:012][659]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.14-13.50.51:013][659]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.14-13.50.51:013][659]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.14-13.50.51:014][659]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.14-13.50.51:014][659]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.14-13.50.51:015][659]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.14-13.50.51:015][659]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.14-13.50.51:016][659]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.14-13.50.51:016][659]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.14-13.50.51:017][659]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.14-13.50.51:017][659]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.14-13.50.51:018][659]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.14-13.50.51:018][659]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.14-13.50.51:019][659]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.14-13.50.51:020][659]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.14-13.50.51:020][659]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.14-13.50.51:021][659]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.14-13.50.51:021][659]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.14-13.50.51:022][659]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.14-13.50.51:023][659]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.14-13.50.51:023][659]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.14-13.50.51:024][659]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.14-13.50.51:024][659]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.14-13.50.51:058][659]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.14-13.50.51:064][659]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.14-13.50.51:087][659]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.14-13.50.53:729][954]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.14-13.50.53:736][954]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/Idle.Idle
+[2019.12.14-13.50.53:764][954]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.12.14-13.50.53:907][954]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.14-13.50.53:908][954]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.12.14-13.50.53:932][954]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.12.14-13.50.54:211][954]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.12.14-13.51.01:108][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.14-13.51.01:248][488]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/KickTrashcan.KickTrashcan
+[2019.12.14-13.51.07:578][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.14-13.51.07:654][ 55]LogSlate: Window 'KickTrashcan' being destroyed
+[2019.12.14-13.51.07:661][ 55]LogSlate: Window 'KickTrashcan' being destroyed
+[2019.12.14-13.51.08:124][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.14-13.51.15:219][404]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.14-13.51.15:354][404]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.14-13.51.15:485][404]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.14-13.51.15:621][404]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.14-13.51.15:639][404]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.14-13.51.15:670][404]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/KickTrashcanB6718D3442D061F22369DF8902F1AA53.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/杂项/KickTrashcan.uasset'
+[2019.12.14-13.51.16:099][404]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/KickTrashcan1C963F6142D15EFD0AAED9A5353F1F69.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/KickTrashcan.uasset'
+[2019.12.14-13.51.16:241][404]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.14-13.51.19:761][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.14-13.51.19:915][816]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/PatrolFullCycleLoop.PatrolFullCycleLoop
+[2019.12.14-13.51.19:920][816]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.14-13.51.19:940][816]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.12.14-13.51.20:191][816]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.12.14-13.51.23:222][102]LogSlate: Window 'PatrolFullCycleLoop' being destroyed
+[2019.12.14-13.51.23:226][102]LogSlate: Window 'PatrolFullCycleLoop' being destroyed
+[2019.12.14-13.51.23:754][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.14-13.51.23:869][161]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/Idle.Idle
+[2019.12.14-13.51.23:875][161]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.14-13.51.23:895][161]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.12.14-13.51.24:116][161]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.12.14-13.51.25:784][327]LogSlate: Window 'Idle' being destroyed
+[2019.12.14-13.51.25:790][327]LogSlate: Window 'Idle' being destroyed
+[2019.12.14-13.51.26:181][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.14-13.51.26:307][372]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/PatrolLoop.PatrolLoop
+[2019.12.14-13.51.26:312][372]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.14-13.51.26:333][372]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.12.14-13.51.26:564][372]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.12.14-13.51.27:780][468]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunArchLoop_L.RunArchLoop_L
+[2019.12.14-13.51.29:494][597]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunArchLoop_R.RunArchLoop_R
+[2019.12.14-13.51.30:630][678]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunBwdLoop.RunBwdLoop
+[2019.12.14-13.51.32:073][790]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunFwdLoop.RunFwdLoop
+[2019.12.14-13.51.34:134][934]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunFwdLoop_LeanL.RunFwdLoop_LeanL
+[2019.12.14-13.51.35:681][ 52]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunFwdLoop_LeanR.RunFwdLoop_LeanR
+[2019.12.14-13.51.37:498][197]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunLtLoop.RunLtLoop
+[2019.12.14-13.51.41:604][550]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunRtLoop.RunRtLoop
+[2019.12.14-13.51.42:712][638]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunStrafeLeft135Loop.RunStrafeLeft135Loop
+[2019.12.14-13.52.35:028][952]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkFwdLoop.WalkFwdLoop
+[2019.12.14-13.52.38:129][165]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_Default.ABS_zhujue_Motion_Default
+[2019.12.14-13.54.36:820][603]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunStrafeRight45Loop.RunStrafeRight45Loop
+[2019.12.14-13.54.40:563][842]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/PatrolLoop.PatrolLoop
+[2019.12.14-13.54.41:979][921]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/Idle.Idle
+[2019.12.14-13.54.48:742][400]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_Default.ABS_zhujue_Motion_Default
+[2019.12.14-13.55.05:516][651]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkFwdLoop.WalkFwdLoop
+[2019.12.14-13.55.12:949][151]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_Default.ABS_zhujue_Motion_Default
+[2019.12.14-13.55.19:834][670]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkFwdLoop.WalkFwdLoop
+[2019.12.14-13.55.24:790][ 23]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_Default.ABS_zhujue_Motion_Default
+[2019.12.14-13.55.31:012][485]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.14-13.55.38:653][ 38]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/PatrolFullCycleLoop.PatrolFullCycleLoop
+[2019.12.14-13.55.57:590][ 94]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/PatrolFullCycleLoop2F399A9548369AF6D4C581B8A9A79B12.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/杂项/PatrolFullCycleLoop.uasset'
+[2019.12.14-13.55.58:026][ 94]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/PatrolFullCycleLoop577280AF4959C67E7E4C079CE3771B31.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/PatrolFullCycleLoop.uasset'
+[2019.12.14-13.56.02:853][299]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/Idle.Idle
+[2019.12.14-13.56.05:670][485]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/PatrolLoop.PatrolLoop
+[2019.12.14-13.56.09:963][808]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunArchLoop_L.RunArchLoop_L
+[2019.12.14-13.56.11:054][884]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunArchLoop_R.RunArchLoop_R
+[2019.12.14-13.56.11:748][926]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunBwdLoop.RunBwdLoop
+[2019.12.14-13.56.14:835][143]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkFwdLoop.WalkFwdLoop
+[2019.12.14-13.56.18:299][400]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkFwdLoop_LeanL.WalkFwdLoop_LeanL
+[2019.12.14-13.56.20:953][591]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkFwdLoop.WalkFwdLoop
+[2019.12.14-13.56.23:415][763]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkThroughDoor_LH.WalkThroughDoor_LH
+[2019.12.14-13.56.25:385][904]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkThroughDoor_RH.WalkThroughDoor_RH
+[2019.12.14-13.56.27:335][ 45]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkThroughDoor_LH.WalkThroughDoor_LH
+[2019.12.14-13.56.36:346][730]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkFwdLoop_LeanL.WalkFwdLoop_LeanL
+[2019.12.14-13.56.40:255][ 10]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkFwdLoop.WalkFwdLoop
+[2019.12.14-13.56.48:579][627]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_Default.ABS_zhujue_Motion_Default
+[2019.12.14-13.57.36:895][466]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeLeft45Loop.StrafeLeft45Loop
+[2019.12.14-13.57.41:672][799]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeLeftLoop.StrafeLeftLoop
+[2019.12.14-13.57.43:299][915]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeRight135Loop.StrafeRight135Loop
+[2019.12.14-13.57.44:603][996]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkArchLoop_R.WalkArchLoop_R
+[2019.12.14-13.57.46:746][152]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkArchLoop_L.WalkArchLoop_L
+[2019.12.14-13.57.49:575][355]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeRightLoop.StrafeRightLoop
+[2019.12.14-13.57.50:994][449]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeRight45Loop.StrafeRight45Loop
+[2019.12.14-13.57.52:334][534]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeRight135Loop.StrafeRight135Loop
+[2019.12.14-13.57.53:901][643]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeLeftLoop.StrafeLeftLoop
+[2019.12.14-13.57.55:218][734]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeLeft45Loop.StrafeLeft45Loop
+[2019.12.14-13.57.56:102][790]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeLeft135Loop.StrafeLeft135Loop
+[2019.12.14-13.58.00:244][ 94]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/SprintFwdLoop1.SprintFwdLoop1
+[2019.12.14-13.58.03:458][327]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunStrafeRight45Loop.RunStrafeRight45Loop
+[2019.12.14-13.58.05:276][456]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunStrafeRight135Loop.RunStrafeRight135Loop
+[2019.12.14-13.58.06:085][508]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunStrafeLeft45Loop.RunStrafeLeft45Loop
+[2019.12.14-13.58.07:610][616]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunStrafeLeft135Loop.RunStrafeLeft135Loop
+[2019.12.14-13.58.09:775][769]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunRtLoop.RunRtLoop
+[2019.12.14-13.58.18:140][418]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkFwdLoop_LeanR.WalkFwdLoop_LeanR
+[2019.12.14-13.58.18:988][470]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkThroughDoor_LH.WalkThroughDoor_LH
+[2019.12.14-13.58.20:594][568]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkFwdLoop_LeanL.WalkFwdLoop_LeanL
+[2019.12.14-13.58.32:242][ 33]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/WalkThroughDoor_LH9B40DB98416480208DFFF88F93FFA6DA.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/buttonpush_pull/WalkThroughDoor_LH.uasset'
+[2019.12.14-13.58.32:688][ 33]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/WalkThroughDoor_LH58568EB14C9F0F5DBA7711917EA65F25.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkThroughDoor_LH.uasset'
+[2019.12.14-13.58.32:713][ 33]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/WalkThroughDoor_RH02BDAE7144ED5E70968E618C7CFAA71E.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/buttonpush_pull/WalkThroughDoor_RH.uasset'
+[2019.12.14-13.58.33:138][ 33]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/WalkThroughDoor_RH9DF0F1E34A9AC61C7C6552A57D1F6A61.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkThroughDoor_RH.uasset'
+[2019.12.14-13.58.39:086][432]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/PatrolLoop.PatrolLoop
+[2019.12.14-13.58.41:794][617]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunLtLoop.RunLtLoop
+[2019.12.14-13.58.44:483][807]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunRtLoop.RunRtLoop
+[2019.12.14-13.58.46:647][961]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunStrafeLeft135Loop.RunStrafeLeft135Loop
+[2019.12.14-13.58.48:007][ 54]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunStrafeRight135Loop.RunStrafeRight135Loop
+[2019.12.14-13.58.49:750][175]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunStrafeRight45Loop.RunStrafeRight45Loop
+[2019.12.14-13.58.51:352][287]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/SprintFwdLoop1.SprintFwdLoop1
+[2019.12.14-13.59.00:122][917]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_Default.ABS_zhujue_Motion_Default
+[2019.12.14-13.59.05:954][346]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/SprintFwdLoop1.SprintFwdLoop1
+[2019.12.14-13.59.11:601][685]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_Default.ABS_zhujue_Motion_Default
+[2019.12.14-13.59.45:976][308]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkBwdLoop.WalkBwdLoop
+[2019.12.14-13.59.47:699][426]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkArchLoop_R.WalkArchLoop_R
+[2019.12.14-13.59.48:775][498]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkArchLoop_L.WalkArchLoop_L
+[2019.12.14-13.59.49:292][527]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeRight45Loop.StrafeRight45Loop
+[2019.12.14-13.59.52:150][731]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeRight135Loop.StrafeRight135Loop
+[2019.12.14-13.59.53:184][799]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeLeftLoop.StrafeLeftLoop
+[2019.12.14-13.59.53:746][832]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeLeft45Loop.StrafeLeft45Loop
+[2019.12.14-13.59.54:325][865]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/SprintFwdLoop1.SprintFwdLoop1
+[2019.12.14-13.59.55:643][954]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunStrafeRight45Loop.RunStrafeRight45Loop
+[2019.12.14-13.59.56:103][979]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunStrafeRight135Loop.RunStrafeRight135Loop
+[2019.12.14-13.59.56:590][  7]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunStrafeLeft135Loop.RunStrafeLeft135Loop
+[2019.12.14-13.59.58:105][113]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunRtLoop.RunRtLoop
+[2019.12.14-13.59.58:608][142]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunLtLoop.RunLtLoop
+[2019.12.14-13.59.59:618][198]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunFwdLoop_LeanR.RunFwdLoop_LeanR
+[2019.12.14-14.00.00:094][222]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunFwdLoop.RunFwdLoop
+[2019.12.14-14.00.00:568][248]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunBwdLoop.RunBwdLoop
+[2019.12.14-14.00.01:930][341]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunArchLoop_R.RunArchLoop_R
+[2019.12.14-14.00.02:398][367]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunArchLoop_L.RunArchLoop_L
+[2019.12.14-14.00.03:292][423]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/PatrolLoop.PatrolLoop
+[2019.12.14-14.00.03:889][457]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/Idle.Idle
+[2019.12.14-14.00.04:605][502]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/PatrolLoop.PatrolLoop
+[2019.12.14-14.00.06:778][654]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkFwdLoop_LeanL.WalkFwdLoop_LeanL
+[2019.12.14-14.00.07:585][704]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkFwdLoop_LeanR.WalkFwdLoop_LeanR
+[2019.12.14-14.00.08:712][773]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkFwdLoop.WalkFwdLoop
+[2019.12.14-14.00.09:237][802]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkBwdLoop.WalkBwdLoop
+[2019.12.14-14.00.10:570][891]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkFwdLoop.WalkFwdLoop
+[2019.12.14-14.00.15:223][212]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_Default.ABS_zhujue_Motion_Default
+[2019.12.14-14.00.56:873][432]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkArchLoop_R.WalkArchLoop_R
+[2019.12.14-14.01.00:973][733]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkArchLoop_L.WalkArchLoop_L
+[2019.12.14-14.01.05:414][ 66]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeRightLoop.StrafeRightLoop
+[2019.12.14-14.01.07:351][204]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeRight45Loop.StrafeRight45Loop
+[2019.12.14-14.01.18:115][  3]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkBwdLoop.WalkBwdLoop
+[2019.12.14-14.01.18:837][ 48]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkFwdLoop.WalkFwdLoop
+[2019.12.14-14.01.19:571][ 93]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkFwdLoop_LeanL.WalkFwdLoop_LeanL
+[2019.12.14-14.01.21:144][202]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkFwdLoop_LeanR.WalkFwdLoop_LeanR
+[2019.12.14-14.01.24:113][407]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkArchLoop_R.WalkArchLoop_R
+[2019.12.14-14.01.25:052][470]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkArchLoop_L.WalkArchLoop_L
+[2019.12.14-14.01.37:404][380]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeRight135Loop.StrafeRight135Loop
+[2019.12.14-14.01.41:191][663]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeLeftLoop.StrafeLeftLoop
+[2019.12.14-14.01.48:154][172]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/SprintFwdLoop1.SprintFwdLoop1
+[2019.12.14-14.01.55:957][713]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_Default.ABS_zhujue_Motion_Default
+[2019.12.14-14.04.19:458][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.14-14.04.19:522][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.12.14-14.04.19:522][ 65]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/map/cunzhuang' took 0.055
+[2019.12.14-14.04.19:523][ 65]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_Default] ([1] browsable assets)...
+[2019.12.14-14.04.19:534][ 65]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_Default.ABS_zhujue_Motion_Default]
+[2019.12.14-14.04.19:534][ 65]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_Default]
+[2019.12.14-14.04.19:555][ 65]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/ABS_zhujue_Motion_Default_Auto1890EA86C403881F216B97B862C74B1D7.tmp' to 'F:/我的文档/-/Qinsword/Saved/Autosaves/Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_Default_Auto1.uasset'
+[2019.12.14-14.04.19:558][ 65]LogFileHelpers: Auto-saving content packages took 0.035
+[2019.12.14-14.05.27:842][695]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/SprintFwdLoop1.SprintFwdLoop1
+[2019.12.14-14.05.28:861][766]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunStrafeRight45Loop.RunStrafeRight45Loop
+[2019.12.14-14.05.35:333][243]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_Default.ABS_zhujue_Motion_Default
+[2019.12.14-14.05.58:185][ 38]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeRightLoop.StrafeRightLoop
+[2019.12.14-14.05.59:533][132]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeRight45Loop.StrafeRight45Loop
+[2019.12.14-14.06.03:911][448]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkArchLoop_R.WalkArchLoop_R
+[2019.12.14-14.06.05:309][544]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkArchLoop_L.WalkArchLoop_L
+[2019.12.14-14.06.07:629][715]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeRightLoop.StrafeRightLoop
+[2019.12.14-14.06.08:780][790]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeRight45Loop.StrafeRight45Loop
+[2019.12.14-14.06.10:320][890]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeRight135Loop.StrafeRight135Loop
+[2019.12.14-14.06.11:254][953]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeLeftLoop.StrafeLeftLoop
+[2019.12.14-14.06.13:064][ 80]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeLeft45Loop.StrafeLeft45Loop
+[2019.12.14-14.06.14:118][150]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeLeft135Loop.StrafeLeft135Loop
+[2019.12.14-14.06.25:604][ 13]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkArchLoop_R.WalkArchLoop_R
+[2019.12.14-14.06.26:717][ 87]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkArchLoop_L.WalkArchLoop_L
+[2019.12.14-14.06.28:832][240]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkArchLoop_R.WalkArchLoop_R
+[2019.12.14-14.06.32:126][480]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/WalkArchLoop_L.WalkArchLoop_L
+[2019.12.14-14.06.34:433][644]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeRightLoop.StrafeRightLoop
+[2019.12.14-14.06.39:826][ 51]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_Default.ABS_zhujue_Motion_Default
+[2019.12.14-14.07.20:162][157]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeRightLoop.StrafeRightLoop
+[2019.12.14-14.07.22:644][340]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeRight45Loop.StrafeRight45Loop
+[2019.12.14-14.07.27:650][716]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeRightLoop.StrafeRightLoop
+[2019.12.14-14.07.36:529][376]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeRight135Loop.StrafeRight135Loop
+[2019.12.14-14.07.42:870][867]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeRight45Loop.StrafeRight45Loop
+[2019.12.14-14.07.45:243][ 33]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeLeft45Loop.StrafeLeft45Loop
+[2019.12.14-14.07.47:004][158]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeLeft135Loop.StrafeLeft135Loop
+[2019.12.14-14.07.48:498][258]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeLeftLoop.StrafeLeftLoop
+[2019.12.14-14.07.54:704][743]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeLeft45Loop.StrafeLeft45Loop
+[2019.12.14-14.07.58:457][ 24]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_Default.ABS_zhujue_Motion_Default
+[2019.12.14-14.09.51:852][666]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.14-14.09.51:853][666]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (微软拼音).
+[2019.12.14-14.10.42:682][449]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/ABS_zhujue_Motion_Default6153483E424136AFADA8428B738D42D4.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_Default.uasset'
+[2019.12.14-14.10.47:952][818]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_battle.ABS_zhujue_Motion_battle
+[2019.12.14-14.11.16:905][234]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Idle_Punch_Move_L.Idle_Punch_Move_L
+[2019.12.14-14.11.20:529][511]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Idle_Knockdown_Right.Idle_Knockdown_Right
+[2019.12.14-14.11.22:345][647]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Idle_Knockdown_Left.Idle_Knockdown_Left
+[2019.12.14-14.11.27:330][ 29]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Idle_Knockdown_Front.Idle_Knockdown_Front
+[2019.12.14-14.11.28:635][121]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Idle_Hit_Strong_Right.Idle_Hit_Strong_Right
+[2019.12.14-14.12.22:591][559]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Idle_Hit_Strong_Left.Idle_Hit_Strong_Left
+[2019.12.14-14.12.23:567][624]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Idle2Fists.Idle2Fists
+[2019.12.14-14.12.25:824][794]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Fists_Punch_R.Fists_Punch_R
+[2019.12.14-14.12.27:561][923]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Fists_Punch_Move_R.Fists_Punch_Move_R
+[2019.12.14-14.12.29:166][ 28]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Fists_Punch_Move_L.Fists_Punch_Move_L
+[2019.12.14-14.12.29:989][ 82]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Fists_Punch_L.Fists_Punch_L
+[2019.12.14-14.12.31:627][195]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Fists_Punch_Heavy2Idle.Fists_Punch_Heavy2Idle
+[2019.12.14-14.12.34:758][422]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Fists_Kick_Front_Move_R.Fists_Kick_Front_Move_R
+[2019.12.14-14.12.36:276][527]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Fists_Kick_Front_L.Fists_Kick_Front_L
+[2019.12.14-14.12.37:596][619]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Fists_Idle.Fists_Idle
+[2019.12.14-14.12.40:563][836]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Fists_Hit_Right.Fists_Hit_Right
+[2019.12.14-14.12.42:886][  2]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Fists_Hit_Left.Fists_Hit_Left
+[2019.12.14-14.12.44:279][ 93]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Fists2Idle.Fists2Idle
+[2019.12.14-14.12.51:627][629]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Death_2.Death_2
+[2019.12.14-14.12.52:348][671]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Fists_Kick_Front_L.Fists_Kick_Front_L
+[2019.12.14-14.12.53:369][740]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Fists_Idle.Fists_Idle
+[2019.12.14-14.13.01:695][349]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_battle.ABS_zhujue_Motion_battle
+[2019.12.14-14.13.10:859][ 41]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Fists_Punch_Heavy2Idle.Fists_Punch_Heavy2Idle
+[2019.12.14-14.13.16:867][485]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_battle.ABS_zhujue_Motion_battle
+[2019.12.14-14.14.20:338][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.12.14-14.14.20:338][939]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/map/cunzhuang' took 0.035
+[2019.12.14-14.14.20:339][939]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_battle] ([1] browsable assets)...
+[2019.12.14-14.14.20:349][939]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_battle.ABS_zhujue_Motion_battle]
+[2019.12.14-14.14.20:349][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_battle]
+[2019.12.14-14.14.20:366][939]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/ABS_zhujue_Motion_battle_Auto2E4B9BE424BEE2A188BFA3EB64698E36E.tmp' to 'F:/我的文档/-/Qinsword/Saved/Autosaves/Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_battle_Auto2.uasset'
+[2019.12.14-14.14.20:379][939]LogFileHelpers: Auto-saving content packages took 0.040
+[2019.12.14-14.16.25:911][216]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunStrafeRight45Loop.RunStrafeRight45Loop
+[2019.12.14-14.16.35:644][955]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunStrafeLeft45Loop.RunStrafeLeft45Loop
+[2019.12.14-14.16.37:365][ 73]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunStrafeRight135Loop.RunStrafeRight135Loop
+[2019.12.14-14.16.38:114][119]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunStrafeLeft135Loop.RunStrafeLeft135Loop
+[2019.12.14-14.16.40:624][298]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_battle.ABS_zhujue_Motion_battle
+[2019.12.14-14.16.44:457][573]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_Default.ABS_zhujue_Motion_Default
+[2019.12.14-14.16.49:170][931]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunStrafeRight45Loop.RunStrafeRight45Loop
+[2019.12.14-14.16.51:088][ 65]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_Default.ABS_zhujue_Motion_Default
+[2019.12.14-14.18.06:350][806]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunRtLoop.RunRtLoop
+[2019.12.14-14.18.10:058][ 64]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunFwdLoop_LeanL.RunFwdLoop_LeanL
+[2019.12.14-14.18.11:369][156]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunFwdLoop_LeanR.RunFwdLoop_LeanR
+[2019.12.14-14.18.15:625][455]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_Default.ABS_zhujue_Motion_Default
+[2019.12.14-14.18.53:297][295]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/ABS_zhujue_Motion_DefaultF96BE38E42DFAAFCF01415B07CC74F89.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_Default.uasset'
+[2019.12.14-14.19.18:384][118]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_battle.ABS_zhujue_Motion_battle
+[2019.12.14-14.23.16:572][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.14-14.23.52:229][975]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Fists2Idle.Fists2Idle
+[2019.12.14-14.24.00:851][656]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Fists_Hit_Left.Fists_Hit_Left
+[2019.12.14-14.24.04:202][917]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Fists_Hit_Right.Fists_Hit_Right
+[2019.12.14-14.24.08:936][285]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Fists_Kick_Front_L.Fists_Kick_Front_L
+[2019.12.14-14.24.12:455][555]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Fists_Kick_Front_Move_R.Fists_Kick_Front_Move_R
+[2019.12.14-14.24.15:942][819]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Fists_Punch_L.Fists_Punch_L
+[2019.12.14-14.24.17:233][910]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Fists_Punch_Move_L.Fists_Punch_Move_L
+[2019.12.14-14.24.18:468][994]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Fists_Punch_Move_R.Fists_Punch_Move_R
+[2019.12.14-14.24.19:039][ 28]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Fists_Punch_R.Fists_Punch_R
+[2019.12.14-14.24.20:169][105]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Idle2Fists.Idle2Fists
+[2019.12.14-14.24.21:470][200]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Idle_Hit_Strong_Left.Idle_Hit_Strong_Left
+[2019.12.14-14.24.22:732][290]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Idle_Hit_Strong_Right.Idle_Hit_Strong_Right
+[2019.12.14-14.24.24:244][396]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Idle_Knockdown_Front.Idle_Knockdown_Front
+[2019.12.14-14.24.25:635][493]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Idle_Knockdown_Left.Idle_Knockdown_Left
+[2019.12.14-14.24.26:595][559]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Idle_Knockdown_Right.Idle_Knockdown_Right
+[2019.12.14-14.24.28:343][685]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/hit/Idle_Punch_Move_L.Idle_Punch_Move_L
+[2019.12.14-14.24.31:927][949]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_battle.ABS_zhujue_Motion_battle
+[2019.12.14-14.26.34:091][570]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeLeft135Loop.StrafeLeft135Loop
+[2019.12.14-14.26.37:012][777]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeLeft45Loop.StrafeLeft45Loop
+[2019.12.14-14.26.38:869][913]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeLeftLoop.StrafeLeftLoop
+[2019.12.14-14.26.40:730][ 42]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeLeft135Loop.StrafeLeft135Loop
+[2019.12.14-14.26.43:840][257]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeLeftLoop.StrafeLeftLoop
+[2019.12.14-14.26.49:637][676]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_battle.ABS_zhujue_Motion_battle
+[2019.12.14-14.27.09:857][256]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/StrafeLeftLoop.StrafeLeftLoop
+[2019.12.14-14.27.12:708][459]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_battle.ABS_zhujue_Motion_battle
+[2019.12.14-14.27.29:561][667]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunLtLoop.RunLtLoop
+[2019.12.14-14.27.32:382][862]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/RunRtLoop.RunRtLoop
+[2019.12.14-14.27.34:638][ 18]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_battle.ABS_zhujue_Motion_battle
+[2019.12.14-14.29.23:918][ 50]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/ABS_zhujue_Motion_battle1DFF0D7444CD12E38C58B99AF5EAF280.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_battle.uasset'
+[2019.12.14-14.31.13:277][ 18]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.12.14-14.31.21:869][ 18]LogSlate: Window '创建动画蓝图' being destroyed
+[2019.12.14-14.31.24:068][160]SourceControl: fatal: D:/ue4 4.22.1/UE_4.22/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset: 'D:/ue4 4.22.1/UE_4.22/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset' is outside repository
+[2019.12.14-14.31.24:068][160]SourceControl: fatal: D:/ue4 4.22.1/UE_4.22/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset: 'D:/ue4 4.22.1/UE_4.22/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset' is outside repository
+[2019.12.14-14.31.41:315][630]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/StarterContent/角色/BP/Assets/Animation/主角/ABP_zhujue.ABP_zhujue
+[2019.12.14-14.31.41:323][630]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_195:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.14-14.31.41:488][630]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.12.14-14.31.42:103][630]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_195:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.12.14-14.31.42:256][630]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.14-14.31.50:944][384]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.14-14.32.06:711][914]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.12.14-14.32.19:269][ 26]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/Idle.Idle
+[2019.12.14-14.32.32:487][189]BlueprintLog: New page: 编译ABP_zhujue
+[2019.12.14-14.32.32:653][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.12.14-14.34.26:305][ 62]BlueprintLog: New page: 编译ABP_zhujue
+[2019.12.14-14.34.26:310][ 62]LogBlueprint: Warning: [Compiler ABP_zhujue] 入口节点 Motion 没有被连接到状态上
+[2019.12.14-14.34.26:310][ 62]LogBlueprint: Warning: [Compiler ABP_zhujue] 在 Motion 中没有入口状态连接
+[2019.12.14-14.34.26:437][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.12.14-14.34.26:440][ 62]LogBlueprint: Warning: [Compiler ABP_zhujue] [2688.55]ABP_zhujue 编译成功，但出现了 2 个警告[135 毫秒内]（/Game/StarterContent/角色/BP/Assets/Animation/主角/ABP_zhujue.ABP_zhujue）
+[2019.12.14-14.42.08:515][597]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.12.14-14.42.08:515][597]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/map/cunzhuang' took 0.039
+[2019.12.14-14.42.08:516][597]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/角色/BP/Assets/Animation/主角/ABP_zhujue] ([1] browsable assets)...
+[2019.12.14-14.42.08:525][597]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/StarterContent/角色/BP/Assets/Animation/主角/ABP_zhujue.ABP_zhujue]
+[2019.12.14-14.42.08:525][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/角色/BP/Assets/Animation/主角/ABP_zhujue]
+[2019.12.14-14.42.08:564][597]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/ABP_zhujue_Auto3778D18B0410C27093C8626BBC9000625.tmp' to 'F:/我的文档/-/Qinsword/Saved/Autosaves/Game/StarterContent/角色/BP/Assets/Animation/主角/ABP_zhujue_Auto3.uasset'
+[2019.12.14-14.42.08:567][597]LogFileHelpers: Auto-saving content packages took 0.052
+[2019.12.14-14.46.10:180][221]BlueprintLog: New page: 编译ABP_zhujue
+[2019.12.14-14.46.10:189][221]LogBlueprint: Warning: [Compiler ABP_zhujue] IdleMove到JumpAdd  will never be taken, please connect something to  Can Enter Transition
+[2019.12.14-14.46.10:314][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.12.14-14.46.10:318][221]LogBlueprint: Warning: [Compiler ABP_zhujue] [3392.42]ABP_zhujue 编译成功，但出现了 1 个警告[138 毫秒内]（/Game/StarterContent/角色/BP/Assets/Animation/主角/ABP_zhujue.ABP_zhujue）
+[2019.12.14-14.47.42:171][982]BlueprintLog: New page: 编译ABP_zhujue
+[2019.12.14-14.47.42:301][982]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.12.14-14.48.08:362][276]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS_zhujue_Motion_Default.ABS_zhujue_Motion_Default
+[2019.12.14-14.51.32:283][118]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/走跳/Animation/In_Place/Walk_10_Running_Late_IP.Walk_10_Running_Late_IP
+[2019.12.14-14.51.34:012][228]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/走跳/Animation/In_Place/Walk_09_Happy_Dance_Loop_IP.Walk_09_Happy_Dance_Loop_IP
+[2019.12.14-14.51.38:168][445]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/走跳/Animation/In_Place/Walk_04_Texting_Loop_IP.Walk_04_Texting_Loop_IP
+[2019.12.14-14.51.42:883][768]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/走跳/Animation/In_Place/Walk_09_Happy_Dance_Loop_IP.Walk_09_Happy_Dance_Loop_IP
+[2019.12.14-14.51.44:146][843]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/走跳/Animation/In_Place/Walk_02_Cheerful_IP.Walk_02_Cheerful_IP
+[2019.12.14-14.51.57:309][525]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/走跳/Animation/In_Place/Walk_14_Strut_IP.Walk_14_Strut_IP
+[2019.12.14-14.51.58:623][621]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/走跳/Animation/In_Place/Walk_13_Power_Walk_Loop_IP.Walk_13_Power_Walk_Loop_IP
+[2019.12.14-14.51.59:095][649]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/走跳/Animation/In_Place/Walk_13_Power_Walk_IP.Walk_13_Power_Walk_IP
+[2019.12.14-14.51.59:943][703]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/走跳/Animation/In_Place/Walk_12_Creeping_Loop_IP.Walk_12_Creeping_Loop_IP
+[2019.12.14-14.52.00:874][765]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/走跳/Animation/In_Place/Walk_12_Creeping_IP.Walk_12_Creeping_IP
+[2019.12.14-14.52.04:486][ 55]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/走跳/Animation/Root_Motion/Walk_14_Strut_Loop.Walk_14_Strut_Loop
+[2019.12.14-14.52.05:474][124]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/走跳/Animation/Root_Motion/Walk_13_Power_Walk_Loop.Walk_13_Power_Walk_Loop
+[2019.12.14-14.52.06:095][163]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/走跳/Animation/Root_Motion/Walk_14_Strut.Walk_14_Strut
+[2019.12.14-14.52.07:345][252]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/走跳/Animation/Root_Motion/Walk_09_Happy_Dance_Loop.Walk_09_Happy_Dance_Loop
+[2019.12.14-14.52.07:840][280]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/走跳/Animation/Root_Motion/Walk_09_Happy_Dance.Walk_09_Happy_Dance
+[2019.12.14-14.52.14:244][820]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/走跳/Animation/In_Place/Walk_01_Relaxed_IP.Walk_01_Relaxed_IP
+[2019.12.14-14.52.14:904][863]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/走跳/Animation/In_Place/Walk_01_Relaxed_Loop_IP.Walk_01_Relaxed_Loop_IP
+[2019.12.14-14.52.15:464][898]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/走跳/Animation/In_Place/Walk_02_Cheerful_IP.Walk_02_Cheerful_IP
+[2019.12.14-14.52.16:094][938]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/走跳/Animation/In_Place/Walk_03_Mad_IP.Walk_03_Mad_IP
+[2019.12.14-14.52.34:093][307]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/整合/移动/walk_front.walk_front
+[2019.12.14-14.52.52:707][908]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpIdleLand.JumpIdleLand
+[2019.12.14-14.52.54:377][ 32]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/FallingLoop.FallingLoop
+[2019.12.14-14.52.57:876][308]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpRun_LU_Land.JumpRun_LU_Land
+[2019.12.14-14.52.59:608][442]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpIdleStart.JumpIdleStart
+[2019.12.14-14.53.01:288][572]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpRun_RU_Land.JumpRun_RU_Land
+[2019.12.14-14.53.02:154][636]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpRun_LU_Land2Run.JumpRun_LU_Land2Run
+[2019.12.14-14.53.07:650][ 66]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpRunStart_LU.JumpRunStart_LU
+[2019.12.14-14.53.10:694][311]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_walk_ru_ALL.Jump_walk_ru_ALL
+[2019.12.14-14.53.19:106][ 17]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpWalkStart_RU.JumpWalkStart_RU
+[2019.12.14-14.53.20:640][132]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpWalkStart_LU.JumpWalkStart_LU
+[2019.12.14-14.53.26:332][619]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpIdleStart.JumpIdleStart
+[2019.12.14-14.53.42:970][ 77]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpRunStart_LU.JumpRunStart_LU
+[2019.12.14-14.53.45:141][257]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpRunStart_RU.JumpRunStart_RU
+[2019.12.14-14.53.48:543][552]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpWalkStart_LU.JumpWalkStart_LU
+[2019.12.14-14.53.50:269][694]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpWalkStart_RU.JumpWalkStart_RU
+[2019.12.14-14.53.53:195][941]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpIdleStart.JumpIdleStart
+[2019.12.14-14.54.12:001][632]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_place_ALL_short.Jump_place_ALL_short
+[2019.12.14-14.54.13:894][779]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_place_ALL.Jump_place_ALL
+[2019.12.14-14.54.28:449][908]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpIdleLandHard.JumpIdleLandHard
+[2019.12.14-14.54.29:825][  8]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpRun_LU_Land.JumpRun_LU_Land
+[2019.12.14-14.54.31:995][117]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpIdleStart.JumpIdleStart
+[2019.12.14-14.54.33:376][222]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpIdleLandHard.JumpIdleLandHard
+[2019.12.14-14.54.37:958][586]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpIdleLand2Walk.JumpIdleLand2Walk
+[2019.12.14-14.54.40:433][780]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpIdleLand.JumpIdleLand
+[2019.12.14-14.54.49:727][536]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpIdleStart.JumpIdleStart
+[2019.12.14-14.54.52:907][783]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpIdleLand.JumpIdleLand
+[2019.12.14-14.54.54:324][886]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpWalk_LU_Land.JumpWalk_LU_Land
+[2019.12.14-14.54.56:117][ 16]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpWalk_LU_Land2Walk.JumpWalk_LU_Land2Walk
+[2019.12.14-14.54.58:089][162]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpWalk_RU_Land.JumpWalk_RU_Land
+[2019.12.14-14.54.58:975][227]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpWalk_RU_Land2Walk.JumpWalk_RU_Land2Walk
+[2019.12.14-14.54.59:715][276]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpWalkStart_LU.JumpWalkStart_LU
+[2019.12.14-14.55.01:593][425]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/JumpWalkStart_RU.JumpWalkStart_RU
+[2019.12.14-14.55.03:340][563]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_place_ALL.Jump_place_ALL
+[2019.12.14-14.55.05:249][711]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_place_ALL_short.Jump_place_ALL_short
+[2019.12.14-14.55.06:297][790]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_run_lu_ALL.Jump_run_lu_ALL
+[2019.12.14-14.55.11:629][230]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_run_ru_ALL.Jump_run_ru_ALL
+[2019.12.14-14.55.15:417][531]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_walk_lu_ALL.Jump_walk_lu_ALL
+[2019.12.14-14.55.17:591][700]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_walk_ru_ALL.Jump_walk_ru_ALL
+[2019.12.14-14.55.20:934][980]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_run_ru_ALL.Jump_run_ru_ALL
+[2019.12.14-14.55.33:514][ 62]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_run_lu_ALL.Jump_run_lu_ALL
+[2019.12.14-14.56.07:497][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.12.14-14.56.07:498][945]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/map/cunzhuang' took 0.080
+[2019.12.14-14.56.07:499][945]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/角色/BP/Assets/Animation/主角/ABP_zhujue] ([1] browsable assets)...
+[2019.12.14-14.56.07:511][945]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/StarterContent/角色/BP/Assets/Animation/主角/ABP_zhujue.ABP_zhujue]
+[2019.12.14-14.56.07:511][945]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/角色/BP/Assets/Animation/主角/ABP_zhujue]
+[2019.12.14-14.56.07:550][945]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/ABP_zhujue_Auto4B9F8D3AB4CB648D56782AABEB577EF1A.tmp' to 'F:/我的文档/-/Qinsword/Saved/Autosaves/Game/StarterContent/角色/BP/Assets/Animation/主角/ABP_zhujue_Auto4.uasset'
+[2019.12.14-14.56.07:552][945]LogFileHelpers: Auto-saving content packages took 0.054
+[2019.12.14-14.56.55:638][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.14-14.58.31:708][602]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_run_ru_ALL.Jump_run_ru_ALL
+[2019.12.14-14.58.32:680][677]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_run_lu_ALL.Jump_run_lu_ALL
+[2019.12.14-14.58.38:167][139]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_place_ALL_short.Jump_place_ALL_short
+[2019.12.14-14.58.39:736][261]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_run_lu_ALL.Jump_run_lu_ALL
+[2019.12.14-14.58.41:070][364]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_walk_lu_ALL.Jump_walk_lu_ALL
+[2019.12.14-14.58.44:982][685]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_run_ru_ALL.Jump_run_ru_ALL
+[2019.12.14-14.58.48:707][995]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_run_lu_ALL.Jump_run_lu_ALL
+[2019.12.14-14.58.59:567][939]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_run_ru_ALL.Jump_run_ru_ALL
+[2019.12.14-14.59.03:180][244]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_run_lu_ALL.Jump_run_lu_ALL
+[2019.12.14-14.59.06:798][551]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_run_ru_ALL.Jump_run_ru_ALL
+[2019.12.14-14.59.11:821][977]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_run_lu_ALL.Jump_run_lu_ALL
+[2019.12.14-14.59.15:303][277]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_run_ru_ALL.Jump_run_ru_ALL
+[2019.12.14-14.59.19:015][590]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_run_lu_ALL.Jump_run_lu_ALL
+[2019.12.14-14.59.37:025][972]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/Jump_run_lu_startFA30435D4EEFE1282697EB95A7D6C0AB.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_run_lu_start.uasset'
+[2019.12.14-14.59.44:367][510]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/en744D91974C94C3E4C75684982DD4CD15.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/en.uasset'
+[2019.12.14-14.59.47:560][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.12.14-14.59.48:557][722]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.14-14.59.48:779][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.12.14-14.59.48:813][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.12.14-14.59.48:840][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.12.14-14.59.49:215][722]SourceControl: Error: error: pathspec 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/en.uasset' did not match any file(s) known to git
+[2019.12.14-14.59.49:450][722]SourceControl: Error: fatal: pathspec 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/en.uasset' did not match any files
+[2019.12.14-14.59.49:464][722]LogObjectTools: Warning: SCC failed to open the selected files for deletion.
+[2019.12.14-14.59.56:665][346]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/Jump_run_lu_endD83F26E04D80142D410B509C08F2699F.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_run_lu_end.uasset'
+[2019.12.14-15.00.05:413][ 70]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/Jump_run_lu_loop8971B01847440904BB85C2AC02335D20.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_run_lu_loop.uasset'
+[2019.12.14-15.00.12:519][615]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_place_ALL_short.Jump_place_ALL_short
+[2019.12.14-15.00.14:602][782]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_run_lu_ALL.Jump_run_lu_ALL
+[2019.12.14-15.00.15:337][834]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_run_lu_end.Jump_run_lu_end
+[2019.12.14-15.00.16:255][898]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_run_lu_loop.Jump_run_lu_loop
+[2019.12.14-15.00.17:224][966]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_run_lu_start.Jump_run_lu_start
+[2019.12.14-15.01.01:220][769]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_run_lu_start.Jump_run_lu_start
+[2019.12.14-15.01.01:221][769]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jump_run_lu_start) using current/default (AnimCompress_BitwiseCompressOnly_252) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.14-15.02.07:574][931]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_run_lu_loop.Jump_run_lu_loop
+[2019.12.14-15.02.10:351][158]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_run_lu_end.Jump_run_lu_end
+[2019.12.14-15.02.31:045][917]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/StarterContent/角色/动作/MovementAnimsetPro/Animations/InPlace/jump/Jump_run_lu_end.Jump_run_lu_end
+[2019.12.14-15.02.31:045][917]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jump_run_lu_end) using current/default (AnimCompress_BitwiseCompressOnly_252) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.12.14-15.02.51:342][645]Cmd: TRANSACTION UNDO
+[2019.12.14-15.02.51:342][645]LogEditorTransaction: Undo 剪辑动画序列
+[2019.12.14-15.02.51:468][645]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.14-15.02.51:470][645]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_195:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.14-15.03.20:833][173]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.14-15.03.21:360][173]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.526 s
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: 
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: Ensure condition failed: Interval == SequenceLength/NumFrames [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\Animation\AnimSequence.cpp] [Line: 2026]
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: 
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: Stack: 
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ffc5be08719 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ffc5a9d7a24 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ffc5a9a94ff UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ffc46d2debc UE4Editor-Persona.dll!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ffc46cfecd9 UE4Editor-Persona.dll!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ffc6eefdf1e UE4Editor-KismetWidgets.dll!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ffc6eedf0b7 UE4Editor-KismetWidgets.dll!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ffc7c908bef UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ffc7c90f390 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ffc7c8ea2c4 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ffc7c9a2a12 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ffc7c910c95 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ffc7c7f4021 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ffc7c870301 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ffc7c85aaca UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ffc7c850414 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ffc99d4b8e0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ffc99d3ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ffc99d4d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ffc99d3c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ffcbc19c906 USER32.dll!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ffcbc19c422 USER32.dll!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ffc99d4e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ff6ac745d3e UE4Editor.exe!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ff6ac75554c UE4Editor.exe!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ff6ac7555ca UE4Editor.exe!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ff6ac76316c UE4Editor.exe!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ff6ac765b8e UE4Editor.exe!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ffcbbd97974 KERNEL32.DLL!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: [Callstack] 0x00007ffcbd1ea271 ntdll.dll!UnknownFunction []
+[2019.12.14-15.03.21:360][173]LogOutputDevice: Error: 
+[2019.12.14-15.03.21:361][173]LogStats:                SubmitErrorReport -  0.000 s
