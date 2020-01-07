@@ -1,0 +1,1463 @@
+﻿Log file open, 01/04/20 17:17:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Qinsword
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.509374
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i9-9900KF CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1070 Ti
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/ue4 4.22.1/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Engine.ini]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Engine.ini]
+[2020.01.04-09.17.50:927][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Engine.ini]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Engine.ini]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.04-09.17.50:927][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.04-09.17.50:928][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.04-09.17.50:928][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.04-09.17.50:928][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Engine.ini]
+[2020.01.04-09.17.50:928][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Engine.ini]
+[2020.01.04-09.17.50:936][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.04-09.17.50:936][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-09.17.50:937][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.04-09.17.50:937][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.04-09.17.50:937][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.04-09.17.50:937][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.04-09.17.50:937][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.04-09.17.50:937][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.04-09.17.50:937][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.04-09.17.50:937][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.04-09.17.50:937][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-09.17.50:937][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.04-09.17.50:937][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.04-09.17.50:937][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.04-09.17.50:937][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.04-09.17.50:937][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.04-09.17.50:937][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.04-09.17.50:937][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.04-09.17.50:937][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.04-09.17.50:937][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.04-09.17.50:937][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.04-09.17.50:937][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.04-09.17.50:937][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.04-09.17.50:937][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.04-09.17.50:937][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-09.17.50:937][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.04-09.17.50:937][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.04-09.17.50:937][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.04-09.17.50:937][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.04-09.17.50:942][  0]LogHAL: Display: Platform has ~ 32 GB [34289397760 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.01.04-09.17.50:942][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.04-09.17.50:942][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.04-09.17.50:942][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.04-09.17.50:943][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.04-09.17.50:943][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.04-09.17.50:943][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.04-09.17.50:943][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.04-09.17.50:943][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.04-09.17.50:943][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.04-09.17.50:943][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-09.17.50:943][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.04-09.17.50:943][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.04-09.17.50:943][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.04-09.17.50:943][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.04-09.17.50:943][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.04-09.17.50:943][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/我的文档/-/Qinsword/Saved/Config/Windows/Engine.ini]
+[2020.01.04-09.17.50:943][  0]LogInit: Computer: DESKTOP-IOJ413R
+[2020.01.04-09.17.50:943][  0]LogInit: User: 范儿小水
+[2020.01.04-09.17.50:943][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.01.04-09.17.50:943][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.04-09.17.50:943][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.01.04-09.17.50:943][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.04-09.17.50:943][  0]LogMemory: Process Physical Memory: 100.25 MB used, 100.26 MB peak
+[2020.01.04-09.17.50:943][  0]LogMemory: Process Virtual Memory: 99.44 MB used, 99.44 MB peak
+[2020.01.04-09.17.50:943][  0]LogMemory: Physical Memory: 5824.40 MB used,  26876.52 MB free, 32700.92 MB total
+[2020.01.04-09.17.50:943][  0]LogMemory: Virtual Memory: 4700.21 MB used,  134213024.00 MB free, 134217728.00 MB total
+[2020.01.04-09.17.50:965][  0]LogInit: Using OS detected language (zh-CN).
+[2020.01.04-09.17.50:965][  0]LogInit: Using OS detected locale (zh-CN).
+[2020.01.04-09.17.50:966][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh-Hans-CN/Editor.locres' could not be opened for reading!
+[2020.01.04-09.17.50:966][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh-Hans-CN/EditorTutorials.locres' could not be opened for reading!
+[2020.01.04-09.17.50:966][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh-Hans-CN/Keywords.locres' could not be opened for reading!
+[2020.01.04-09.17.50:966][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh-Hans-CN/Category.locres' could not be opened for reading!
+[2020.01.04-09.17.50:966][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh-Hans-CN/ToolTips.locres' could not be opened for reading!
+[2020.01.04-09.17.50:966][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh-Hans-CN/PropertyNames.locres' could not be opened for reading!
+[2020.01.04-09.17.50:966][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh-Hans-CN/Engine.locres' could not be opened for reading!
+[2020.01.04-09.17.50:966][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh-Hans-CN/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2020.01.04-09.17.50:966][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh-Hans-CN/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2020.01.04-09.17.50:966][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh-Hans-CN/OnlineSubsystem.locres' could not be opened for reading!
+[2020.01.04-09.17.50:966][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh-Hans-CN/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2020.01.04-09.17.50:992][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh-CN/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2020.01.04-09.17.50:993][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh-CN/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2020.01.04-09.17.50:993][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh-CN/OnlineSubsystem.locres' could not be opened for reading!
+[2020.01.04-09.17.50:993][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh-CN/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2020.01.04-09.17.50:993][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh-Hans/Editor.locres' could not be opened for reading!
+[2020.01.04-09.17.50:993][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh-Hans/EditorTutorials.locres' could not be opened for reading!
+[2020.01.04-09.17.50:993][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh-Hans/Keywords.locres' could not be opened for reading!
+[2020.01.04-09.17.50:993][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh-Hans/Category.locres' could not be opened for reading!
+[2020.01.04-09.17.50:993][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh-Hans/ToolTips.locres' could not be opened for reading!
+[2020.01.04-09.17.50:993][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh-Hans/PropertyNames.locres' could not be opened for reading!
+[2020.01.04-09.17.50:993][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh-Hans/Engine.locres' could not be opened for reading!
+[2020.01.04-09.17.50:994][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2020.01.04-09.17.50:994][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2020.01.04-09.17.50:994][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2020.01.04-09.17.50:994][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2020.01.04-09.17.50:994][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2020.01.04-09.17.50:994][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2020.01.04-09.17.50:994][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2020.01.04-09.17.50:994][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2020.01.04-09.17.50:994][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2020.01.04-09.17.50:994][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2020.01.04-09.17.50:994][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2020.01.04-09.17.51:011][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.04-09.17.51:046][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.04-09.17.51:046][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.04-09.17.51:220][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.04-09.17.51:220][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.04-09.17.51:284][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070 Ti' (Feature Level 11_0)
+[2020.01.04-09.17.51:284][  0]LogD3D11RHI:       8079/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.01.04-09.17.51:286][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.04-09.17.51:286][  0]LogD3D11RHI:       0/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.04-09.17.51:286][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.04-09.17.51:292][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.04-09.17.51:292][  0]LogD3D11RHI:     GPU DeviceId: 0x1b82 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.04-09.17.51:292][  0]LogWindows: EnumDisplayDevices:
+[2020.01.04-09.17.51:292][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070 Ti' (P:1 D:1)
+[2020.01.04-09.17.51:293][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:1)
+[2020.01.04-09.17.51:294][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2020.01.04-09.17.51:295][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2020.01.04-09.17.51:295][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.01.04-09.17.51:295][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070 Ti
+[2020.01.04-09.17.51:295][  0]LogD3D11RHI:   Driver Version: 436.48 (internal:26.21.14.3648, unified:436.48)
+[2020.01.04-09.17.51:296][  0]LogD3D11RHI:      Driver Date: 9-26-2019
+[2020.01.04-09.17.51:296][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.01.04-09.17.51:330][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.04-09.17.51:337][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.04-09.17.51:337][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.04-09.17.51:337][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.01.04-09.17.51:344][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.04-09.17.51:732][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.04-09.17.51:741][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.04-09.17.51:750][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.04-09.17.51:758][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.04-09.17.51:767][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.04-09.17.51:776][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.04-09.17.51:785][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.04-09.17.51:794][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.04-09.17.51:797][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.04-09.17.51:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.04-09.17.51:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.04-09.17.51:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.04-09.17.51:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.04-09.17.51:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.04-09.17.51:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.04-09.17.51:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.04-09.17.51:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.04-09.17.51:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.04-09.17.51:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.04-09.17.51:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.04-09.17.51:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.04-09.17.51:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.04-09.17.51:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.04-09.17.51:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.04-09.17.51:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.04-09.17.51:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.04-09.17.51:849][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.04-09.17.51:851][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.04-09.17.51:890][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.04-09.17.51:890][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.04-09.17.51:907][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.04-09.17.51:907][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.04-09.17.51:914][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.04-09.17.51:923][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.04-09.17.51:931][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.04-09.17.51:940][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.04-09.17.51:970][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.04-09.17.51:970][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.04-09.17.51:970][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.04-09.17.51:976][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.04-09.17.52:001][  0]LogShaderCompilers: Guid format shader working directory is 26 characters bigger than the processId version (F:/我的文档/-/Qinsword/Intermediate/Shaders/WorkingDirectory/15656/).
+[2020.01.04-09.17.52:002][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/范儿小水/AppData/Local/Temp/UnrealShaderWorkingDir/AE02B91944E01824317897B8AFBC9BEC/'.
+[2020.01.04-09.17.52:003][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.04-09.17.52:003][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.04-09.17.52:003][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.04-09.17.52:408][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.04-09.17.52:444][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/范儿小水/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.04-09.17.52:444][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/范儿小水/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.01.04-09.17.52:444][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/我的文档/-/Qinsword/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.04-09.17.52:444][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.04-09.17.52:444][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/我的文档/-/Qinsword/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.04-09.17.52:444][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.04-09.17.52:453][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.04-09.17.52:453][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.04-09.17.52:453][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.04-09.17.52:466][  0]LogDerivedDataCache: Using Local data cache path C:/Users/范儿小水/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.04-09.17.52:466][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.04-09.17.52:466][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.04-09.17.52:481][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.04-09.17.52:482][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.04-09.17.52:482][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.04-09.17.52:555][  0]LogAssetRegistry: FAssetRegistry took 0.0294 seconds to start up
+[2020.01.04-09.17.52:779][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.04-09.17.52:872][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.04-09.17.52:872][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.04-09.17.52:872][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.04-09.17.52:872][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.04-09.17.52:872][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.04-09.17.52:880][  0]LogNetVersion: Qinsword 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4280585389)
+[2020.01.04-09.17.53:264][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 4 prioritized culture(s) in 0.125997 seconds
+[2020.01.04-09.17.53:268][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.01.04-09.17.53:268][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.01.04-09.17.53:268][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.04-09.17.53:914][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.04-09.17.53:927][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.04-09.17.54:018][  0]SourceControl: 源码控制已禁用
+[2020.01.04-09.17.54:949][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.04-09.17.54:950][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.04-09.17.54:993][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.04-09.17.55:262][  0]LogOcInput: OculusInput pre-init called
+[2020.01.04-09.17.55:850][  0]LogEngine: Initializing Engine...
+[2020.01.04-09.17.55:851][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.04-09.17.55:852][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.04-09.17.56:003][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.04-09.17.56:010][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.04-09.17.56:149][  0]LogInit: XAudio2 using '扬声器 (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.04-09.17.56:202][  0]LogInit: FAudioDevice initialized.
+[2020.01.04-09.17.56:202][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.04-09.17.56:293][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/范儿小水/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.01.04-09.17.56:293][  0]LogInit: Texture streaming: Enabled
+[2020.01.04-09.17.56:305][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.04-09.17.56:315][  0]LogInit: Transaction tracking system initialized
+[2020.01.04-09.17.56:326][  0]BlueprintLog: New page: 编辑器加载
+[2020.01.04-09.17.56:370][  0]LocalizationService: 本地化服务已禁用
+[2020.01.04-09.17.56:463][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.04-09.17.56:464][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.04-09.17.56:579][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.04-09.17.56:579][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.04-09.17.56:697][  0]LogFileCache: Scanning file cache for directory 'F:/我的文档/-/Qinsword/Content/' took 0.03s
+[2020.01.04-09.17.56:697][  0]Cmd: MAP LOAD FILE="F:/我的文档/-/Qinsword/Content/StarterContent/map/cunzhuang.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.04-09.17.56:697][  0]LightingResults: New page: 光照构建
+[2020.01.04-09.17.56:697][  0]MapCheck: New page: 地图检测
+[2020.01.04-09.17.56:697][  0]LightingResults: New page: 光照构建
+[2020.01.04-09.17.56:722][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.01.04-09.17.57:153][  0]LogAIModule: Creating AISystem for world cunzhuang
+[2020.01.04-09.17.57:168][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.04-09.17.57:197][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.01.04-09.17.57:198][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.04-09.17.57:198][  0]MapCheck: 地图检测完成：0个错误，0 个警告，用时0.093毫秒完成。
+[2020.01.04-09.17.57:198][  0]LogFileHelpers: Loading map 'cunzhuang' took 0.501
+[2020.01.04-09.17.57:295][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-09.17.57:301][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-09.17.57:306][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-09.17.57:312][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-09.17.57:406][  0]LogCollectionManager: Loaded 0 collections in 0.000818 seconds
+[2020.01.04-09.17.57:443][  0]LogFileCache: Scanning file cache for directory 'F:/我的文档/-/Qinsword/Saved/Collections/' took 0.01s
+[2020.01.04-09.17.57:443][  0]LogFileCache: Scanning file cache for directory 'F:/我的文档/-/Qinsword/Content/Developers/范儿小水/Collections/' took 0.01s
+[2020.01.04-09.17.57:443][  0]LogFileCache: Scanning file cache for directory 'F:/我的文档/-/Qinsword/Content/Collections/' took 0.01s
+[2020.01.04-09.17.57:443][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.01.04-09.17.57:450][  0]LogContentBrowser: Native class hierarchy populated in 0.0065 seconds. Added 2733 classes and 661 folders.
+[2020.01.04-09.17.57:455][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.04-09.17.57:457][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.04-09.17.57:458][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.04-09.17.57:458][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.04-09.17.57:459][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.04-09.17.57:459][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.04-09.17.57:460][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.04-09.17.57:460][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.04-09.17.57:461][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.04-09.17.57:461][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.04-09.17.57:462][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.04-09.17.57:462][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.04-09.17.57:463][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.04-09.17.57:463][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.04-09.17.57:464][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.04-09.17.57:464][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.04-09.17.57:465][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.04-09.17.57:465][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.04-09.17.57:466][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.04-09.17.57:466][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.04-09.17.57:467][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.04-09.17.57:467][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.04-09.17.57:468][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.04-09.17.57:468][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.04-09.17.57:469][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.04-09.17.57:470][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.04-09.17.57:470][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.04-09.17.57:507][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.04-09.17.57:540][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.04-09.17.57:540][  0]LogLoad: (Engine Initialization) Total time: 8.81 seconds
+[2020.01.04-09.17.57:540][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.04-09.17.57:594][  0]LogAssetRegistry: Asset discovery search completed in 5.0608 seconds
+[2020.01.04-09.17.57:596][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.01.04-09.17.57:596][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000045 seconds (updated 0 objects)
+[2020.01.04-09.17.57:596][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.04-09.17.57:606][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.04-09.17.57:608][  0]LogSlate: Took 0.001320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.01.04-09.17.57:608][  0]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.04-09.17.57:611][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.04-09.17.57:662][  0]LogRenderer: Reallocating scene render targets to support 836x592 Format 10 NumSamples 1 (Frame:1).
+[2020.01.04-09.17.57:662][  0]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' was requested. Font: '/Engine/EngineFonts/Faces/RobotoRegular.RobotoRegular', Character: '光 (U+5149)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2020.01.04-09.17.57:702][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.04-09.18.05:306][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-09.18.05:431][ 33]LogRenderer: Reallocating scene render targets to support 1260x924 Format 10 NumSamples 1 (Frame:4).
+[2020.01.04-09.18.11:832][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (小山体)
+[2020.01.04-09.19.16:271][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-09.23.15:573][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-09.23.36:351][811]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.04-09.23.36:359][811]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/StarterContent/角色/BP/Data/E_CombatStat.E_CombatStat
+[2020.01.04-09.25.30:744][960]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-09.25.31:542][ 53]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/角色/BP/Character/Role/BaseRole.BaseRole
+[2020.01.04-09.25.31:762][ 53]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.01.04-09.25.32:468][ 53]LogSlate: Took 0.001175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.04-09.25.33:852][137]LogSlate: Took 0.001120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.04-09.34.45:856][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-09.34.52:734][652]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/角色/BP/Character/Role/BaseZhujue.BaseZhujue
+[2020.01.04-09.34.52:976][652]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-09.34.56:802][973]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-09.35.10:780][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-10.18.10:890][667]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/角色/BP/Notify/AN_ResetStat.AN_ResetStat
+[2020.01.04-10.19.28:140][487]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/角色/BP/Interface/I_RoleReceiveNotify.I_RoleReceiveNotify
+[2020.01.04-10.30.09:026][240]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1_Montage.Thunder_Rolling_Front1_Montage
+[2020.01.04-10.30.09:036][240]LogBlueprintActionDatabase: Requesting refresh due to module change: AnimationEditor (loaded)
+[2020.01.04-10.30.09:050][240]LogBlueprintActionDatabase: Requesting refresh due to module change: SkeletonEditor (loaded)
+[2020.01.04-10.30.09:050][240]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.01.04-10.30.09:225][240]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.04-10.30.09:230][240]LogBlueprintActionDatabase: Requesting refresh due to module change: PinnedCommandList (loaded)
+[2020.01.04-10.30.09:230][240]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.01.04-10.30.09:277][240]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.04-10.30.09:710][240]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.30.09:792][240]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.04-10.37.10:355][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-10.37.26:036][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-10.37.54:938][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-10.38.12:143][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-10.40.07:244][952]BlueprintLog: New page: 编译BaseRole
+[2020.01.04-10.40.07:288][952]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.40.07:289][952]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.40.07:289][952]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.40.07:290][952]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.40.07:494][952]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.01.04-10.40.07:518][952]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.40.07:519][952]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.40.07:519][952]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.40.07:520][952]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.40.07:520][952]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.40.07:528][952]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.40.07:528][952]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.40.07:529][952]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.40.07:529][952]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.40.33:682][613]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.40.36:936][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-10.41.29:451][162]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.04-10.41.42:539][ 20]LogSlate: Window '消息' being destroyed
+[2020.01.04-10.41.56:573][322]LogSlate: Window '消息' being destroyed
+[2020.01.04-10.41.58:850][420]LogSlate: Window '消息' being destroyed
+[2020.01.04-10.42.14:489][859]BlueprintLog: New page: 编译BaseRole
+[2020.01.04-10.42.14:522][859]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.42.14:523][859]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.42.14:523][859]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.42.14:524][859]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.42.14:699][859]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.01.04-10.42.14:706][859]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.42.14:706][859]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.42.14:707][859]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.42.14:707][859]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.42.14:708][859]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.42.14:715][859]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.42.14:716][859]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.42.14:717][859]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.42.14:717][859]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.43.27:801][ 94]LogEditorTransaction: Undo 添加节点
+[2020.01.04-10.43.27:890][ 94]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.04-10.48.24:974][597]BlueprintLog: New page: 编译BaseRole
+[2020.01.04-10.48.25:010][597]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.48.25:012][597]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.48.25:012][597]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.48.25:013][597]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.48.25:193][597]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.01.04-10.48.25:202][597]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.48.25:203][597]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.48.25:204][597]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.48.25:205][597]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.48.25:206][597]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.48.25:217][597]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.48.25:218][597]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.48.25:218][597]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.48.25:218][597]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.48.32:058][206]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (泥土地6)
+[2020.01.04-10.48.32:102][206]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.04-10.48.35:562][535]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (泥土地113)
+[2020.01.04-10.48.35:597][535]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.04-10.48.38:807][767]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2020.01.04-10.48.40:472][895]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-10.48.40:473][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.04-10.48.40:475][895]PIE: New page: PIE会话: cunzhuang (2020年1月5日 上午2:48:40)
+[2020.01.04-10.48.40:486][895]LogPlayLevel: Creating play world package: /Game/StarterContent/map/UEDPIE_0_cunzhuang
+[2020.01.04-10.48.40:510][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023225s)
+[2020.01.04-10.48.40:510][895]LogAIModule: Creating AISystem for world cunzhuang
+[2020.01.04-10.48.40:511][895]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2020.01.04-10.48.40:511][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/map/cunzhuang.cunzhuang to /Game/StarterContent/map/UEDPIE_0_cunzhuang.cunzhuang (0.024072s)
+[2020.01.04-10.48.40:553][895]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2020.01.04-10.48.40:695][895]LogInit: XAudio2 using '扬声器 (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.04-10.48.40:730][895]LogInit: FAudioDevice initialized.
+[2020.01.04-10.48.40:730][895]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.04-10.48.40:775][895]LogLoad: Game class is 'TestMode_C'
+[2020.01.04-10.48.40:789][895]LogWorld: Bringing World /Game/StarterContent/map/UEDPIE_0_cunzhuang.cunzhuang up for play (max tick rate 0) at 2020.01.04-18.48.40
+[2020.01.04-10.48.40:789][895]LogWorld: Bringing up level for play took: 0.013441
+[2020.01.04-10.48.40:804][895]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.01.04-10.48.40:810][895]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.01.04-10.48.40:810][895]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.01.04-10.48.40:810][895]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.48.40:812][895]PIE: /Game/StarterContent/map/UEDPIE_0_cunzhuang的‘在编辑器中播放’的起始时间0.758
+[2020.01.04-10.48.40:812][895]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-10.49.41:219][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-10.49.41:325][578]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-10.49.41:330][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-10.49.41:363][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.04-10.49.41:363][578]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-10.49.41:413][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-10.49.41:459][578]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2020.01.04-10.49.41:493][579]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.01.04-10.49.42:954][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-10.50.09:089][724]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2020.01.04-10.50.09:089][724]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/map/cunzhuang' took 0.065
+[2020.01.04-10.50.09:095][724]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/角色/BP/Character/Role/BaseZhujue] ([1] browsable assets)...
+[2020.01.04-10.50.09:105][724]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StarterContent/角色/BP/Character/Role/BaseZhujue.BaseZhujue]
+[2020.01.04-10.50.09:105][724]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/角色/BP/Character/Role/BaseZhujue]
+[2020.01.04-10.50.09:229][724]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/BaseZhujue_Auto1B0B6A2BF41BA69AD98002CA5C9982518.tmp' to 'F:/我的文档/-/Qinsword/Saved/Autosaves/Game/StarterContent/角色/BP/Character/Role/BaseZhujue_Auto1.uasset'
+[2020.01.04-10.50.09:233][724]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/角色/BP/Character/Role/BaseRole] ([1] browsable assets)...
+[2020.01.04-10.50.09:233][724]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/角色/BP/Character/Role/BaseRole]
+[2020.01.04-10.50.09:255][724]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/BaseRole_Auto1F6B6A8C34BC87ED87E12419D164EC92E.tmp' to 'F:/我的文档/-/Qinsword/Saved/Autosaves/Game/StarterContent/角色/BP/Character/Role/BaseRole_Auto1.uasset'
+[2020.01.04-10.50.09:259][724]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1_Montage] ([1] browsable assets)...
+[2020.01.04-10.50.09:267][724]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1_Montage.Thunder_Rolling_Front1_Montage]
+[2020.01.04-10.50.09:267][724]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1_Montage]
+[2020.01.04-10.50.09:281][724]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/Thunder_Rolling_Front1_Montage_AF0F571854658C92B68AC44BEB000522E.tmp' to 'F:/我的文档/-/Qinsword/Saved/Autosaves/Game/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1_Montage_Auto1.uasset'
+[2020.01.04-10.50.09:283][724]LogFileHelpers: Auto-saving content packages took 0.193
+[2020.01.04-10.50.40:329][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-10.50.54:888][942]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/StarterContent/角色/BP/Assets/Animation/主角/ABS1D_zhujue_Roll.ABS1D_zhujue_Roll
+[2020.01.04-10.51.27:089][459]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/StarterContent/角色/BP/Assets/Animation/主角/ABP_zhujue.ABP_zhujue
+[2020.01.04-10.51.27:105][459]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.04-10.51.27:105][459]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.51.27:364][459]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.04-10.51.27:585][459]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.04-10.54.36:231][388]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1.Thunder_Rolling_Front1
+[2020.01.04-10.55.47:787][500]LogSlate: Window 'Content Browser' being destroyed
+[2020.01.04-10.55.47:792][500]LogSlate: Window 'Content Browser' being destroyed
+[2020.01.04-10.55.48:112][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-10.56.57:981][748]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.56.57:981][748]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.56.57:982][748]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.56.57:983][748]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.57.49:430][151]BlueprintLog: New page: 编译BaseRole
+[2020.01.04-10.57.49:477][151]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.57.49:478][151]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.57.49:478][151]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.57.49:479][151]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.57.49:656][151]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.01.04-10.57.49:695][151]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.57.49:696][151]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.57.49:696][151]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.57.49:697][151]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.57.49:697][151]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.57.49:707][151]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.57.49:707][151]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.57.49:708][151]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.57.49:708][151]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.57.51:559][324]BlueprintLog: New page: 编译BaseZhujue
+[2020.01.04-10.57.51:578][324]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.57.51:579][324]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.57.51:579][324]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.57.51:580][324]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.57.51:752][324]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.01.04-10.57.51:756][324]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.57.51:756][324]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.57.51:757][324]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.57.51:757][324]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.57.51:761][324]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.57.51:779][324]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.57.51:779][324]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.57.51:780][324]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.57.51:780][324]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.59.32:562][977]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.59.32:563][977]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.59.32:564][977]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-10.59.32:564][977]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.00.22:964][208]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (泥土地6)
+[2020.01.04-11.00.23:001][208]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.04-11.00.26:169][499]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-11.00.26:169][499]BlueprintLog: New page: 运行前自动重新编译
+[2020.01.04-11.00.26:172][499]LogPlayLevel: [PlayLevel] Compiling BaseZhujue before play...
+[2020.01.04-11.00.26:188][499]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.00.26:189][499]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.00.26:190][499]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.00.26:190][499]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.00.26:320][499]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.00.26:321][499]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.00.26:321][499]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.00.26:322][499]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.00.26:322][499]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.00.26:329][499]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.00.26:330][499]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.00.26:330][499]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.00.26:331][499]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.00.26:375][499]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.01.04-11.00.26:375][499]LogPlayLevel: PlayLevel: Blueprint regeneration took 206 ms (1 blueprints)
+[2020.01.04-11.00.26:375][499]PIE: New page: PIE会话: cunzhuang (2020年1月5日 上午3:00:26)
+[2020.01.04-11.00.26:375][499]LogPlayLevel: Creating play world package: /Game/StarterContent/map/UEDPIE_0_cunzhuang
+[2020.01.04-11.00.26:397][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021588s)
+[2020.01.04-11.00.26:398][499]LogAIModule: Creating AISystem for world cunzhuang
+[2020.01.04-11.00.26:398][499]LogPlayLevel: PIE: World Init took: (0.000577s)
+[2020.01.04-11.00.26:398][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/map/cunzhuang.cunzhuang to /Game/StarterContent/map/UEDPIE_0_cunzhuang.cunzhuang (0.022328s)
+[2020.01.04-11.00.26:436][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.01.04-11.00.26:575][499]LogInit: XAudio2 using '扬声器 (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.04-11.00.26:608][499]LogInit: FAudioDevice initialized.
+[2020.01.04-11.00.26:608][499]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.04-11.00.26:641][499]LogLoad: Game class is 'TestMode_C'
+[2020.01.04-11.00.26:650][499]LogWorld: Bringing World /Game/StarterContent/map/UEDPIE_0_cunzhuang.cunzhuang up for play (max tick rate 0) at 2020.01.04-19.00.26
+[2020.01.04-11.00.26:650][499]LogWorld: Bringing up level for play took: 0.008267
+[2020.01.04-11.00.26:663][499]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.00.26:664][499]PIE: /Game/StarterContent/map/UEDPIE_0_cunzhuang的‘在编辑器中播放’的起始时间0.609
+[2020.01.04-11.00.26:664][499]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-11.01.16:550][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-11.01.37:462][862]BlueprintLog: New page: 编译ABP_zhujue
+[2020.01.04-11.01.37:614][862]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.01.37:614][862]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.01.37:615][862]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.01.37:615][862]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.01.37:615][862]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.01.37:658][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.01.04-11.01.37:664][862]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.01.37:664][862]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.01.37:664][862]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.01.37:664][862]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.01.37:671][862]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.01.37:672][862]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.01.37:672][862]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.01.37:673][862]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.01.49:725][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-11.02.16:320][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-11.02.30:231][209]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.04-11.03.19:980][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-11.03.20:064][959]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-11.03.20:064][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-11.03.20:099][959]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.04-11.03.20:099][959]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-11.03.20:143][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-11.03.20:153][959]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2020.01.04-11.03.20:176][960]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.01.04-11.03.24:040][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1" FILE="F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1.uasset" SILENT=true
+[2020.01.04-11.03.24:054][304]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/Thunder_Rolling_Front14204312C46089A7C106FFEA9FC3246E7.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1.uasset'
+[2020.01.04-11.04.00:389][623]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.04-11.04.00:439][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.01.04-11.04.00:439][623]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/map/cunzhuang' took 0.036
+[2020.01.04-11.04.00:441][623]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/角色/BP/Character/Role/BaseZhujue] ([1] browsable assets)...
+[2020.01.04-11.04.00:449][623]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StarterContent/角色/BP/Character/Role/BaseZhujue.BaseZhujue]
+[2020.01.04-11.04.00:449][623]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/角色/BP/Character/Role/BaseZhujue]
+[2020.01.04-11.04.00:531][623]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/BaseZhujue_Auto239E596204FF1DD203E2E0480B3AC319E.tmp' to 'F:/我的文档/-/Qinsword/Saved/Autosaves/Game/StarterContent/角色/BP/Character/Role/BaseZhujue_Auto2.uasset'
+[2020.01.04-11.04.00:534][623]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/角色/BP/Assets/Animation/主角/ABP_zhujue] ([1] browsable assets)...
+[2020.01.04-11.04.00:543][623]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/StarterContent/角色/BP/Assets/Animation/主角/ABP_zhujue.ABP_zhujue]
+[2020.01.04-11.04.00:543][623]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/角色/BP/Assets/Animation/主角/ABP_zhujue]
+[2020.01.04-11.04.00:659][623]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/ABP_zhujue_Auto224814FBA4BAA58E1F5E53FA0282DE7D4.tmp' to 'F:/我的文档/-/Qinsword/Saved/Autosaves/Game/StarterContent/角色/BP/Assets/Animation/主角/ABP_zhujue_Auto2.uasset'
+[2020.01.04-11.04.00:662][623]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1] ([1] browsable assets)...
+[2020.01.04-11.04.00:669][623]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1.Thunder_Rolling_Front1]
+[2020.01.04-11.04.00:669][623]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1]
+[2020.01.04-11.04.00:690][623]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/Thunder_Rolling_Front1_Auto23DC2EE50409B37C3BB401693C0D0F97F.tmp' to 'F:/我的文档/-/Qinsword/Saved/Autosaves/Game/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1_Auto2.uasset'
+[2020.01.04-11.04.00:693][623]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/角色/BP/Character/Role/BaseRole] ([1] browsable assets)...
+[2020.01.04-11.04.00:693][623]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/角色/BP/Character/Role/BaseRole]
+[2020.01.04-11.04.00:716][623]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/BaseRole_Auto2B218034F4226E66AD6A7FC9AA2BF8DD1.tmp' to 'F:/我的文档/-/Qinsword/Saved/Autosaves/Game/StarterContent/角色/BP/Character/Role/BaseRole_Auto2.uasset'
+[2020.01.04-11.04.00:743][623]LogFileHelpers: Auto-saving content packages took 0.303
+[2020.01.04-11.04.02:564][756]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.01.04-11.04.02:906][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-11.04.03:014][804]LogTemp: Repeating last play command: 选中的视口
+[2020.01.04-11.04.03:038][804]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-11.04.03:038][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.04-11.04.03:038][804]PIE: New page: PIE会话: cunzhuang (2020年1月5日 上午3:04:03)
+[2020.01.04-11.04.03:038][804]LogPlayLevel: Creating play world package: /Game/StarterContent/map/UEDPIE_0_cunzhuang
+[2020.01.04-11.04.03:062][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023100s)
+[2020.01.04-11.04.03:063][804]LogAIModule: Creating AISystem for world cunzhuang
+[2020.01.04-11.04.03:063][804]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2020.01.04-11.04.03:063][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/map/cunzhuang.cunzhuang to /Game/StarterContent/map/UEDPIE_0_cunzhuang.cunzhuang (0.024357s)
+[2020.01.04-11.04.03:096][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.01.04-11.04.03:233][804]LogInit: XAudio2 using '扬声器 (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.04-11.04.03:266][804]LogInit: FAudioDevice initialized.
+[2020.01.04-11.04.03:294][804]LogLoad: Game class is 'TestMode_C'
+[2020.01.04-11.04.03:303][804]LogWorld: Bringing World /Game/StarterContent/map/UEDPIE_0_cunzhuang.cunzhuang up for play (max tick rate 0) at 2020.01.04-19.04.03
+[2020.01.04-11.04.03:303][804]LogWorld: Bringing up level for play took: 0.008617
+[2020.01.04-11.04.03:316][804]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.04.03:317][804]PIE: /Game/StarterContent/map/UEDPIE_0_cunzhuang的‘在编辑器中播放’的起始时间1.263
+[2020.01.04-11.04.03:318][804]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-11.04.21:199][920]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-11.04.21:199][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-11.04.21:229][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.04-11.04.21:229][920]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-11.04.21:274][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-11.04.21:279][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.01.04-11.04.21:305][921]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.01.04-11.04.26:232][385]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.04-11.04.27:532][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-11.04.33:921][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-11.04.44:427][282]BlueprintLog: New page: 编译BaseZhujue
+[2020.01.04-11.04.44:445][282]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.04.44:446][282]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.04.44:447][282]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.04.44:447][282]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.04.44:611][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.01.04-11.04.44:616][282]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.04.44:617][282]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.04.44:617][282]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.04.44:618][282]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.04.44:618][282]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.04.44:624][282]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.04.44:625][282]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.04.44:626][282]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.04.44:626][282]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.05.06:157][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (泥土地22)
+[2020.01.04-11.05.06:658][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-11.05.06:740][756]LogTemp: Repeating last play command: 选中的视口
+[2020.01.04-11.05.06:760][756]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-11.05.06:760][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.04-11.05.06:760][756]PIE: New page: PIE会话: cunzhuang (2020年1月5日 上午3:05:06)
+[2020.01.04-11.05.06:760][756]LogPlayLevel: Creating play world package: /Game/StarterContent/map/UEDPIE_0_cunzhuang
+[2020.01.04-11.05.06:784][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022859s)
+[2020.01.04-11.05.06:784][756]LogAIModule: Creating AISystem for world cunzhuang
+[2020.01.04-11.05.06:784][756]LogPlayLevel: PIE: World Init took: (0.000497s)
+[2020.01.04-11.05.06:784][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/map/cunzhuang.cunzhuang to /Game/StarterContent/map/UEDPIE_0_cunzhuang.cunzhuang (0.023512s)
+[2020.01.04-11.05.06:820][756]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.01.04-11.05.06:960][756]LogInit: XAudio2 using '扬声器 (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.04-11.05.06:992][756]LogInit: FAudioDevice initialized.
+[2020.01.04-11.05.07:025][756]LogLoad: Game class is 'TestMode_C'
+[2020.01.04-11.05.07:034][756]LogWorld: Bringing World /Game/StarterContent/map/UEDPIE_0_cunzhuang.cunzhuang up for play (max tick rate 0) at 2020.01.04-19.05.07
+[2020.01.04-11.05.07:035][756]LogWorld: Bringing up level for play took: 0.008764
+[2020.01.04-11.05.07:048][756]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.05.07:049][756]PIE: /Game/StarterContent/map/UEDPIE_0_cunzhuang的‘在编辑器中播放’的起始时间0.995
+[2020.01.04-11.05.07:049][756]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-11.05.19:319][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-11.05.19:424][114]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-11.05.19:424][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-11.05.19:455][114]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.04-11.05.19:455][114]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-11.05.19:500][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-11.05.19:507][114]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.01.04-11.05.19:528][115]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.01.04-11.07.53:470][712]LogSlate: Took 0.000976 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.01.04-11.08.31:218][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.01.04-11.08.32:788][446]LogSlate: Window 'Save Content' being destroyed
+[2020.01.04-11.08.33:169][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/角色/BP/Assets/Animation/主角/ABP_zhujue" FILE="F:/我的文档/-/Qinsword/Content/StarterContent/角色/BP/Assets/Animation/主角/ABP_zhujue.uasset" SILENT=true
+[2020.01.04-11.08.33:232][446]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/ABP_zhujue51A54E88410C90555FE7B1B04365BB22.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/BP/Assets/Animation/主角/ABP_zhujue.uasset'
+[2020.01.04-11.08.33:293][446]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/ABS1D_zhujue_Roll9395F75042992D4BD83DC4BBB931F8B7.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/BP/Assets/Animation/主角/ABS1D_zhujue_Roll.uasset'
+[2020.01.04-11.08.33:304][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/角色/BP/Character/Role/BaseRole" FILE="F:/我的文档/-/Qinsword/Content/StarterContent/角色/BP/Character/Role/BaseRole.uasset" SILENT=true
+[2020.01.04-11.08.33:350][446]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/BaseRole7D301032456A0BED51166C930EE772E4.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/BP/Character/Role/BaseRole.uasset'
+[2020.01.04-11.08.33:365][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/角色/BP/Character/Role/BaseZhujue" FILE="F:/我的文档/-/Qinsword/Content/StarterContent/角色/BP/Character/Role/BaseZhujue.uasset" SILENT=true
+[2020.01.04-11.08.33:445][446]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/BaseZhujue5F45F127491A44F97770A68710437A84.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/BP/Character/Role/BaseZhujue.uasset'
+[2020.01.04-11.08.33:459][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1" FILE="F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1.uasset" SILENT=true
+[2020.01.04-11.08.33:471][446]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/Thunder_Rolling_Front12609F45D40B5076B37BAFD862CB69493.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1.uasset'
+[2020.01.04-11.08.33:484][446]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/Thunder_Rolling_Front1_Montage6C462876487DCEF18B44BDA76F3F020C.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1_Montage.uasset'
+[2020.01.04-11.08.39:328][981]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1_Montage.Thunder_Rolling_Front1_Montage
+[2020.01.04-11.08.57:822][622]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1.Thunder_Rolling_Front1
+[2020.01.04-11.09.01:993][908]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1_Montage.Thunder_Rolling_Front1_Montage
+[2020.01.04-11.09.11:769][766]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1.Thunder_Rolling_Front1
+[2020.01.04-11.09.19:417][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-11.09.19:541][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.01.04-11.09.20:414][400]LogSlate: Window 'Save Content' being destroyed
+[2020.01.04-11.09.20:576][400]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/Thunder_Rolling_Front1_Montage22F9817D44DC73FC184A0393919D24CF.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1_Montage.uasset'
+[2020.01.04-11.09.21:811][509]LogTemp: Repeating last play command: 选中的视口
+[2020.01.04-11.09.21:831][509]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-11.09.21:831][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.04-11.09.21:831][509]PIE: New page: PIE会话: cunzhuang (2020年1月5日 上午3:09:21)
+[2020.01.04-11.09.21:831][509]LogPlayLevel: Creating play world package: /Game/StarterContent/map/UEDPIE_0_cunzhuang
+[2020.01.04-11.09.21:855][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022730s)
+[2020.01.04-11.09.21:855][509]LogAIModule: Creating AISystem for world cunzhuang
+[2020.01.04-11.09.21:855][509]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2020.01.04-11.09.21:855][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/map/cunzhuang.cunzhuang to /Game/StarterContent/map/UEDPIE_0_cunzhuang.cunzhuang (0.023514s)
+[2020.01.04-11.09.21:894][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.01.04-11.09.22:031][509]LogInit: XAudio2 using '扬声器 (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.04-11.09.22:064][509]LogInit: FAudioDevice initialized.
+[2020.01.04-11.09.22:093][509]LogLoad: Game class is 'TestMode_C'
+[2020.01.04-11.09.22:102][509]LogWorld: Bringing World /Game/StarterContent/map/UEDPIE_0_cunzhuang.cunzhuang up for play (max tick rate 0) at 2020.01.04-19.09.22
+[2020.01.04-11.09.22:103][509]LogWorld: Bringing up level for play took: 0.008686
+[2020.01.04-11.09.22:116][509]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.09.22:117][509]PIE: /Game/StarterContent/map/UEDPIE_0_cunzhuang的‘在编辑器中播放’的起始时间0.063
+[2020.01.04-11.09.22:117][509]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-11.09.25:541][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-11.09.27:291][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-11.09.59:978][699]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-11.09.59:978][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-11.10.00:011][699]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.04-11.10.00:012][699]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-11.10.00:056][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-11.10.00:061][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.01.04-11.10.00:086][700]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.01.04-11.10.17:064][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (T_road4)
+[2020.01.04-11.10.22:723][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-11.10.43:836][315]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1_Montage.Thunder_Rolling_Front1_Montage
+[2020.01.04-11.11.29:306][429]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/Thunder_Rolling_Front1_MontageDE10E48D4CE7FC9B500E94A318252BB3.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1_Montage.uasset'
+[2020.01.04-11.11.56:076][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-11.11.56:152][840]BlueprintLog: New page: 编译BaseRole
+[2020.01.04-11.11.56:182][840]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.11.56:183][840]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.11.56:184][840]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.11.56:184][840]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.11.56:363][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.01.04-11.11.56:375][840]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.11.56:376][840]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.11.56:376][840]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.11.56:377][840]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.11.56:377][840]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.11.56:386][840]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.11.56:387][840]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.11.56:388][840]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.11.56:388][840]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.12.12:417][846]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.04-11.12.12:497][854]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.01.04-11.12.13:503][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-11.12.17:772][241]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.01.04-11.12.18:168][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-11.12.18:264][283]LogTemp: Repeating last play command: 选中的视口
+[2020.01.04-11.12.18:283][283]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-11.12.18:284][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.04-11.12.18:284][283]PIE: New page: PIE会话: cunzhuang (2020年1月5日 上午3:12:18)
+[2020.01.04-11.12.18:284][283]LogPlayLevel: Creating play world package: /Game/StarterContent/map/UEDPIE_0_cunzhuang
+[2020.01.04-11.12.18:308][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023831s)
+[2020.01.04-11.12.18:309][283]LogAIModule: Creating AISystem for world cunzhuang
+[2020.01.04-11.12.18:309][283]LogPlayLevel: PIE: World Init took: (0.000505s)
+[2020.01.04-11.12.18:309][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/map/cunzhuang.cunzhuang to /Game/StarterContent/map/UEDPIE_0_cunzhuang.cunzhuang (0.024547s)
+[2020.01.04-11.12.18:352][283]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.01.04-11.12.18:505][283]LogInit: XAudio2 using '扬声器 (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.04-11.12.18:542][283]LogInit: FAudioDevice initialized.
+[2020.01.04-11.12.18:571][283]LogLoad: Game class is 'TestMode_C'
+[2020.01.04-11.12.18:579][283]LogWorld: Bringing World /Game/StarterContent/map/UEDPIE_0_cunzhuang.cunzhuang up for play (max tick rate 0) at 2020.01.04-19.12.18
+[2020.01.04-11.12.18:580][283]LogWorld: Bringing up level for play took: 0.008280
+[2020.01.04-11.12.18:593][283]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.12.18:594][283]PIE: /Game/StarterContent/map/UEDPIE_0_cunzhuang的‘在编辑器中播放’的起始时间0.539
+[2020.01.04-11.12.18:594][283]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-11.12.37:792][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-11.14.19:420][693]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-11.14.19:421][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-11.14.19:481][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.04-11.14.19:481][693]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-11.14.19:527][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-11.14.19:532][693]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.01.04-11.14.19:554][694]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.01.04-11.15.15:006][642]BlueprintLog: New page: 编译BaseZhujue
+[2020.01.04-11.15.15:027][642]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.15.15:028][642]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.15.15:029][642]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.15.15:029][642]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.15.15:201][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.01.04-11.15.15:205][642]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.15.15:206][642]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.15.15:207][642]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.15.15:207][642]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.15.15:208][642]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.15.15:225][642]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.15.15:226][642]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.15.15:226][642]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.15.15:226][642]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.17.11:607][663]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.01.04-11.17.11:607][663]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/map/cunzhuang' took 0.045
+[2020.01.04-11.17.11:608][663]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/角色/BP/Character/Role/BaseZhujue] ([1] browsable assets)...
+[2020.01.04-11.17.11:616][663]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StarterContent/角色/BP/Character/Role/BaseZhujue.BaseZhujue]
+[2020.01.04-11.17.11:616][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/角色/BP/Character/Role/BaseZhujue]
+[2020.01.04-11.17.11:708][663]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/BaseZhujue_Auto3E930DF8047CAAC333C7E81BCBBA6C0AF.tmp' to 'F:/我的文档/-/Qinsword/Saved/Autosaves/Game/StarterContent/角色/BP/Character/Role/BaseZhujue_Auto3.uasset'
+[2020.01.04-11.17.11:710][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/角色/BP/Character/Role/BaseRole] ([1] browsable assets)...
+[2020.01.04-11.17.11:710][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/角色/BP/Character/Role/BaseRole]
+[2020.01.04-11.17.11:734][663]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/BaseRole_Auto3DDA725E5463BA77950DF02B40B6175C1.tmp' to 'F:/我的文档/-/Qinsword/Saved/Autosaves/Game/StarterContent/角色/BP/Character/Role/BaseRole_Auto3.uasset'
+[2020.01.04-11.17.11:737][663]LogFileHelpers: Auto-saving content packages took 0.129
+[2020.01.04-11.17.16:453][919]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1.Thunder_Rolling_Front1
+[2020.01.04-11.17.26:672][671]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.04-11.19.06:369][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Right1" FILE="F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Right1.uasset" SILENT=true
+[2020.01.04-11.19.06:383][645]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/Thunder_Rolling_Right1B3513DE1442CF7A4408D6FA17757054E.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Right1.uasset'
+[2020.01.04-11.19.08:562][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.01.04-11.19.09:431][777]LogSlate: Window 'Save Content' being destroyed
+[2020.01.04-11.19.09:705][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/角色/BP/Character/Role/BaseRole" FILE="F:/我的文档/-/Qinsword/Content/StarterContent/角色/BP/Character/Role/BaseRole.uasset" SILENT=true
+[2020.01.04-11.19.09:730][777]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/BaseRoleA2E37B4D4169879E113C1781EB4E1265.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/BP/Character/Role/BaseRole.uasset'
+[2020.01.04-11.19.09:737][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/角色/BP/Character/Role/BaseZhujue" FILE="F:/我的文档/-/Qinsword/Content/StarterContent/角色/BP/Character/Role/BaseZhujue.uasset" SILENT=true
+[2020.01.04-11.19.09:815][777]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/BaseZhujue99AF211B4AC67A7F1443DC8C2512D0AE.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/BP/Character/Role/BaseZhujue.uasset'
+[2020.01.04-11.19.09:831][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Back" FILE="F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Back.uasset" SILENT=true
+[2020.01.04-11.19.09:860][777]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/Thunder_Rolling_Back663FE75446AA6FF59C74ABBE03B54010.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Back.uasset'
+[2020.01.04-11.19.09:873][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1" FILE="F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1.uasset" SILENT=true
+[2020.01.04-11.19.09:886][777]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/Thunder_Rolling_Front191165C5843FBA05A74916CB8A5F36DCA.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1.uasset'
+[2020.01.04-11.19.09:912][777]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/Thunder_Rolling_Front1_MontageDF594B0F4E7DBDB1B0A5BD80929CF5BA.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Front1_Montage.uasset'
+[2020.01.04-11.19.09:927][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Left1" FILE="F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Left1.uasset" SILENT=true
+[2020.01.04-11.19.09:959][777]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/Thunder_Rolling_Left190A9E66E4C465CB51C599CB1D783EF04.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/角色/动作/整合/get_hit/Thunder_Rolling_Left1.uasset'
+[2020.01.04-11.19.13:391][ 34]LogTemp: Repeating last play command: 选中的视口
+[2020.01.04-11.19.13:412][ 34]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-11.19.13:412][ 34]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.04-11.19.13:412][ 34]PIE: New page: PIE会话: cunzhuang (2020年1月5日 上午3:19:13)
+[2020.01.04-11.19.13:413][ 34]LogPlayLevel: Creating play world package: /Game/StarterContent/map/UEDPIE_0_cunzhuang
+[2020.01.04-11.19.13:437][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024378s)
+[2020.01.04-11.19.13:438][ 34]LogAIModule: Creating AISystem for world cunzhuang
+[2020.01.04-11.19.13:438][ 34]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2020.01.04-11.19.13:439][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/map/cunzhuang.cunzhuang to /Game/StarterContent/map/UEDPIE_0_cunzhuang.cunzhuang (0.025817s)
+[2020.01.04-11.19.13:479][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.01.04-11.19.13:619][ 34]LogInit: XAudio2 using '扬声器 (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.04-11.19.13:653][ 34]LogInit: FAudioDevice initialized.
+[2020.01.04-11.19.13:686][ 34]LogLoad: Game class is 'TestMode_C'
+[2020.01.04-11.19.13:695][ 34]LogWorld: Bringing World /Game/StarterContent/map/UEDPIE_0_cunzhuang.cunzhuang up for play (max tick rate 0) at 2020.01.04-19.19.13
+[2020.01.04-11.19.13:696][ 34]LogWorld: Bringing up level for play took: 0.008361
+[2020.01.04-11.19.13:709][ 34]AnimBlueprintLog: Warning: 插槽节点：动画实例类 ABP_zhujue_C 中已存在 'DefaultSlot’。从此类的动画图表中删除重复项。
+[2020.01.04-11.19.13:710][ 34]PIE: /Game/StarterContent/map/UEDPIE_0_cunzhuang的‘在编辑器中播放’的起始时间-0.345
+[2020.01.04-11.19.13:710][ 34]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-11.20.41:994][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-11.20.42:103][ 61]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-11.20.42:103][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-11.20.42:137][ 61]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.04-11.20.42:138][ 61]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang' with GeneratedClass '/Game/StarterContent/map/cunzhuang.cunzhuang_C' with ClassGeneratedBy '/Game/StarterContent/map/cunzhuang.cunzhuang:PersistentLevel.cunzhuang'
+[2020.01.04-11.20.42:186][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-11.20.42:193][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.01.04-11.20.42:214][ 62]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.01.04-11.20.44:399][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/map/cunzhuang" FILE="F:/我的文档/-/Qinsword/Content/StarterContent/map/cunzhuang.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.04-11.20.44:440][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.01.04-11.20.44:921][211]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/cunzhuangD1EFDF384BFE017B3FF1C88A75B13F6A.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/map/cunzhuang.umap'
+[2020.01.04-11.20.45:080][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/map/cunzhuang_BuiltData" FILE="F:/我的文档/-/Qinsword/Content/StarterContent/map/cunzhuang_BuiltData.uasset" SILENT=true
+[2020.01.04-11.20.45:881][211]LogSavePackage: Moving 'F:/我的文档/-/Qinsword/Saved/cunzhuang_BuiltData9C168E85455A87D45F7F0D8CFCEABF84.tmp' to 'F:/我的文档/-/Qinsword/Content/StarterContent/map/cunzhuang_BuiltData.uasset'
+[2020.01.04-11.20.49:022][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.01.04-11.20.49:137][488]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.01.04-11.20.49:400][488]LogSlate: Window 'ABP_zhujue' being destroyed
+[2020.01.04-11.20.49:540][488]LogSlate: Window 'Content Browser' being destroyed
+[2020.01.04-11.20.49:549][488]LogSlate: Window 'Qinsword - 虚幻编辑器' being destroyed
+[2020.01.04-11.20.49:733][489]Cmd: QUIT_EDITOR
+[2020.01.04-11.20.50:597][489]LogExit: Preparing to exit.
+[2020.01.04-11.20.51:620][489]LogExit: Editor shut down
+[2020.01.04-11.20.51:621][489]LogExit: Transaction tracking system shut down
+[2020.01.04-11.20.51:921][489]LogExit: Object subsystem successfully closed.
+[2020.01.04-11.20.51:945][489]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.01.04-11.20.51:948][489]LogD3D11RHI: Shutdown
+[2020.01.04-11.20.51:948][489]LogD3D11RHI: CleanupD3DDevice
+[2020.01.04-11.20.51:948][489]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.01.04-11.20.51:948][489]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.04-11.20.51:948][489]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.01.04-11.20.51:948][489]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.04-11.20.51:948][489]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.01.04-11.20.51:948][489]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.04-11.20.52:062][489]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.01.04-11.20.52:071][489]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (654)
+[2020.01.04-11.20.52:071][489]LogModuleManager: Shutting down and abandoning module Voice (652)
+[2020.01.04-11.20.52:071][489]LogModuleManager: Shutting down and abandoning module PinnedCommandList (650)
+[2020.01.04-11.20.52:071][489]LogModuleManager: Shutting down and abandoning module SkeletonEditor (648)
+[2020.01.04-11.20.52:074][489]LogModuleManager: Shutting down and abandoning module AnimationEditor (646)
+[2020.01.04-11.20.52:074][489]LogModuleManager: Shutting down and abandoning module BlueprintGraph (644)
+[2020.01.04-11.20.52:074][489]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2020.01.04-11.20.52:074][489]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module SceneOutliner (632)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2020.01.04-11.20.52:075][489]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2020.01.04-11.20.52:076][489]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2020.01.04-11.20.52:076][489]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2020.01.04-11.20.52:076][489]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2020.01.04-11.20.52:076][489]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2020.01.04-11.20.52:076][489]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2020.01.04-11.20.52:076][489]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2020.01.04-11.20.52:076][489]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2020.01.04-11.20.52:076][489]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2020.01.04-11.20.52:076][489]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2020.01.04-11.20.52:076][489]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2020.01.04-11.20.52:316][489]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2020.01.04-11.20.52:316][489]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2020.01.04-11.20.52:316][489]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2020.01.04-11.20.52:316][489]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2020.01.04-11.20.52:316][489]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2020.01.04-11.20.52:316][489]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2020.01.04-11.20.52:316][489]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2020.01.04-11.20.52:316][489]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2020.01.04-11.20.52:316][489]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2020.01.04-11.20.52:316][489]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2020.01.04-11.20.52:316][489]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2020.01.04-11.20.52:316][489]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2020.01.04-11.20.52:316][489]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2020.01.04-11.20.52:316][489]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2020.01.04-11.20.52:316][489]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2020.01.04-11.20.52:316][489]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2020.01.04-11.20.52:316][489]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2020.01.04-11.20.52:316][489]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2020.01.04-11.20.52:316][489]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2020.01.04-11.20.52:316][489]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2020.01.04-11.20.52:316][489]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2020.01.04-11.20.52:316][489]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2020.01.04-11.20.52:316][489]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2020.01.04-11.20.52:359][489]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2020.01.04-11.20.52:359][489]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2020.01.04-11.20.52:359][489]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2020.01.04-11.20.52:359][489]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2020.01.04-11.20.52:359][489]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2020.01.04-11.20.52:359][489]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2020.01.04-11.20.52:359][489]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2020.01.04-11.20.52:359][489]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2020.01.04-11.20.52:359][489]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2020.01.04-11.20.52:359][489]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2020.01.04-11.20.52:359][489]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2020.01.04-11.20.52:367][489]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2020.01.04-11.20.52:367][489]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2020.01.04-11.20.52:368][489]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2020.01.04-11.20.52:368][489]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2020.01.04-11.20.52:368][489]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2020.01.04-11.20.52:368][489]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2020.01.04-11.20.52:368][489]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2020.01.04-11.20.52:368][489]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2020.01.04-11.20.52:368][489]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2020.01.04-11.20.52:368][489]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2020.01.04-11.20.52:368][489]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2020.01.04-11.20.52:368][489]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2020.01.04-11.20.52:368][489]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2020.01.04-11.20.52:368][489]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2020.01.04-11.20.52:368][489]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2020.01.04-11.20.52:368][489]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2020.01.04-11.20.52:368][489]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2020.01.04-11.20.52:368][489]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2020.01.04-11.20.52:368][489]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2020.01.04-11.20.52:368][489]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2020.01.04-11.20.52:368][489]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2020.01.04-11.20.52:368][489]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2020.01.04-11.20.52:368][489]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2020.01.04-11.20.52:368][489]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2020.01.04-11.20.52:371][489]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2020.01.04-11.20.52:407][489]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2020.01.04-11.20.52:407][489]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2020.01.04-11.20.52:407][489]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2020.01.04-11.20.52:407][489]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2020.01.04-11.20.52:407][489]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2020.01.04-11.20.52:407][489]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2020.01.04-11.20.52:407][489]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2020.01.04-11.20.52:407][489]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2020.01.04-11.20.52:407][489]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2020.01.04-11.20.52:407][489]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2020.01.04-11.20.52:407][489]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2020.01.04-11.20.52:407][489]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2020.01.04-11.20.52:407][489]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2020.01.04-11.20.52:407][489]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2020.01.04-11.20.52:407][489]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2020.01.04-11.20.52:407][489]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2020.01.04-11.20.52:407][489]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2020.01.04-11.20.52:407][489]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2020.01.04-11.20.52:407][489]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2020.01.04-11.20.52:407][489]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2020.01.04-11.20.52:407][489]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2020.01.04-11.20.52:407][489]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2020.01.04-11.20.52:407][489]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.01.04-11.20.52:408][489]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.01.04-11.20.52:510][489]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.01.04-11.20.52:610][489]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.01.04-11.20.52:610][489]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.01.04-11.20.52:610][489]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.01.04-11.20.52:610][489]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.01.04-11.20.52:610][489]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.01.04-11.20.52:610][489]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.01.04-11.20.52:610][489]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.01.04-11.20.52:610][489]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.01.04-11.20.52:610][489]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.01.04-11.20.52:610][489]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.01.04-11.20.52:610][489]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.01.04-11.20.52:610][489]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.01.04-11.20.52:610][489]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.01.04-11.20.52:610][489]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.01.04-11.20.52:610][489]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.01.04-11.20.52:610][489]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.01.04-11.20.52:610][489]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.01.04-11.20.52:610][489]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.01.04-11.20.52:611][489]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.01.04-11.20.52:612][489]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.01.04-11.20.52:612][489]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.01.04-11.20.52:612][489]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.01.04-11.20.52:612][489]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.01.04-11.20.52:612][489]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.01.04-11.20.52:612][489]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.01.04-11.20.52:612][489]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.01.04-11.20.52:612][489]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.01.04-11.20.52:612][489]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.01.04-11.20.52:612][489]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.01.04-11.20.52:612][489]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.01.04-11.20.52:612][489]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.01.04-11.20.52:612][489]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.01.04-11.20.52:612][489]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.01.04-11.20.52:612][489]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.01.04-11.20.52:612][489]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.01.04-11.20.52:612][489]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.01.04-11.20.52:612][489]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.01.04-11.20.52:612][489]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.01.04-11.20.52:612][489]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.01.04-11.20.52:612][489]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.01.04-11.20.52:612][489]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.01.04-11.20.52:612][489]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.01.04-11.20.52:612][489]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.01.04-11.20.52:612][489]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.01.04-11.20.52:612][489]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.01.04-11.20.52:612][489]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.01.04-11.20.52:613][489]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.01.04-11.20.52:613][489]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.01.04-11.20.52:613][489]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.01.04-11.20.52:613][489]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.01.04-11.20.52:613][489]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.01.04-11.20.52:613][489]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.01.04-11.20.52:613][489]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.01.04-11.20.52:613][489]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.01.04-11.20.52:613][489]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.01.04-11.20.52:613][489]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.01.04-11.20.52:613][489]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.01.04-11.20.52:613][489]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.01.04-11.20.52:613][489]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.01.04-11.20.52:613][489]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.01.04-11.20.52:613][489]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.01.04-11.20.52:613][489]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.01.04-11.20.52:615][489]LogDerivedDataCache: Shutdown
+[2020.01.04-11.20.52:615][489]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.01.04-11.20.52:615][489]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.01.04-11.20.52:615][489]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.01.04-11.20.52:615][489]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.01.04-11.20.52:615][489]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.01.04-11.20.52:615][489]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.01.04-11.20.52:615][489]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.01.04-11.20.52:615][489]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.01.04-11.20.52:615][489]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.01.04-11.20.52:615][489]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.01.04-11.20.52:615][489]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.01.04-11.20.52:615][489]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.01.04-11.20.52:615][489]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.01.04-11.20.52:615][489]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.01.04-11.20.52:615][489]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.01.04-11.20.52:615][489]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.01.04-11.20.52:615][489]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.01.04-11.20.52:615][489]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.01.04-11.20.52:616][489]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.01.04-11.20.52:616][489]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.01.04-11.20.52:616][489]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.01.04-11.20.52:616][489]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.01.04-11.20.52:616][489]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.01.04-11.20.52:617][489]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.01.04-11.20.52:617][489]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.01.04-11.20.52:617][489]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.01.04-11.20.52:617][489]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.01.04-11.20.52:621][489]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.01.04-11.20.52:621][489]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.01.04-11.20.52:621][489]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.01.04-11.20.52:621][489]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.01.04-11.20.52:621][489]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.01.04-11.20.52:622][489]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.01.04-11.20.52:622][489]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.01.04-11.20.52:622][489]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.01.04-11.20.52:622][489]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.01.04-11.20.52:622][489]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.01.04-11.20.52:622][489]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.01.04-11.20.52:622][489]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.01.04-11.20.52:622][489]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.01.04-11.20.52:622][489]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.01.04-11.20.52:622][489]LogHMD: Freeing OpenVRDLLHandle.
+[2020.01.04-11.20.52:622][489]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.01.04-11.20.52:622][489]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.01.04-11.20.52:622][489]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.01.04-11.20.52:622][489]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.01.04-11.20.52:622][489]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.01.04-11.20.52:623][489]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.01.04-11.20.52:623][489]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.01.04-11.20.52:631][489]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.01.04-11.20.52:631][489]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.01.04-11.20.52:631][489]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE71388D1-4C18-155F-A72D-AC8D45647427%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=c0b0827d4c9cd0309ddf509d56396ec1%7C82e8cb3e97c048c4b74bb8e9c296693f%7C21717669-f933-43ab-b2e9-3e854bde3714&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.01.04-11.20.52:633][489]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.01.04-11.20.52:634][489]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.01.04-11.20.52:635][489]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.01.04-11.20.52:641][489]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.01.04-11.20.52:641][489]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.01.04-11.20.52:642][489]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.01.04-11.20.52:642][489]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.01.04-11.20.52:642][489]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.01.04-11.20.52:642][489]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.01.04-11.20.52:642][489]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.01.04-11.20.52:642][489]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.01.04-11.20.52:642][489]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.01.04-11.20.52:643][489]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.01.04-11.20.52:643][489]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.01.04-11.20.52:643][489]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.01.04-11.20.52:643][489]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.01.04-11.20.52:643][489]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.01.04-11.20.52:643][489]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.01.04-11.20.52:643][489]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.01.04-11.20.52:643][489]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.01.04-11.20.52:643][489]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.01.04-11.20.52:644][489]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.01.04-11.20.52:644][489]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.01.04-11.20.52:644][489]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.01.04-11.20.52:653][489]LogExit: Exiting.
+[2020.01.04-11.20.52:670][489]Log file closed, 01/04/20 19:20:52
